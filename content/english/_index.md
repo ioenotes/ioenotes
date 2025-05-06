@@ -1,51 +1,52 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "Your Ultimate Resource for Engineering in Nepal"
+  content: "Access well-organized notes, syllabus, past papers, and academic resources for all engineering faculties at IOE. Simplify your studies and excel in your exams."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Explore Notes"
+    link: "/notes" # Adjust this link to your main notes page
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "What You'll Find on IOE Notes"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "IOE Notes is designed to be your one-stop academic companion, providing a wealth of resources to support your engineering studies."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "Comprehensive notes for all subjects"
+      - "Organized by faculty, semester, and subject"
+      - "Syllabus and curriculum details"
+      - "Collection of past question papers"
+      - "Easy-to-navigate and mobile-friendly interface"
+      - "**Completely free** for all students"
     button:
       enable: false
-      label: "Get Started Now"
+      label: "Learn More"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "Key Benefits for Your Study Success"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "We focus on providing high-quality, relevant materials to help you learn effectively and achieve your academic goals."
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Save valuable time searching for study materials."
+      - "Enhance your understanding with structured notes."
+      - "Improve exam preparation with past papers."
+      - "Access resources anytime, anywhere."
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Browse Subjects"
+      link: "/subjects" # Adjust this link to your subjects/categories page
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "Why Choose IOE Notes?"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "Dedicated to supporting IOE students, our platform offers reliable and up-to-date resources tailored to your academic needs."
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "Curated content specifically for IOE curriculum."
+      - "User-friendly platform designed for students."
+      - "Regular updates with new notes and resources."
+      - "A community-focused resource (or adapt as needed)."
     button:
       enable: false
       label: ""
