@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Your Ultimate Resource for Engineering in Nepal"
+  title: "Ultimate Resource for Engineering Education in Nepal"
   content: "Access well-organized notes, syllabus, past papers, and academic resources for all engineering faculties at IOE. Simplify your studies and excel in your exams."
   image: "/images/banner.png"
   button:
