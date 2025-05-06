@@ -17,6 +17,11 @@ url = "/elements"
 weight = 3
 
 [[main]]
+name = "Syllabus"
+url = "/syllabus"
+weight = 3
+
+[[main]]
 weight = 4
 name = "Pages"
 

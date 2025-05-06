@@ -2,7 +2,7 @@
 title: "About IOE Notes"
 meta_title: "About IOE Notes - Your Engineering Study Hub"
 description: "Learn about IOE Notes, a dedicated platform providing free academic resources like notes, syllabus, and past papers for Institute of Engineering (IOE) students in Nepal."
-image: "/images/avatar.png"
+image: "/images/about.png"
 draft: false
 ---
 
@@ -20,6 +20,8 @@ Born from a desire to assist fellow students, we believe in free and straightfor
 Whether you need subject notes, exam preparation materials, or curriculum details, IOE Notes is your trusted companion.
 
 We continuously expand our repository and improve usability. Your feedback is welcome as we strive to enhance IOE Notes for the entire student community.
+
+We believe in the power of community and collaboration. If you'd like to contribute to IOE Notes by sharing your notes, past papers, or by helping improve the platform, please visit our [GitHub repository](https://github.com/ioenotes/ioenotes).
 
 Thank you for visiting and being a part of IOE Notes!
 
