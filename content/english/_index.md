@@ -6,8 +6,8 @@ banner:
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Explore Notes"
-    link: "/notes" # Adjust this link to your main notes page
+    label: "Contribute"
+    link: "https://github.com/ioenotes/ioenotes" # Adjust this link to your main notes page
 
 # Features
 features:
@@ -46,7 +46,7 @@ features:
       - "Curated content specifically for IOE curriculum."
       - "User-friendly platform designed for students."
       - "Regular updates with new notes and resources."
-      - "A community-focused resource (or adapt as needed)."
+      - "A community-focused resource, with opportunities for crowdsourcing and contributions."
     button:
       enable: false
       label: ""
