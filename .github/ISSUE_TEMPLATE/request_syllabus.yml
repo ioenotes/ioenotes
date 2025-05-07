@@ -1,0 +1,72 @@
+name: 📚 Request New Syllabus
+description: Request the addition of a new syllabus or an update to an existing one for IOE Notes.
+title: "[Syllabus Request]: "
+labels: ["syllabus", "enhancement", "content"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping us expand the syllabus collection on IOE Notes! Please provide as much detail as possible.
+
+  - type: input
+    id: faculty-name
+    attributes:
+      label: Faculty Name
+      description: "Specify the engineering faculty (e.g., Civil, Computer, Electrical, Mechanical, Electronics & Communication, Architecture, etc.)."
+      placeholder: "e.g., Civil Engineering"
+    validations:
+      required: true
+
+  - type: input
+    id: program-department
+    attributes:
+      label: Program or Department (if applicable)
+      description: "If the faculty has multiple programs or departments, please specify (e.g., for Electronics, it could be BEX, BCT, BEI)."
+      placeholder: "e.g., BEX (Electronics and Communication)"
+    validations:
+      required: false
+
+  - type: input
+    id: year-semester-part
+    attributes:
+      label: Academic Year / Semester / Part
+      description: "Specify the academic level for which the syllabus is needed (e.g., First Year - Part I, Third Semester, etc.)."
+      placeholder: "e.g., Second Year - Part II"
+    validations:
+      required: true
+
+  - type: textarea
+    id: specific-subjects
+    attributes:
+      label: Specific Subjects (if known)
+      description: "If you are looking for the syllabus of specific subjects within that year/semester, please list them."
+      placeholder: "e.g., Theory of Structures, Microprocessors, Engineering Economics"
+    validations:
+      required: false
+
+  - type: input
+    id: syllabus-source
+    attributes:
+      label: Link to Official Syllabus (if available)
+      description: "If you have a link to the official IOE syllabus document or page, please provide it. This helps us greatly!"
+      placeholder: "e.g., URL to IOE website or PDF"
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information or Context
+      description: "Any other details or context that might be helpful (e.g., 'This is the revised syllabus from 2078 batch')."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: check-existing
+    attributes:
+      label: Check Existing Syllabi
+      description: "Please confirm that you've checked our current [Syllabus Page](https://ioenotes.netlify.app/syllabus/) to ensure this syllabus isn't already available or that your request isn't a duplicate."
+      options:
+        - label: "I have checked and this syllabus is missing or needs an update."
+          required: true

@@ -1,30 +1,30 @@
-name: 🐛 Bug Report
-description: Report any issues you encounter to make hugoplate even more efficient.
+name: 🐛 Report an Issue or Suggestion
+description: Report technical bugs, content errors (e.g., in notes, syllabus), or suggest improvements for IOE Notes.
 
 body:
   - type: input
     id: hugo-version
     attributes:
       label: What is your Hugo Extended Version
-      description: Check the [README](https://github.com/zeon-studio/hugoplate?tab=readme-ov-file#user-content-️-prerequisites) for the required version. Use "hugo version" in your terminal to see your Hugo version.
+      description: (Optional) For technical/build issues, please provide your Hugo version. Use "hugo version" in your terminal.
     validations:
-      required: true
+      required: false
 
   - type: input
     id: go-version
     attributes:
       label: What is your Go Version
-      description: Check the [README](https://github.com/zeon-studio/hugoplate?tab=readme-ov-file#user-content-️-prerequisites) for the required version. Use "go version" in your terminal to see your Go version.
+      description: (Optional) For technical/build issues, please provide your Go version. Use "go version" in your terminal.
     validations:
-      required: true
+      required: false
 
   - type: input
     id: node-version
     attributes:
       label: What is your Node.js Version
-      description: Check the [README](https://github.com/zeon-studio/hugoplate?tab=readme-ov-file#user-content-️-prerequisites) for the required version. Use "node -v" in your terminal to see your Node.js version.
+      description: (Optional) For technical/build issues, please provide your Node.js version. Use "node -v" in your terminal.
     validations:
-      required: true
+      required: false
 
   - type: input
     id: operating-system
@@ -37,30 +37,43 @@ body:
     id: make-sure
     attributes:
       label: Check for Existing Issues
-      description: |
-        Before reporting a problem, please confirm that you've searched thoroughly for any existing reports on the same issue. If no relevant issues are found, proceed with the report.
+      description: Before reporting a problem, please confirm that you've searched thoroughly for any existing reports on the same issue for IOE Notes. If no relevant issues are found, proceed with the report.
       options:
         - label: I have searched and found no relevant issues.
           required: true
 
+  - type: input
+    id: affected-content-url
+    attributes:
+      label: URL of Affected Page or Content (if applicable)
+      description: If this issue relates to specific content (e.g., a note, syllabus page, specific section), please provide the direct URL.
+      placeholder: e.g., https://ioenotes.netlify.app/syllabus/civil/year1-part1/
+    validations:
+      required: false
+
   - type: textarea
     id: expected-behavior
     attributes:
-      label: Expected Behavior
-      description: A clear description of what you expected to happen.
+      label: Expected Behavior (for bugs) / Correct Information (for content issues)
+      description: For technical bugs, describe what you expected. For content issues, please provide the correct information or what should be displayed.
     validations:
       required: true
 
   - type: textarea
     id: steps-to-reproduce
     attributes:
-      label: Steps to Reproduce
+      label: Steps to Reproduce (for bugs) / Description of the Issue (for content)
       description: |
-        Please explain the steps required to duplicate this issue. Include detailed commands and expected outcomes.
+        For technical bugs, explain the steps to duplicate the issue.
+        For content issues, please clearly describe the problem. For example, "On the Civil Year 1 Maths syllabus page, the credit hours for 'Calculus' are listed as X, but they should be Y." or "In the 'Thermodynamics' notes for Mechanical Year 2, Chapter 3, there's a typo in the formula for Z."
       placeholder: |
-        1.
-        2.
-        3.
+        For bugs:
+        1. Go to '...'
+        2. Click on '....'
+        3. See error '...'
+
+        For content issues:
+        Describe the error and its location.
     validations:
       required: true
 
@@ -68,7 +81,7 @@ body:
     id: reproduction-url
     attributes:
       label: Code Reproduction URL
-      description: Please reproduce this issue and provide a link to the repository.
+      description: (Optional) For technical bugs, if you can reproduce this issue in a repository, please provide a link.
       placeholder: github.com/yourusername/repo
 
   - type: textarea

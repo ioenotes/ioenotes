@@ -1,0 +1,72 @@
+name: 📝 Request New Notes
+description: Request the addition of new subject notes or an update to existing ones for IOE Notes.
+title: "[Notes Request]: "
+labels: ["notes", "enhancement", "content"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping us expand the notes collection on IOE Notes! Please provide as much detail as possible.
+
+  - type: input
+    id: faculty-name
+    attributes:
+      label: Faculty Name
+      description: "Specify the engineering faculty (e.g., Civil, Computer, Electrical, Mechanical, Electronics & Communication, Architecture, etc.)."
+      placeholder: "e.g., Computer Engineering"
+    validations:
+      required: true
+
+  - type: input
+    id: program-department
+    attributes:
+      label: Program or Department (if applicable)
+      description: "If the faculty has multiple programs or departments, please specify (e.g., for Electronics, it could be BEX, BCT, BEI)."
+      placeholder: "e.g., BCT (Computer Engineering)"
+    validations:
+      required: false
+
+  - type: input
+    id: year-semester-part
+    attributes:
+      label: Academic Year / Semester / Part
+      description: "Specify the academic level for which the notes are needed (e.g., First Year - Part I, Third Semester, etc.)."
+      placeholder: "e.g., Second Year - Part I"
+    validations:
+      required: true
+
+  - type: input
+    id: subject-name
+    attributes:
+      label: Subject Name
+      description: "Clearly state the name of the subject for which notes are requested."
+      placeholder: "e.g., Data Structures and Algorithms"
+    validations:
+      required: true
+
+  - type: textarea
+    id: specific-topics
+    attributes:
+      label: Specific Topics or Chapters (if applicable)
+      description: "If you are looking for notes on specific topics or chapters within the subject, please list them."
+      placeholder: "e.g., Chapter 1: Introduction, Chapter 5: Sorting Algorithms, Linked Lists"
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information or Context
+      description: "Any other details, like preferred note style, specific areas of difficulty, or if you have any source material to suggest."
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: check-existing
+    attributes:
+      label: Check Existing Notes
+      description: "Please confirm that you've checked our current notes section (you might need to navigate by faculty/semester) to ensure these notes aren't already available or that your request isn't a duplicate."
+      options:
+        - label: "I have checked and these notes are missing or need an update."
+          required: true
