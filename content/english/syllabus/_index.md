@@ -11,48 +11,20 @@ Welcome to the IOE Syllabus section of IOE Notes. The syllabus is a crucial docu
 Understanding your syllabus thoroughly will help you plan your studies effectively, understand the scope of each subject, and prepare for examinations.
 
 ### Navigating the Syllabus
-
-Below, you'll find links to the detailed syllabus categorized by engineering faculty and then further by academic year and part/semester. Please select your specific program and academic level to access the relevant curriculum details.
+Below, you'll find links to the detailed syllabus categorized by engineering faculty. Please select your faculty to access the relevant curriculum details.
 
 ### Engineering Faculties
-Below is a list of engineering faculties. Click on your respective faculty to find the syllabus for different academic years and parts.
+Below is a list of engineering faculties. Click on your respective faculty to find its syllabus.
 
-*   **Civil Engineering**
-    *   [First Year - Part I Syllabus](/path/to/civil-year1-part1-syllabus.pdf)
-    *   [First Year - Part I Syllabus](/syllabus/civil/year1-part1/)
-    *   [First Year - Part II Syllabus](/syllabus/civil/year1-part2/)
-    *   [Second Year - Part I Syllabus](/syllabus/civil/year2-part1/)
-    *   [Second Year - Part II Syllabus](/syllabus/civil/year2-part2/)
-    *   *(Continue for all years/parts)*
-
-*   **Computer Engineering**
-    *   [First Year - Part I Syllabus](/syllabus/computer/year1-part1/)
-    *   [First Year - Part II Syllabus](/syllabus/computer/year1-part2/)
-    *   *(Continue for all years/parts)*
-
-*   **Electrical Engineering**
-    *   [First Year - Part I Syllabus](/syllabus/electrical/year1-part1/)
-    *   [First Year - Part II Syllabus](/syllabus/electrical/year1-part2/)
-    *   *(Continue for all years/parts)*
-
-*   **Mechanical Engineering**
-    *   [First Year - Part I Syllabus](/syllabus/mechanical/year1-part1/)
-    *   [First Year - Part II Syllabus](/syllabus/mechanical/year1-part2/)
-    *   *(Continue for all years/parts)*
-
-*   **Electronics, Communication & Information Engineering**
-    *   [First Year - Part I Syllabus](/syllabus/electronics/year1-part1/)
-    *   [First Year - Part II Syllabus](/syllabus/electronics/year1-part2/)
-    *   *(Continue for all years/parts)*
-
-*   **Architecture**
-    *   [First Year - Part I Syllabus](/syllabus/architecture/year1-part1/)
-    *   [First Year - Part II Syllabus](/syllabus/architecture/year1-part2/)
-    *   *(Continue for all years/parts)*
-
+*   [Computer Engineering Syllabus](/syllabus/computer/)
+*   [Civil Engineering Syllabus](/syllabus/civil/)
+*   [Electrical Engineering Syllabus](/syllabus/electrical/)
+*   [Mechanical Engineering Syllabus](/syllabus/mechanical/)
+*   [Electronics, Communication & Information Engineering Syllabus](/syllabus/electronics/)
+*   [Architecture Syllabus](/syllabus/architecture/)
 *   **(Add other faculties as needed: e.g., Agricultural, Industrial, Geomatics, Aerospace, etc.)**
 
-**Note:** The links provided above are placeholders (e.g., `/syllabus/faculty/year-part/`). You will need to update these with the actual URLs to your syllabus pages once they are created.
+**Note:** The links provided above (e.g., `/syllabus/faculty/`) should lead to a page for each faculty. These faculty-specific pages will then contain links to the detailed syllabus for different academic years and parts.
 
 The syllabus documents are typically provided by IOE and are subject to revisions. While we strive to keep this information accurate and up-to-date, we always recommend cross-referencing with official IOE announcements or your department for the most current version.
 

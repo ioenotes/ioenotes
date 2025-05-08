@@ -14,9 +14,9 @@ Below, you will find the curriculum details organized by academic year and part/
 ### BCT Syllabus by Year and Part/Semester
 
 *   **First Year - Part I**
-    *   [BCT First Year - Part I Syllabus](/syllabus/bct/year1-part1/)
+    *   [BCT First Year - Part I Syllabus](/syllabus/computer/year1-part1/)
         - **Subjects:**
-            1. Engineering Mathematics I (SH101)
+            1. [Engineering Mathematics I (SH101)](engineering-mathematics-sh-101/)
             2. Engineering Physics (SH102)
             3. Engineering Chemistry (SH103)
             4. Basic Electrical Engineering (EE101)
@@ -27,7 +27,7 @@ Below, you will find the curriculum details organized by academic year and part/
 The BCT program typically spans four academic years, each divided into two parts (Part I and Part II), which correspond to semesters.
 
 **Placeholder Links:**
-The links provided above (e.g., `/syllabus/bct/year1-part1/`) are placeholders. You will need to update these with the actual URLs to your specific BCT syllabus pages or documents once they are created. Each link should ideally lead to a page detailing the subjects, credit hours, and examination schemes for that particular part/semester.
+The links provided above (e.g., `/syllabus/computer/year1-part1/`) are placeholders. You will need to update these with the actual URLs to your specific BCT syllabus pages or documents once they are created. Each link should ideally lead to a page detailing the subjects, credit hours, and examination schemes for that particular part/semester.
 
 **Accuracy and Updates:**
 We strive to keep this information accurate and up-to-date. The syllabus is subject to revisions by IOE. Always cross-reference with official IOE announcements or your department for the most current version.
