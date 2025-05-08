@@ -5,7 +5,7 @@ description: "Find the latest syllabus for all engineering faculties and semeste
 draft: false
 image: "/images/syllabus.jpg"
 ---
-t
+
 Welcome to the IOE Syllabus section of IOE Notes. The syllabus is a crucial document for every engineering student, outlining the course structure, subjects, credit hours, examination scheme, and often, learning objectives for each program offered by the Institute of Engineering (IOE), Tribhuvan University, Nepal.
 
 Understanding your syllabus thoroughly will help you plan your studies effectively, understand the scope of each subject, and prepare for examinations.
