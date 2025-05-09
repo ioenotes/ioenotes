@@ -15,12 +15,12 @@ Below, you will find the curriculum details organized by academic year and part/
 
 *   [BCT First Year - Part I Syllabus](/syllabus/computer/year1-part1/)
     - **Subjects:**
-        1. [Engineering Mathematics I (SH101)](engineering-mathematics-sh-101/)
-        2. Engineering Physics (SH102)
-        3. Engineering Chemistry (SH103)
-        4. Basic Electrical Engineering (EE101)
-        5. Computer Programming (CT101)
-        6. Engineering Drawing I (ME101)
+        1. [Engineering Mathematics I (SH101)](/syllabus/computer/year1-part1/engineering-mathematics-sh-101)
+        2. [Engineering Physics (SH102)](/syllabus/computer/year1-part1/engineering-physics-sh-102)
+        3. [Computer Programming (CT101)](/syllabus/computer/year1-part1/computer-programming-ct-101)
+        4. [Engineering Drawing (ME101)](/syllabus/computer/year1-part1/engineering-drawing-me-101)
+        5. [Engineering Workshop (ME106)](/syllabus/computer/year1-part1/engineering-workshop-me-106)
+        6. [Fundamentals of Electrical and Electronics Engineering (EX101)](/syllabus/computer/year1-part1/fundamentals-of-electrical-and-electronics-engineering-ex-101)
 
 #### Teaching Schedule & Examination Scheme
 
