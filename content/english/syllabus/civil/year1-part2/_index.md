@@ -30,6 +30,12 @@ This page contains the complete syllabus, teaching schedule, and examination sch
 | CE 153 | Engineering Survey I | 3 | 3 | 1 | 4 | 8 | 40/60 | 50/- | 150 |
 | **Total** | | **17** | **17** | **5** | **12** | **34** | **200/300** | **175/-** | **675** |
 
+- **L**: Lecture hours per week
+- **T**: Tutorial hours per week
+- **P**: Practical hours per week
+- **Assessment**: Internal/continuous assessment marks
+- **Final**: End semester examination marks
+
 **Note:**  
 - The syllabus is subject to change. Please refer to the official IOE website for the most up-to-date information.
 - Practical sessions are mandatory and must be completed to pass the course.

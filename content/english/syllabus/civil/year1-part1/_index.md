@@ -32,6 +32,12 @@ This page contains the complete syllabus, teaching schedule, and examination sch
 | CE 103 | Civil Engineering Materials | 2 | 2 | 0 | 1 | 3 | 20/30 | 25/- | 75 |
 | **Total** | | **20** | **20** | **7** | **9.5** | **36.5** | **240/360** | **150/-** | **750** |
 
+- **L**: Lecture hours per week
+- **T**: Tutorial hours per week
+- **P**: Practical hours per week
+- **Assessment**: Internal/continuous assessment marks
+- **Final**: End semester examination marks
+
 **Note:**  
 - The syllabus is subject to change. Please refer to the official IOE website for the most up-to-date information.
 - Practical sessions are mandatory and must be completed to pass the course.

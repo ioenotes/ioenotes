@@ -32,6 +32,12 @@ This page contains the complete syllabus, teaching schedule, and examination sch
 | ENSH 202 | Numerical Methods | 3 | 3 | 1 | 3 | 7 | 40/60 | 50/- | 150 |
 | **Total** | | **20** | **20** | **8** | **17.5/16.5** | **45.5** | **240/360** | **225/-** | **825** |
 
+- **L**: Lecture hours per week
+- **T**: Tutorial hours per week
+- **P**: Practical hours per week
+- **Assessment**: Internal/continuous assessment marks
+- **Final**: End semester examination marks
+
 **Note:**  
 - The syllabus is subject to change. Please refer to the official IOE website for the most up-to-date information.
 - Practical sessions are mandatory and must be completed to pass the course.

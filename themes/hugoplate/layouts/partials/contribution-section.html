@@ -1,9 +1,8 @@
 {{ $subject := .Title }}
 {{ $filePath := .File.Path }}
 {{ $relativePath := replace $filePath "\\" "/" }}
-{{ $relativePath = replace $relativePath "content/english/syllabus/syllabus/" "" }}
 {{ $relativePath = replace $relativePath "content/english/syllabus/" "" }}
-{{ $githubLink := printf "https://github.com/ioenotes/ioenotes/blob/main/content/english/syllabus/%s" $relativePath }}
+{{ $githubLink := printf "https://github.com/ioenotes/ioenotes/blob/main/content/english/%s" $relativePath }}
 
 <div class="mt-12 p-6 bg-light dark:bg-darkmode-light rounded-lg">
   <h3 class="h4 mb-4">Contributions Welcome</h3>
