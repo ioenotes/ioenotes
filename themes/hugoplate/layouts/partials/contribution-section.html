@@ -1,0 +1,14 @@
+{{ $subject := .Title }}
+{{ $filePath := .File.Path }}
+{{ $relativePath := replace $filePath "\\" "/" }}
+{{ $relativePath = replace $relativePath "content/english/syllabus/" "" }}
+{{ $githubLink := printf "https://github.com/ioenotes/ioenotes/blob/main/content/english/%s" $relativePath }}
+
+<div class="mt-12 p-6 bg-light dark:bg-darkmode-light rounded-lg">
+  <h3 class="h4 mb-4">Contributions Welcome</h3>
+  <p class="mb-4">If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general <a href="https://github.com/ioenotes/ioenotes" class="text-primary dark:text-darkmode-primary !underline decoration-2">contribution page on GitHub</a>. For syllabus-specific updates, you can directly access the <a href="https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus" class="text-primary dark:text-darkmode-primary !underline decoration-2">syllabus content folder</a>.</p>
+  
+  <p>For updates specific to this <strong>{{ $subject }}</strong> page, you can <a href="{{ $githubLink }}" class="text-primary dark:text-darkmode-primary underline">suggest an edit directly on GitHub</a>.</p>
+  
+  <p class="mt-4 text-sm text-text-light dark:text-darkmode-text-light">Your help is invaluable in keeping this resource beneficial for all students!</p>
+</div> 

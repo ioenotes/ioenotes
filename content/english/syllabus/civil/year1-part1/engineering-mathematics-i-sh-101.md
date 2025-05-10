@@ -1,10 +1,10 @@
 ---
-title: "Engineering Mathematics I (SH101) - BCT I/I Syllabus"
-meta_title: "Syllabus: Engineering Mathematics I (SH101) - BCT Year 1 Part 1 | IOE Notes"
-description: "Detailed syllabus for Engineering Mathematics I (SH101), a first year, first part subject in the IOE BCT program."
+title: "Engineering Mathematics I (SH101) - Civil I/I Syllabus"
+meta_title: "Syllabus: Engineering Mathematics I (SH101) - Civil Year 1 Part 1 | IOE Notes"
+description: "Detailed syllabus for Engineering Mathematics I (SH101), a first year, first part subject in the IOE Civil Engineering program."
 draft: false
-image: "/images/syllabus/bct-syllabus.jpg"
-tags: ["BCT", "Computer Engineering"]
+image: "/images/syllabus/civil-syllabus.jpg"
+tags: ["Civil", "Civil Engineering"]
 ---
 
 **Lecture**: 3  
@@ -19,7 +19,7 @@ To equip the students with the essential mathematical skills and techniques that
 
 ---
 
-## 1. Derivatives and Its Applications (10 hours)
+## 1. Derivatives and its Applications (10 hours)
 
 1.1 Review of derivative and differentiability, mean value theorems with interpretations  
 1.2 Indeterminate forms, types and their real life examples, L-Hospital's Rule  
@@ -32,7 +32,7 @@ To equip the students with the essential mathematical skills and techniques that
 
 ---
 
-## 2. Antiderivatives and Its Applications (11 hours)
+## 2. Antiderivatives and its Applications (11 hours)
 
 2.1 Review of definite and indefinite integrals  
 2.2 Differentiation under integral sign  
@@ -43,12 +43,12 @@ To equip the students with the essential mathematical skills and techniques that
 
 ---
 
-## 3. Ordinary Differential Equations and Its Applications (10 hours)
+## 3. Ordinary Differential Equations and its Applications (10 hours)
 
 3.1 Review of: Order, degree, solution of first order first degree differential equations by variable separation method and solution of homogeneous equations  
-3.2 Linear differential equation and equations reducible to linear differential equation of first order; Bernoulli's equation, modeling electric circuit  
+3.2 Linear differential equation and equations reducible to linear differential equation of first order Bernoulli's equation, modeling electric circuit  
 3.3 First order and higher degree differential equations; Clairaut's form  
-3.4 Linear second order differential equations with constant coefficient and variable coefficients reducible to constant coefficients; Cauchy's equations and modeling mass-spring system  
+3.4 Linear second order differential equations with constant coefficient and variable coefficients reducible to constant coefficients, Cauchy's equations and modeling mass spring system  
 3.5 Application in physical sciences and engineering  
 
 ---
@@ -60,7 +60,7 @@ To equip the students with the essential mathematical skills and techniques that
 
 ---
 
-## 5. Three Dimensional Geometry (10 hours)
+## 5. Three dimensional geometry (10 hours)
 
 5.1 The Straight line: symmetrical and general form  
 5.2 Coplanar lines  
@@ -72,21 +72,21 @@ To equip the students with the essential mathematical skills and techniques that
 
 ## Tutorials
 
-Tutorials will be conducted based on the following chapters:
+There shall be related tutorials exercised in class and given as regular homework exercise. Tutorial can be as following for each specified chapters:
 
-- 1. Derivatives and Its Applications  
-- 2. Antiderivatives and Its Applications  
-- 3. Ordinary Differential Equations and Its Applications  
-- 4. Plane Analytic Geometry  
-- 5. Three Dimensional Geometry  
+1. Derivatives and its Applications  
+2. Antiderivatives and its Applications  
+3. Ordinary Differential Equations and its Applications  
+4. Plane Analytic Geometry  
+5. Three dimensional geometry  
 
 ---
 
 ## References
 
-1. Jeffery A. (2001), *Advanced Engineering Mathematics*, 1st ed., Academic Press  
-2. O'Neill, P.V. (2003), *Advanced Engineering Mathematics*, 5th ed., Thomson Learning  
-3. Kreyszig, E. (1993), *Advanced Engineering Mathematics*, 7th ed., John Wiley & Sons  
-4. Sastry, S.S. (2008), *Engineering Mathematics Vol. I and II*, 4th ed., PHI India  
-5. Wylie, C. and Barrett, L. (1995), *Advanced Engineering Mathematics*, 6th ed., McGraw-Hill College  
-6. Thomas, T. and Finny, R. (1984), *Calculus and Analytic Geometry*, 6th ed., Addison-Wesley
+1. Jeffery A., (2001), *Advanced Engineering Mathematics* (1st ed.), Academic Press.  
+2. O'Neill, P.V., (2003), *Advanced Engineering Mathematics* (5th ed.), Thomson Learning.  
+3. Kreyszig, A. (1993), *Advanced engineering Mathematics* (7th ed.), John Wiley & Sons.  
+4. Sastry S.S. (2008), *Engineering Mathematics Volume I and II* (4th ed.). PHI India.  
+5. Wylie C. and Barrett L.(1995), *Advanced Engineering Mathematics* (6th ed.), McGraw-Hill College.  
+6. Thomas, T. and Finny, R. (1984), *Calculus and Analytic Geometry* (6th ed.), Addison-Wesley.  
