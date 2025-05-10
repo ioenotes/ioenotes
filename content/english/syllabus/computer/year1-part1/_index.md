@@ -4,7 +4,6 @@ meta_title: "BCT Syllabus: Year 1 Part 1 - Computer Engineering | IOE, TU"
 description: "Detailed syllabus for the First Year - Part I of the Bachelor of Computer Engineering (BCT) program at the Institute of Engineering (IOE), Tribhuvan University. Includes subjects, teaching schedule, and examination scheme."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg" # Optional: Add a relevant banner categories: ["Application", "Data"]
-author: "John Doe"
 tags: ["BCT", "Computer Engineering"]
 ---
 Welcome to the syllabus section for the Bachelor of Computer Engineering (BCT) program offered by the Institute of Engineering (IOE), Tribhuvan University, Nepal. This program is designed to provide students with a strong foundation in computer hardware, software, networking, and emerging technologies.

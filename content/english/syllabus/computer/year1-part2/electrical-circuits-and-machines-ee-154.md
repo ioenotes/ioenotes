@@ -4,8 +4,7 @@ meta_title: "Syllabus: Electrical Circuits and Machines (EE154) - BCT Year 1 Par
 description: "Detailed syllabus for Electrical Circuits and Machines (EE154), a first year, second part subject in the IOE BCT (Bachelor of Computer Engineering) program. Covers electric circuit theory, analysis techniques, and electric machines."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
-author: "John Doe"
-tags: ["BCT", "Computer Engineering", "tailwind"]
+tags: ["BCT", "Computer Engineering"]
 ---
 
 **Lecture**: 4  
@@ -183,10 +182,3 @@ To develop a comprehensive understanding of electric circuit theory and analysis
 6. A. E. Fitzgerald and C. Kingsley (2017), *Electric Machinery*, New York, McGraw Hill Education, 6th Edition  
 7. S.K Sahdev (2018), *Electrical Machines*, Cambridge University Press  
 8. A. Hussain (2016), *Electrical Machines*, Dhanpat Rai & Co. Publisher, Third Edition
-
----
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!
-
-For updates specific to this Electrical Circuits and Machines (EE154) syllabus page, you can [suggest an edit directly on GitHub](https://github.com/ioenotes/ioenotes/blob/main/content/english/syllabus/computer/year1-part2/electrical-circuits-and-machines-ee-154.md). Your help is invaluable in keeping this resource beneficial for all students! 

@@ -1,11 +1,10 @@
 ---
 title: "Object Oriented Programming (CT151) - BCT I/II Syllabus"
 meta_title: "Syllabus: Object Oriented Programming (CT151) - BCT Year 1 Part 2 | IOE Notes"
-description: "Detailed syllabus for Object Oriented Programming (CT151), a first year, second part subject in the IOE BCT (Bachelor of Computer Engineering) program. Covers C++ programming, OOP concepts, and advanced programming techniques."
+description: "Detailed syllabus for Object Oriented Programming (CT151), a first year, second part subject in the IOE BCT program. Covers OOP concepts, classes, objects, inheritance, and polymorphism."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
-author: "John Doe"
-tags: ["BCT", "Computer Engineering", "tailwind"]
+tags: ["BCT", "Computer Engineering"]
 ---
 
 **Lecture**: 3  
@@ -190,10 +189,3 @@ There will be 9 labs covering all the course. At the end of the course students 
 2. D.S. Baral, D. Baral (2010), *Secrets of Object Oriented Programming in C++*, Bhundipuran Prakasan  
 3. Robert Lafore (2002), *Object Oriented Programming in C++*, 4th Edition, Sams Publication  
 4. H. M. Deitel and P. J. Deitel (2008), *C++ How to Program*, 6th Edition, Pearson Education Inc
-
----
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!
-
-For updates specific to this Object Oriented Programming (CT151) syllabus page, you can [suggest an edit directly on GitHub](https://github.com/ioenotes/ioenotes/blob/main/content/english/syllabus/computer/year1-part2/object-oriented-programming-ct-151.md). Your help is invaluable in keeping this resource beneficial for all students! 

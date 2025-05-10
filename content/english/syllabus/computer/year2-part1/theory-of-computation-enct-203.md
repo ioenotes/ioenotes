@@ -4,8 +4,7 @@ meta_title: "Syllabus: Theory of Computation (ENCT203) - BCT Year 2 Part 1 | IOE
 description: "Detailed syllabus for Theory of Computation (ENCT203), a second year, first part subject in the IOE BCT (Bachelor of Computer Engineering) program. Covers automata theory, formal languages, computational models, and computational complexity."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
-author: "John Doe"
-tags: ["BCT", "Computer Engineering", "tailwind"]
+tags: ["BCT", "Computer Engineering"]
 ---
 
 **Lecture**: 3  
@@ -102,10 +101,3 @@ The objective of this course is to introduce students to the foundational concep
 2. Sipser, M. (2006), *Introduction to the Theory of Computation*, Thomson Course Technology  
 3. Rosen, K. (2006), *Discrete Mathematics and Its Applications*, McGraw-Hill Education  
 4. Aho, A. V. (2003), *Compilers: Principles, Techniques and Tools (for VTU)*, Pearson
-
----
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!
-
-For updates specific to this Theory of Computation (ENCT203) syllabus page, you can [suggest an edit directly on GitHub](https://github.com/ioenotes/ioenotes/blob/main/content/english/syllabus/computer/year2-part1/theory-of-computation-enct-203.md). Your help is invaluable in keeping this resource beneficial for all students! 

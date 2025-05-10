@@ -1,11 +1,11 @@
 ---
 title: "Digital Logic (EX152) - BCT I/II Syllabus"
 meta_title: "Syllabus: Digital Logic (EX152) - BCT Year 1 Part 2 | IOE Notes"
-description: "Detailed syllabus for Digital Logic (EX152), a first year, second part subject in the IOE BCT (Bachelor of Computer Engineering) program. Covers digital circuits, logic gates, Boolean algebra, and digital system design."
+description: "Detailed syllabus for Digital Logic (EX152), a first year, second part subject in the IOE BCT program."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
 author: "John Doe"
-tags: ["BCT", "Computer Engineering", "tailwind"]
+tags: ["BCT", "Computer Engineering"]
 ---
 
 **Lecture**: 3  
@@ -183,10 +183,3 @@ This course mainly focuses on study, analyze basic principle, design and applica
 3. Leach Donald P., Malvino Albert P. and Saha G. (2012), *Digital Principles and Applications*, Tata McGraw-Hill  
 4. Fletcher William I. (1990), *An Engineering Approach to Digital Design*, Printice Hall of India, New Delhi  
 5. Gothmann W. H. (2009), *Digital Electronics: An Introduction to Theory and Practice*, PHI Edition
-
----
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!
-
-For updates specific to this Digital Logic (EX152) syllabus page, you can [suggest an edit directly on GitHub](https://github.com/ioenotes/ioenotes/blob/main/content/english/syllabus/computer/year1-part2/digital-logic-ex-152.md). Your help is invaluable in keeping this resource beneficial for all students! 

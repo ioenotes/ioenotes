@@ -1,10 +1,10 @@
 ---
-title: "Computer Programming (CT101) - BCT I/I Syllabus"
-meta_title: "Syllabus: Computer Programming (CT101) - BCT Year 1 Part 1 | IOE Notes"
-description: "Detailed syllabus for Computer Programming (CT101), a first year, first part subject in the IOE BCT program."
+title: "Computer Programming (CT101) - Civil I/I Syllabus"
+meta_title: "Syllabus: Computer Programming (CT101) - Civil Year 1 Part 1 | IOE Notes"
+description: "Detailed syllabus for Computer Programming (CT101), a first year, first part subject in the IOE Civil Engineering program."
 draft: false
-image: "/images/syllabus/bct-syllabus.jpg"
-tags: ["BCT", "Computer Engineering"]
+image: "/images/syllabus/civil-syllabus.jpg"
+tags: ["Civil", "Civil Engineering"]
 ---
 
 **Lecture**: 3  
@@ -187,4 +187,6 @@ The primary goal of this course is to provide students with a solid foundation i
 
 1. Lafore, R. (2008), *C Programming Using Turbo C++*, SAMS publication  
 2. Balagurusamy, E. (2008), *Programming in Ansi C*, McGraw Hill Education  
-3. Gotterfried, B.S. (2008), *Programming with C*, TMH 
+3. Gotterfried, B.S. (2008), *Programming with C*, TMH  
+
+---

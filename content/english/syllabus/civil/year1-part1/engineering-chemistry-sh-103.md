@@ -1,17 +1,17 @@
 ---
-title: "Engineering Chemistry (SH153) - BCT I/II Syllabus"
-meta_title: "Syllabus: Engineering Chemistry (SH153) - BCT Year 1 Part 2 | IOE Notes"
-description: "Detailed syllabus for Engineering Chemistry (SH153), a first year, second part subject in the IOE BCT program."
+title: "Engineering Chemistry (SH103) - Civil I/I Syllabus"
+meta_title: "Syllabus: Engineering Chemistry (SH103) - Civil Year 1 Part 1 | IOE Notes"
+description: "Detailed syllabus for Engineering Chemistry (SH103), a first year, first part subject in the IOE Civil Engineering program."
 draft: false
-image: "/images/syllabus/bct-syllabus.jpg"
-tags: ["BCT", "Computer Engineering"]
+image: "/images/syllabus/civil-syllabus.jpg"
+tags: ["Civil", "Civil Engineering"]
 ---
 
 **Lecture**: 3  
 **Tutorial**: 1  
 **Practical**: 3  
 **Year**: I  
-**Part**: II  
+**Part**: I  
 
 ## Course Objectives
 
@@ -26,20 +26,21 @@ To develop the basic concepts of physical chemistry, inorganic chemistry, analyt
   - 1.1.2 EMF of galvanic cell, Nernst equation  
   - 1.1.3 Polarization and Overpotential  
   - 1.1.4 Butler-Volmer equation and Tafel plots  
-1.2 Electrode Processes and Mechanisms (qualitative only)  
+1.2 Electrode processes and mechanisms  
   - 1.2.1 Charge transfer processes at electrodes  
   - 1.2.2 Mass transfer and diffusion in electrochemical systems  
 1.3 Industrial and applied electrochemistry  
-  - 1.3.1 Batteries (Lead acid and lithium ion)  
-  - 1.3.2 Solar-photovoltaic cell (with typical examples)  
-1.4 Buffer, Buffer range, Buffer capacity and Buffer solution (Henderson-Hasselbalch equation) and its applications  
+  - 1.3.1 Batteries: Lead acid and lithium ion  
+  - 1.3.2 Solar-photovoltaic cell, fuel cell  
+  - 1.3.3 Corrosion  
+1.4 Buffer, buffer range, buffer capacity and buffer solution and its applications  
 
 ---
 
 ## 2. Catalyst and Catalysis (4 hours)
 
-2.1 Catalyst: Definition and Types (homogeneous and heterogenous)  
-2.2 Catalyst: Design and Optimization  
+2.1 Definition and types  
+2.2 Design and criteria  
   - 2.2.1 Structure-activity relationships  
   - 2.2.2 Selection criteria of catalyst  
 2.3 Photocatalysis and electrocatalysis  
@@ -122,20 +123,7 @@ To develop the basic concepts of physical chemistry, inorganic chemistry, analyt
 
 ---
 
-## Tutorial
-
-1. Introduction to cells, electroplating, EMF, Electric double layer, Problems related to buffer and Nernst equations (3 hours)  
-2. Types of catalyst and types of catalysis (1 hour)  
-3. Electromagnetic radiation, Electromagnetic spectrum, Electromagnetic wave, Principles of Spectroscopy, Types of Molecular Spectra (3 hours)  
-4. Complexes, ligands, postulates, compounds with coordination number 4 and 6, splitting of Octahedral and tetrahedral complexes and Rare earth elements (2 hours)  
-5. Application of Green Chemistry. Industrial waste management (2 hours)  
-6. Application of nanomaterials in pollution minimization (1 hour)  
-7. Introduction and stabilization of Free radicle, Carbocation and Carbanion. Exothermic reaction of cement and its applications (2 hours)  
-8. Introduction of and applications of explosives, lubricants and paints (1 hour)  
-
----
-
-## Practical
+## Laboratory
 
 1. Determine of total, temporary and permanent hardness of water sample using complexometric titration  
 2. Determine the alkalinity of water sample A and B by double indicator titration  
@@ -154,11 +142,12 @@ To develop the basic concepts of physical chemistry, inorganic chemistry, analyt
 
 ## References
 
-1. S.H. Maron and C. Prutton (1992), *Principles of Physical Chemistry*, 4th Edition, Oxford and IBH Pub. Co.  
-2. J.D. Lee (2007), *Concise Inorganic Chemistry*, 5th Edition, John Wiley and sons, Inc.  
-3. R.D. Madan & Satya Prakash (1994), *Inorganic Chemistry*, S. Chand & Company Ltd.  
-4. S. Bahl, G.D. Tuli & A. Bahl (2009), *Essential of Physical Chemistry*, Revised Multicolor Edition, S. Chand & Co. Ltd., New Delhi  
-5. A.K. Bhagi & G.R.T. Morrison & R.N. Boyd (2008), *Organic Chemistry*, 6th and 7th Edition, Prentice – Hall of India Pvt. Ltd.  
-6. R.T. Morrison & R.N. Boyd (2008), *Organic Chemistry*, 6th and 7th Edition, Prentice – Hall of India Pvt. Ltd.  
-7. J. Mendham (2008), *Vogel's Textbook of Quantitative Chemical Analysis*, 6th Edition, Pearson Education  
-8. B.S. Murthy, P. Shankar, Baldev R, B. B. Rath & James Murday (2012), *Textbook of Nanoscience and Nanotechnology*, Series in Metallurgy and Materials Science, Baldev Raj (Ed.), Universities Press Private Hyderabad, India, Chatwal, Environmental Chemistry, Himalaya Publishing House, Mumbai
+1. Maron, S.H. and Prutton, C. (1992), *Principles of Physical Chemistry*, 4th Edition, Oxford and IBH Pub. Co.  
+2. Lee, J.D. (2007), *Concise Inorganic Chemistry*, 5th Edition, John Wiley and sons, Inc.  
+3. Madan, R.D. and Prakash, Satya (1994), *Inorganic Chemistry*, S. Chand & Company Ltd.  
+4. Bahl, S., Tuli, G.D. and Bahl, A. (2009), *Essential of Physical Chemistry*, Revised Multicolor Edition, S. Chand & Co. Ltd., New Delhi  
+5. Bhagi, A.K., Morrison, G.R.T. and Boyd, R.N. (2008), *Organic Chemistry*, 6th and 7th Edition, Prentice – Hall of India Pvt. Ltd.  
+6. Morrison, R.T. and Boyd, R.N. (2008), *Organic Chemistry*, 6th and 7th Edition, Prentice – Hall of India Pvt. Ltd.  
+7. *Vogel's Textbook of Quantitative Chemical Analysis*, 6th Edition, Pearson Education 2008  
+8. Murthy, B.S., Shankar, P., Baldev R., Rath, B.B. and Murday, James (2012), *Textbook of Nanoscience and Nanotechnology*, Series in Metallurgy and Materials Science, Baldev Raj (Ed.), Universities Press Private Hyderabad, India  
+9. Chatwal, *Environmental Chemistry*, Himalaya Publishing House, Mumbai

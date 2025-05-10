@@ -1,11 +1,10 @@
 ---
-title: "II/I IOE BCT (Bachelor of Computer Engineering) Syllabus"
+title: "II/I IOE BCT Syllabus"
 meta_title: "Syllabus: BCT Year 2 Part 1 | IOE Notes"
-description: "Complete syllabus and teaching schedule for Year 2 Part 1 of the IOE BCT (Bachelor of Computer Engineering) program, including course codes, credits, and examination scheme."
+description: "Complete syllabus for BCT Year 2 Part 1 at IOE. Includes detailed course content for all subjects in the second year, first part of the BCT program."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
-author: "John Doe"
-tags: ["BCT", "Computer Engineering", "tailwind"]
+tags: ["BCT", "Computer Engineering"]
 ---
 
 # BCT Year 2 Part 1 Syllabus
@@ -58,4 +57,4 @@ If you find any discrepancies or have updated syllabus documents, please contrib
 ---
 
 **Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students! 
+If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!

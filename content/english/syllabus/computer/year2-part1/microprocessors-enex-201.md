@@ -1,11 +1,10 @@
 ---
 title: "Microprocessors (ENEX201) - BCT II/I Syllabus"
 meta_title: "Syllabus: Microprocessors (ENEX201) - BCT Year 2 Part 1 | IOE Notes"
-description: "Detailed syllabus for Microprocessors (ENEX201), a second year, first part subject in the IOE BCT (Bachelor of Computer Engineering) program. Covers microprocessor architecture, programming, and interfacing techniques."
+description: "Detailed syllabus for Microprocessors (ENEX201), a second year, first part subject in the IOE BCT program. Covers microprocessor architecture, assembly language programming, and interfacing."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
-author: "John Doe"
-tags: ["BCT", "Computer Engineering", "tailwind"]
+tags: ["BCT", "Computer Engineering"]
 ---
 
 **Lecture**: 3  
@@ -167,10 +166,3 @@ Appropriate assignment problems should be given to students after the completion
 2. Abel, P. (2000), *IBM PC Assembly Language and Programming*, 5th edition, Prentice Hall  
 3. Hall, D. V. (1999), *Microprocessors and Interfacing: Programming and Hardware*, 2nd Edition, Tata McGraw Hill  
 4. Stalling, W. (2009), *Computer Organization and Architecture*, Prentice Hall
-
----
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!
-
-For updates specific to this Microprocessors (ENEX201) syllabus page, you can [suggest an edit directly on GitHub](https://github.com/ioenotes/ioenotes/blob/main/content/english/syllabus/computer/year2-part1/microprocessors-enex-201.md). Your help is invaluable in keeping this resource beneficial for all students! 

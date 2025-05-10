@@ -3,8 +3,7 @@ title: "IOE Computer Engineering Syllabus"
 meta_title: "Syllabus: Computer Engineering Programs | IOE Notes"
 description: "Explore the syllabus for Computer Engineering programs at the Institute of Engineering (IOE), Tribhuvan University, Nepal. Find curriculum details for undergraduate and postgraduate studies, including the Bachelor of Computer Engineering (BCT) program."
 draft: false
-image: "/images/syllabus/computer-engineering-banner.jpg" # Consider a more generic Computer Engineering banner
-author: "John Doe"
+image: "/images/syllabus/bct-syllabus.jpg" # Consider a more generic Computer Engineering banner
 tags: ["Computer Engineering", "IOE Syllabus", "BCT", "Engineering Programs"]
 ---
 Welcome to the Computer Engineering syllabus section for the Institute of Engineering (IOE), Tribhuvan University, Nepal. The field of Computer Engineering integrates electrical engineering and computer science to develop computer hardware and software. Our programs are designed to equip students with comprehensive knowledge and practical skills in this dynamic field.

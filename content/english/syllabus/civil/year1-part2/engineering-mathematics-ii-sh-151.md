@@ -1,14 +1,14 @@
 ---
-title: "Engineering Mathematics II (SH151) - BCT I/II Syllabus"
-meta_title: "Syllabus: Engineering Mathematics II (SH151) - BCT Year 1 Part 2 | IOE Notes"
-description: "Detailed syllabus for Engineering Mathematics II (SH151), a first year, second part subject in the IOE BCT program."
+title: "Engineering Mathematics II (SH151) - Civil I/II Syllabus"
+meta_title: "Syllabus: Engineering Mathematics II (SH151) - Civil Year 1 Part 2 | IOE Notes"
+description: "Detailed syllabus for Engineering Mathematics II (SH151), a first year, second part subject in the IOE Civil Engineering program."
 draft: false
-image: "/images/syllabus/bct-syllabus.jpg"
-tags: ["BCT", "Computer Engineering"]
+image: "/images/syllabus/civil-syllabus.jpg"
+tags: ["Civil", "Civil Engineering"]
 ---
 
 **Lecture**: 3  
-**Tutorial**: 2  
+**Tutorial**: 1  
 **Practical**: 0  
 **Year**: I  
 **Part**: II  
@@ -27,7 +27,7 @@ After completion of the course students will be able to apply knowledge of parti
   - 1.1.3 Total derivatives and differentials, differentiation of composite and implicit functions  
   - 1.1.4 Jacobians and their properties  
   - 1.1.5 Extreme values of two and three variables. Lagrange's multiplier  
-  - 1.1.6 Application in optimization of function of two variables in one constraint  
+  - 1.1.6 Application in optimization of function of two variables in one Constraint  
 
 ---
 
@@ -47,7 +47,7 @@ After completion of the course students will be able to apply knowledge of parti
 3.4 Line integrals, independent of path, conservative and irrotational vector fields, scalar potential  
 3.5 Introduction to Green's theorem and its application  
 3.6 Surface integrals, calculation of Flux  
-3.7 Volume integrals, Gauss Divergence theorem (without proof) and its application in evaluation of surface integrals  
+3.7 Volume integrals, Gauss Divergence theorem(without proof) and its application in evaluation of surface integrals  
 3.8 Introduction to Stoke's theorem and its application  
 
 ---
@@ -56,7 +56,7 @@ After completion of the course students will be able to apply knowledge of parti
 
 4.1 Definition of Laplace transform, condition for existence, Laplace transforms of some elementary functions, properties of Laplace transform, shifting and change of scale properties  
 4.2 Inverse Laplace transform, uniqueness of inverse Laplace transform, properties of inverse Laplace transform  
-4.3 Laplace transform of derivatives and integral, multiplication and division by t^n, the convolution theorem  
+4.3 Laplace transform of derivatives and integral, multiplication by tn and division by t, the convolution theorem  
 4.4 Laplace transform of Heaviside's unit function, Dirac-delta function and periodic functions  
 4.5 Application of Laplace transform to ordinary differential equations  
 
@@ -110,9 +110,9 @@ There shall be related tutorials exercised in class and given as regular homewor
 
 ## References
 
-1. Jeffery A. (2002), *Advanced Engineering Mathematics*, Academic Press  
-2. O'Neill, P.V. (1983), *Advanced Engineering Mathematics*, Wadsworth Publishing Company  
-3. Kreyszig, A. (2010), *Advanced Engineering Mathematics*, John Wiley & Sons  
-4. Sastry S.S. (2008), *Engineering Mathematics vol I and II*, PHI Learning Private Limited, New Delhi  
-5. Wylie C., Barrett L. (1995), *Advanced Engineering Mathematics*, McGraw Hill  
-6. Dutta, Debashis (2005), *Engineering Mathematics Vol I and II*, New Age International (p) Limited
+1. Jeffery A., (2002). *Advanced Engineering Mathematics*, Academic Press.  
+2. O'Neill, P.V., (1983). *Advanced Engineering Mathematics*, Wadsworth Publishing Company.  
+3. Kreyszig, A., (2010). *Advanced engineering Mathematics*, John Wiley & Sons.  
+4. Sastry S.S., (2008). *Engineering Mathematics vol I and II*, PHI Learning Private Limited, New Delhi.  
+5. Wylie C., Barrett L.(1995). *Advanced Engineering Mathematics*, McGraw-Hill.  
+6. Dutta, Debashis, (2005). *Engineering Mathematics Vol I and II*, New Age International (p) Limited.  

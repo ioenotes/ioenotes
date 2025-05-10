@@ -1,11 +1,10 @@
 ---
 title: "Electronic Devices and Circuits (EX151) - BCT I/II Syllabus"
 meta_title: "Syllabus: Electronic Devices and Circuits (EX151) - BCT Year 1 Part 2 | IOE Notes"
-description: "Detailed syllabus for Electronic Devices and Circuits (EX151), a first year, second part subject in the IOE BCT (Bachelor of Computer Engineering) program. Covers semiconductor devices, transistors, operational amplifiers, and power supplies."
+description: "Detailed syllabus for Electronic Devices and Circuits (EX151), a first year, second part subject in the IOE BCT program."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
-author: "John Doe"
-tags: ["BCT", "Computer Engineering", "tailwind"]
+tags: ["BCT", "Computer Engineering"]
 ---
 
 **Lecture**: 3  
@@ -128,10 +127,3 @@ The questions will cover all the chapters in the syllabus. The evaluation scheme
 3. Thomas L. Floyd, (2007) "Electronic Devices", 8th Edition, Pearson Education Inc.  
 4. Jacob Millman, C. Halkias, C.D Parikh, (2010). "Integrated Electronics" 2nd Edition McGraw Hill Education P. Ltd.  
 5. David A. Bell, (2010). "Electronic Devices and Circuits", 5th Edition, Oxford Press.  
-
----
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!
-
-For updates specific to this Electronic Devices and Circuits (EX151) syllabus page, you can [suggest an edit directly on GitHub](https://github.com/ioenotes/ioenotes/blob/main/content/english/syllabus/computer/year1-part2/electronic-devices-and-circuits-ex-151.md). Your help is invaluable in keeping this resource beneficial for all students! 

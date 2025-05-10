@@ -1,17 +1,17 @@
 ---
-title: "Engineering Physics (SH102) - BCT I/I Syllabus"
-meta_title: "Syllabus: Engineering Physics (SH102) - BCT Year 1 Part 1 | IOE Notes"
-description: "Detailed syllabus for Engineering Physics (SH102), a first year, first part subject in the IOE BCT program."
+title: "Engineering Physics (SH152) - Civil I/II Syllabus"
+meta_title: "Syllabus: Engineering Physics (SH152) - Civil Year 1 Part 2 | IOE Notes"
+description: "Detailed syllabus for Engineering Physics (SH152), a first year, second part subject in the IOE Civil Engineering program."
 draft: false
-image: "/images/syllabus/bct-syllabus.jpg"
-tags: ["BCT", "Computer Engineering"]
+image: "/images/syllabus/civil-syllabus.jpg"
+tags: ["Civil", "Civil Engineering"]
 ---
 
 **Lecture**: 4  
 **Tutorial**: 1  
 **Practical**: 2  
 **Year**: I  
-**Part**: I  
+**Part**: II  
 
 ## Course Objectives
 
@@ -182,7 +182,66 @@ To provide students a concept and sound knowledge of physics with the emphasis i
 
 ---
 
-## Laboratory
+## Tutorial
+
+There shall be related tutorials exercises in class and given as regular homework exercise. Tutorial can be as following for each specified chapters:
+
+1. Oscillation (2 hours)  
+   - Physical pendulum related numerical, torsional pendulum: determination of moment of inertial and modulus of rigidity  
+   - Minimum time period and interchangeability of point of suspension and point of oscillation in bar pendulum  
+   - Damped harmonic motion: amplitude and energy related problems, energy loss and quality factor related problems  
+   - Force harmonic motion: Amplitude and resonance frequency related problems  
+
+2. Acoustics (1 hour)  
+   - Reverberation time calculation by using Sabine's relation  
+   - Absorption coefficient, total absorbing power calculation  
+   - Intensity level related problems  
+
+3. Heat and Thermodynamics (2 hours)  
+   - Calculation of Calorific value, Einstein's law related problems  
+   - Maxwell's equipartition of energy related problems for mono, dia and triatomic molecule  
+   - Calculation of critical constants, phase transition related problems  
+   - Newton's law of cooling related problems  
+   - Change in entropy related problems  
+   - Fourier's law of thermal conductivity related problems  
+
+4. Optics (4 hours)  
+   - Combination of lens related problems for calculation of equivalent focal length, principal points, position of image  
+   - Achromatism related problems (for separation and joined cases)  
+   - Interference: interference in thin films, wedge shaped and Newton's rings related problems  
+   - Diffraction: Intensity distribution from single slit related and diffraction grating related numerical  
+   - Polarization: Specific rotation, wave plates (quarter and half) related problems  
+   - Optical fiber: Refractive index for core and cladding, Numerical aperature and acceptance angle calculation  
+
+5. Electrostatics (3 hours)  
+   - Electric dipole related problems for electric field and potential  
+   - Electric dipole in an external electric field related problem  
+   - Electric quadrupole related numerical  
+   - Problems related to charged ring and disc for both electric field and electric potential  
+   - Calculation of numerical value of cylindrical capacitor  
+   - Determination of electric field, displacement vector and polarization vector in case of dielectric in a capacitor  
+
+6. Electromagnetism (1 hour)  
+   - Determination of self-induction of solenoid and toroid  
+   - Rise and decay related problems in LR circuit  
+   - Displacement current related numerical  
+   - Time period and maximum energy for an charged particle in cyclotron related problems  
+
+7. Electromagnetic Waves (1 hour)  
+   - Prove that velocity of electromagnetic wave is equal to velocity of light in free space  
+   - Intensity of electromagnetic waves related problems  
+   - Determination of maximum value of electric and magnetic fields due to electromagnetic wave  
+   - Radiation pressure related problems  
+
+8. Photon and Matter waves (1 hour)  
+   - De-Broglie wavelength related problems  
+   - Heisenberg's uncertainty related numerical  
+   - Energy states calculation for infinite potential well  
+   - Transmission coefficient related numerical in finite potential barrier  
+
+---
+
+## Practical
 
 1. To determine the acceleration due to gravity and radius of gyration of the given metal bar using bar pendulum  
 2. To determine the modulus of elasticity of the given material and moment of inertia of the circular disc about the wire as an axis passing through its center and perpendicular to its plane by using torsional Pendulum  
@@ -202,8 +261,11 @@ To provide students a concept and sound knowledge of physics with the emphasis i
 
 ## References
 
-1. Halliday, D., Resnick, R., & Walker, J. (2014), *Fundamentals of Physics*, 10th ed., Wiley  
-2. Serway, R.A. & Jewett, J.W. (2018), *Physics for Scientists and Engineers*, 10th ed., Cengage Learning  
-3. Young, H.D. & Freedman, R.A. (2016), *University Physics with Modern Physics*, 14th ed., Pearson  
-4. Tipler, P.A. & Mosca, G. (2008), *Physics for Scientists and Engineers*, 6th ed., W.H. Freeman  
-5. Giancoli, D.C. (2014), *Physics: Principles with Applications*, 7th ed., Pearson
+1. Halliday, Resnick, Walker, (2016). *Engineering Physics*, John Wiley & Sons. Inc.  
+2. Pokharel, Bhattarai, and Paudel (2024). *Fundamentals of Engineering Physics*, Benchmark Publication.  
+3. Brij Lal and Subrahmanyam, (2001). *A text book of Optics*, S. Chand Publisher.  
+4. Basudeva, A.S. (2016). *Modern Engineering Physics*, S. Chand Publisher.  
+5. Caur R. K. and Gupta, S. L., (1993). *Engineering Physics*, Dhanpat Publisher.  
+6. Brij Lal and Subrahmanyam, (1985). *Waves and Oscillation*, S. Chand publisher.  
+7. Brij Lal and Subrahmanyam, (2001). *Heat and Thermodynamics*, S. Chand publisher.  
+8. Avadhanulu, Kshirsaga and Arun Murthy, (2018). *A text Book of Engineering Physics*, S. Chand publisher.  

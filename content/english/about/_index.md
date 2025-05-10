@@ -25,4 +25,4 @@ We believe in the power of community and collaboration. If you'd like to contrib
 
 Thank you for visiting and being a part of IOE Notes!
 
-*(Optional: You can add a section here about who is behind the site, e.g., "This site is maintained by a group of passionate IOE alumni/students who believe in sharing knowledge.")*
+<!-- *(Optional: You can add a section here about who is behind the site, e.g., "This site is maintained by a group of passionate IOE alumni/students who believe in sharing knowledge.")* -->

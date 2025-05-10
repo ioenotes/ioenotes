@@ -1,11 +1,10 @@
 ---
 title: "Fundamentals of Electrical and Electronics Engineering (EX101) - BCT I/I Syllabus"
 meta_title: "Syllabus: Fundamentals of Electrical and Electronics Engineering (EX101) - BCT Year 1 Part 1 | IOE Notes"
-description: "Detailed syllabus for Fundamentals of Electrical and Electronics Engineering (EX101), a first year, first part subject in the IOE BCT (Bachelor of Computer Engineering) program. Covers basic circuits, AC/DC analysis, diodes, transistors, and operational amplifiers."
+description: "Detailed syllabus for Fundamentals of Electrical and Electronics Engineering (EX101), a first year, first part subject in the IOE BCT program. Covers basic electrical and electronics concepts."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
-author: "John Doe"
-tags: ["BCT", "Computer Engineering", "tailwind"]
+tags: ["BCT", "Computer Engineering"]
 ---
 
 **Lecture**: 3  
@@ -105,10 +104,3 @@ Objective of the course is to understand the language of electronics, elements, 
 3. Floyd, T.L. (2008), *Digital Fundamentals*, 9th ed., Pearson  
 4. Boylestad, R.L. and Nashelsky, L. (2008), *Electronic Devices and Circuit Theory*, 10th ed., Pearson  
 5. Nilsson, J.W. and Riedel, S.A. (2008), *Electric Circuits*, 8th ed., Pearson
-
----
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!
-
-For updates specific to this Fundamentals of Electrical and Electronics Engineering (EX101) syllabus page, you can [suggest an edit directly on GitHub](https://github.com/ioenotes/ioenotes/blob/main/content/english/syllabus/computer/year1-part1/fundamentals-of-electrical-and-electronics-engineering-ex-101.md). Your help is invaluable in keeping this resource beneficial for all students! 

@@ -1,11 +1,10 @@
 ---
 title: "Engineering Workshop (ME106) - BCT I/I Syllabus"
 meta_title: "Syllabus: Engineering Workshop (ME106) - BCT Year 1 Part 1 | IOE Notes"
-description: "Detailed syllabus for Engineering Workshop (ME106), a first year, first part subject in the IOE BCT (Bachelor of Computer Engineering) program. Covers workshop safety, bench work, machine tools, and various manufacturing processes."
+description: "Detailed syllabus for Engineering Workshop (ME106), a first year, first part subject in the IOE BCT program. Covers workshop safety, bench work, machine tools, and various manufacturing processes."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
-author: "John Doe"
-tags: ["BCT", "Computer Engineering", "tailwind"]
+tags: ["BCT", "Computer Engineering"]
 ---
 
 **Lecture**: 1  
@@ -99,10 +98,3 @@ After completing this course, the students will be able to practice workshop saf
 3. Kalpakjian, S. and Schmid, S.R. (2008), *Manufacturing Processes for Engineering Materials*, 5th ed., Prentice Hall  
 4. DeGarmo, E.P., Black, J.T., and Kohser, R.A. (2008), *Materials and Processes in Manufacturing*, 10th ed., Wiley  
 5. Amstead, B.H., Ostwald, P.F., and Begeman, M.L. (2008), *Manufacturing Processes*, 8th ed., Wiley
-
----
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!
-
-For updates specific to this Engineering Workshop (ME106) syllabus page, you can [suggest an edit directly on GitHub](https://github.com/ioenotes/ioenotes/blob/main/content/english/syllabus/computer/year1-part1/engineering-workshop-me-106.md). Your help is invaluable in keeping this resource beneficial for all students! 

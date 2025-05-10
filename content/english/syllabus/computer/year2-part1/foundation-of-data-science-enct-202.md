@@ -4,8 +4,7 @@ meta_title: "Syllabus: Foundation of Data Science (ENCT202) - BCT Year 2 Part 1 
 description: "Detailed syllabus for Foundation of Data Science (ENCT202), a second year, first part subject in the IOE BCT (Bachelor of Computer Engineering) program. Covers data science concepts, tools, methodologies, and applications."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
-author: "John Doe"
-tags: ["BCT", "Computer Engineering", "tailwind"]
+tags: ["BCT", "Computer Engineering"]
 ---
 
 **Lecture**: 3  
@@ -151,10 +150,3 @@ The questions will cover all the chapters in the syllabus. The evaluation scheme
 4. Bruce, P., Bruce, A. (2017). Practical Statistics for Data Scientists: 50 Essential Concepts. United States: O'Reilly Media.  
 5. VanderPlas, J. (2016). Python Data Science Handbook: Essential Tools for Working with Data. United States: O'Reilly Media.  
 6. Provost, F., Fawcett, T. (2013). Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking. United States: O'Reilly Media.  
-
----
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!
-
-For updates specific to this Foundation of Data Science (ENCT202) syllabus page, you can [suggest an edit directly on GitHub](https://github.com/ioenotes/ioenotes/blob/main/content/english/syllabus/computer/year2-part1/foundation-of-data-science-enct-202.md). Your help is invaluable in keeping this resource beneficial for all students! 

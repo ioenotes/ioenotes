@@ -5,7 +5,7 @@ description: "Detailed syllabus for Communication English (ENSH204), a second ye
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
 author: "John Doe"
-tags: ["BCT", "Computer Engineering", "tailwind"]
+tags: ["BCT", "Computer Engineering"]
 ---
 
 **Lecture**: 3  
@@ -131,10 +131,3 @@ The general objective of this course is to focus on English as a communication t
 11. Katz, M. J. (2009), *From research to manuscript: A guide to scientific writing*, 2nd edition, Springer  
 12. Swales, J. M., Feak, C. B. (2012), *Academic writing for graduate students: Essential tasks and skills*, 3rd edition, University of Michigan Press  
 13. Hofmann, A. H. (2014), *Scientific writing and communication: Papers, proposals, and presentations*, 2nd edition, Oxford University Press  
-
----
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!
-
-For updates specific to this Communication English (ENSH204) syllabus page, you can [suggest an edit directly on GitHub](https://github.com/ioenotes/ioenotes/blob/main/content/english/syllabus/computer/year2-part1/communication-english-ensh-204.md). Your help is invaluable in keeping this resource beneficial for all students! 
