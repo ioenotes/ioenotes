@@ -41,15 +41,4 @@ Below, you will find the curriculum details organized by academic year and part/
 ---
 
 **Note on Syllabus Structure:**
-The BEI program typically spans four academic years, each divided into two parts (Part I and Part II), which correspond to semesters.
-
-**Placeholder Links:**
-The links provided above (e.g., `/syllabus/electronics/year1-part2/`) are placeholders. You will need to update these with the actual URLs to your specific BEI syllabus pages or documents once they are created. Each link should ideally lead to a page detailing the subjects, credit hours, and examination schemes for that particular part/semester.
-
-**Accuracy and Updates:**
-We strive to keep this information accurate and up-to-date. The syllabus is subject to revisions by IOE. Always cross-reference with official IOE announcements or your department for the most current version.
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!
-
-For updates specific to this BEI Year I, Part II Syllabus page, you can [suggest an edit directly on GitHub](https://github.com/ioenotes/ioenotes/blob/main/themes/hugoplate/content/english/syllabus/electronics/year1-part2/_index.md).
+The BEI program spans four academic years, each divided into two parts (Part I and Part II), which correspond to semesters.

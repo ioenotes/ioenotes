@@ -18,17 +18,6 @@ Please select the respective year and part to view or download the detailed syll
 *   [BCT First Year - Part II Syllabus](/syllabus/computer/year1-part2/)
 *   [BCT Second Year - Part I Syllabus](/syllabus/computer/year2-part1/)
 *   [BCT Second Year - Part II Syllabus](/syllabus/computer/year2-part2/)
-*   [BCT Third Year - Part I Syllabus](/syllabus/computer/year3-part1/)
-*   [BCT Third Year - Part I Syllabus](/syllabus/computer/year3-part1/)
-*   [BCT Third Year - Part II Syllabus](/syllabus/computer/year3-part2/)
-*   [BCT Fourth Year - Part I Syllabus](/syllabus/computer/year4-part1/)
-*   [BCT Fourth Year - Part II Syllabus](/syllabus/computer/year4-part2/)
 
 **Note on Syllabus Structure:**
 Engineering programs at IOE, including BCT, typically span multiple academic years, each divided into two parts (Part I and Part II), corresponding to semesters. Each link above should lead to a page detailing the subjects for that specific year and part of the BCT program.
-
-**Accuracy and Updates:**
-We strive to keep this information accurate and up-to-date. The syllabus is subject to revisions by IOE. Always cross-reference with official IOE announcements or your department for the most current version.
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute, please visit our general contribution page on GitHub. For syllabus-specific updates, you can directly access the syllabus content folder. Your help is invaluable in keeping this resource beneficial for all students!

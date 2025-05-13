@@ -1,8 +1,12 @@
 ---
-title: "Fundamental of Electrical and Electronics Engineering (EX101) - BEI I/I Syllabus"
+title: "Fundamental of Electrical and Electronics Engineering - BEI I/I Syllabus"
+meta_title: "Syllabus: Fundamental of Electrical and Electronics Engineering (EX101) - BEI Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Fundamental of Electrical and Electronics Engineering (EX101), a first year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics Engineering"]
+subject: "Fundamental of Electrical and Electronics Engineering"
+subject_code: "EX101"
 ---
 
 **Lecture**: 3  

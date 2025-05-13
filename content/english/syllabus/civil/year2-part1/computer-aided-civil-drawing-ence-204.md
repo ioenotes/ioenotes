@@ -1,10 +1,12 @@
 ---
-title: "Computer Aided Civil Drawing (ENCE 204) - Civil II/I Syllabus"
+title: "Computer Aided Civil Drawing - Civil II/I Syllabus"
 meta_title: "Syllabus: Computer Aided Civil Drawing (ENCE 204) - Civil Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Computer Aided Civil Drawing (ENCE 204), a second year, first part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering", "CAD"]
+subject: "Computer Aided Civil Drawing"
+subject_code: "ENCE 204"
 ---
 
 **Lecture**: 2 hours  

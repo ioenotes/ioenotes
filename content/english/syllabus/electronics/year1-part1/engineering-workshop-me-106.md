@@ -1,8 +1,12 @@
 ---
-title: "Engineering Workshop (ME106) - BEI I/I Syllabus"
+title: "Engineering Workshop - BEI I/I Syllabus"
+meta_title: "Syllabus: Engineering Workshop (ME106) - BEI Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Engineering Workshop (ME106), a first year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics Engineering"]
+subject: "Engineering Workshop"
+subject_code: "ME106"
 ---
 
 **Lecture**: 1  

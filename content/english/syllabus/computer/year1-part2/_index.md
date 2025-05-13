@@ -48,20 +48,3 @@ This page contains the complete syllabus for the Bachelor of Computer Engineerin
 1. Each subject has its own detailed syllabus page with complete course content, practical exercises, and references.
 2. The teaching schedule may vary slightly depending on the college and academic calendar.
 3. Students are advised to check with their respective departments for any updates or changes to the syllabus.
-
-## Contribution Guidelines
-
-We welcome contributions to improve the syllabus content. If you find any discrepancies or have suggestions for improvement, please:
-
-1. Visit our [contribution page on GitHub](https://github.com/ioenotes/ioenotes)
-2. Check the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus)
-3. Submit your changes through a pull request
-
-Your contributions help maintain the accuracy and relevance of this resource for all students.
-
----
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!
-
-For updates specific to this index page, you can [suggest an edit directly on GitHub](https://github.com/ioenotes/ioenotes/blob/main/content/english/syllabus/computer/year1-part2/_index.md). Your help is invaluable in keeping this resource beneficial for all students!

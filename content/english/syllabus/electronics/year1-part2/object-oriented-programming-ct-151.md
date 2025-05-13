@@ -1,8 +1,12 @@
 ---
-title: "Object Oriented Programming (CT 151) - BEI I/II Syllabus"
+title: "Object Oriented Programming - BEI I/II Syllabus"
+meta_title: "Syllabus: Object Oriented Programming (CT 151) - BEI Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Object Oriented Programming (CT 151), a first year, second part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics Engineering"]
+subject: "Object Oriented Programming"
+subject_code: "CT 151"
 ---
 
 **Lecture**: 3  

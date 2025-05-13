@@ -1,10 +1,12 @@
 ---
-title: "Basic Electrical and Electronics Engineering (EE103) - Civil I/I Syllabus"
+title: "Basic Electrical and Electronics Engineering - Civil I/I Syllabus"
 meta_title: "Syllabus: Basic Electrical and Electronics Engineering (EE103) - Civil Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Basic Electrical and Electronics Engineering (EE103), a first year, first part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
+subject: "Basic Electrical and Electronics Engineering"
+subject_code: "EE103"
 ---
 
 **Lecture**: 3  

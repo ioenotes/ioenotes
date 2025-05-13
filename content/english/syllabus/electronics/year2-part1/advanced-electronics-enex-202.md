@@ -1,8 +1,12 @@
 ---
-title: "Advanced Electronics (ENEX 202) - BEI II/I Syllabus"
+title: "Advanced Electronics - BEI II/I Syllabus"
+meta_title: "Syllabus: Advanced Electronics (ENEX 202) - BEI Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Advanced Electronics (ENEX 202), a second year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics Engineering"]
+subject: "Advanced Electronics"
+subject_code: "ENEX 202"
 ---
 
 **Lecture**: 3  

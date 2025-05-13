@@ -1,10 +1,12 @@
 ---
-title: "Civil Engineering Materials (CE103) - Civil I/I Syllabus"
+title: "Civil Engineering Materials - Civil I/I Syllabus"
 meta_title: "Syllabus: Civil Engineering Materials (CE103) - Civil Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Civil Engineering Materials (CE103), a first year, first part subject in the IOE Civil Engineering program. Covers construction materials, their properties, testing methods, and applications."
 draft: false
-image: "/images/syllabus/bct-syllabus.jpg"
+image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Engineering", "Materials"]
+subject: "Civil Engineering Materials"
+subject_code: "CE103"
 ---
 
 **Lecture**: 2  

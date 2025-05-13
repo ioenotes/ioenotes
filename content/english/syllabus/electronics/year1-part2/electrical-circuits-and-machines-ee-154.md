@@ -1,8 +1,12 @@
 ---
-title: "Electrical Circuits and Machines (EE154) - BEI I/II Syllabus"
+title: "Electrical Circuits and Machines - BEI I/II Syllabus"
+meta_title: "Syllabus: Electrical Circuits and Machines (EE154) - BEI Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Electrical Circuits and Machines (EE154), a first year, second part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics Engineering"]
+subject: "Electrical Circuits and Machines"
+subject_code: "EE154"
 ---
 
 **Lecture**: 4  

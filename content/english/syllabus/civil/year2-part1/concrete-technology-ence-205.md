@@ -1,10 +1,12 @@
 ---
-title: "Concrete Technology (ENCE 205) - Civil II/I Syllabus"
+title: "Concrete Technology - Civil II/I Syllabus"
 meta_title: "Syllabus: Concrete Technology (ENCE 205) - Civil Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Concrete Technology (ENCE 205), a second year, first part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering", "Concrete"]
+subject: "Concrete Technology"
+subject_code: "ENCE 205"
 ---
 
 **Lecture**: 2 hours  

@@ -1,10 +1,12 @@
 ---
-title: "Engineering Drawing (ME158) - Civil I/II Syllabus"
-meta_title: "Syllabus: Engineering Drawing (ME101) - Civil Year 1 Part 2 | IOE Notes"
-description: "Detailed syllabus for Engineering Drawing (ME101), a first year, second part subject in the IOE Civil Engineering program."
+title: "Engineering Drawing - Civil I/II Syllabus"
+meta_title: "Syllabus: Engineering Drawing (ME158) - Civil Year 1 Part 2 | IOE Notes"
+description: "Detailed syllabus for Engineering Drawing (ME158), a first year, second part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
+subject: "Engineering Drawing"
+subject_code: "ME158"
 ---
 
 **Lecture**: 2  

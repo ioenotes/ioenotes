@@ -1,10 +1,12 @@
 ---
-title: "Engineering Survey II (ENCE 203) - Civil II/I Syllabus"
+title: "Engineering Survey II - Civil II/I Syllabus"
 meta_title: "Syllabus: Engineering Survey II (ENCE 203) - Civil Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Engineering Survey II (ENCE 203), a second year, first part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering", "Surveying"]
+subject: "Engineering Survey II"
+subject_code: "ENCE 203"
 ---
 
 **Lecture**: 3 hours  

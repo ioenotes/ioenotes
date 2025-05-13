@@ -46,13 +46,122 @@
         </ul>
       </div>
     </div>
-  </div>
-  <div class="border-border dark:border-darkmode-border border-t py-7">
-    <div
-      class="text-text-light dark:text-darkmode-text-light container text-center">
-      <p>
-        {{ site.Params.copyright | markdownify }}
-      </p>
+  <!-- Contributors Section -->
+    <div class="border-t border-border dark:border-darkmode-border py-6">
+      <div class="row mb-8">
+      <div class="col-12">
+        <div class="flex flex-col items-center">
+            <p class="pb-2">Contributors</p>
+          <div id="contributors-container" class="flex -space-x-2">
+            <!-- Contributors will be loaded via JS -->
+            <div class="contributor-loading flex items-center justify-center">
+              <div class="w-10 h-10 rounded-full bg-gray-100 dark:bg-darkmode-border animate-pulse"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+      <div class="row">
+        <div class="col-12 text-center">
+          <p class="text-text-light dark:text-darkmode-text-light text-sm">
+            {{ site.Params.copyright | markdownify }}
+          </p>
+        </div>
+      </div>
     </div>
   </div>
+
+  <script>
+    // Fetch GitHub contributors when the page loads
+    document.addEventListener('DOMContentLoaded', () => {
+      const fetchContributors = async () => {
+        try {
+          const owner = 'ioenotes';
+          const repo = 'ioenotes';
+          const response = await fetch(`https://api.github.com/repos/${owner}/${repo}/contributors?per_page=5`);
+          
+          if (!response.ok) {
+            throw new Error('Network response was not ok');
+          }
+          
+          const contributors = await response.json();
+          const container = document.getElementById('contributors-container');
+          
+          // Clear loading placeholder
+          container.innerHTML = '';
+            // Add contributors avatars (up to 3)
+          contributors.slice(0, 3).forEach(contributor => {
+            const link = document.createElement('a');
+            link.href = contributor.html_url;
+            link.className = 'ring-2 ring-white dark:ring-darkmode-body rounded-full hover:z-10 transition-all duration-200 hover:translate-y-[-2px]';
+            link.target = '_blank';
+            link.rel = 'noopener';
+            link.title = contributor.login;
+            
+            const img = document.createElement('img');
+            img.src = contributor.avatar_url;
+            img.alt = contributor.login;
+            img.className = 'w-10 h-10 rounded-full';
+            img.loading = 'lazy';
+            
+            link.appendChild(img);
+            container.appendChild(link);
+          });
+          
+          // Add the "+" button
+          const moreLink = document.createElement('a');
+          moreLink.href = `https://github.com/${owner}/${repo}/graphs/contributors`;
+          moreLink.className = 'flex items-center justify-center w-10 h-10 rounded-full bg-light dark:bg-darkmode-light ring-2 ring-white dark:ring-darkmode-body text-primary dark:text-darkmode-primary font-medium hover:z-10 transition-all duration-200 hover:translate-y-[-2px]';
+          moreLink.target = '_blank';
+          moreLink.rel = 'noopener';
+          moreLink.title = 'See all contributors';
+          moreLink.textContent = '+';
+          
+          container.appendChild(moreLink);
+        } catch (error) {
+          console.error('Error fetching contributors:', error);
+          // Show fallback if API fetch fails
+          fallbackContributors();
+        }
+      };
+      
+      const fallbackContributors = () => {
+        // Fallback to static avatars if API fails
+        const container = document.getElementById('contributors-container');
+        container.innerHTML = '';
+          // Create static fallback avatars
+        for (let i = 1; i <= 3; i++) {
+          const link = document.createElement('a');
+          link.href = 'https://github.com/ioenotes/ioenotes/graphs/contributors';
+          link.className = 'ring-2 ring-white dark:ring-darkmode-body rounded-full hover:z-10 transition-all duration-200 hover:translate-y-[-2px]';
+          link.target = '_blank';
+          link.rel = 'noopener';
+          
+          const img = document.createElement('img');
+          img.src = `https://contrib.rocks/image?repo=ioenotes/ioenotes&idx=${i}`;
+          img.alt = 'Contributor';
+          img.className = 'w-10 h-10 rounded-full';
+          img.loading = 'lazy';
+          img.onerror = function() { this.style.display = 'none'; };
+          
+          link.appendChild(img);
+          container.appendChild(link);
+        }
+        
+        // Add the "+" button
+        const moreLink = document.createElement('a');
+        moreLink.href = 'https://github.com/ioenotes/ioenotes/graphs/contributors';
+        moreLink.className = 'flex items-center justify-center w-10 h-10 rounded-full bg-light dark:bg-darkmode-light ring-2 ring-white dark:ring-darkmode-body text-primary dark:text-darkmode-primary font-medium hover:z-10 transition-all duration-200 hover:translate-y-[-2px]';
+        moreLink.target = '_blank';
+        moreLink.rel = 'noopener';
+        moreLink.title = 'See all contributors';
+        moreLink.textContent = '+';
+        
+        container.appendChild(moreLink);
+      };
+      
+      // Execute the fetch
+      fetchContributors();
+    });
+  </script>
 </footer>

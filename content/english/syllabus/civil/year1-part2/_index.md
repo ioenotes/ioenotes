@@ -47,16 +47,3 @@ This page contains the complete syllabus, teaching schedule, and examination sch
 2. Each subject includes detailed course objectives, topics, and references.
 3. Practical sessions are mandatory and must be completed to pass the course.
 4. Tutorial sessions are designed to help students understand theoretical concepts better.
-
-## Contribution Guidelines
-
-If you find any discrepancies or have updated syllabus documents, please contribute to this repository. Your help is invaluable in keeping this resource beneficial for all students!
-
-- [Report an issue](https://github.com/ioenotes/ioenotes/issues)
-- [Suggest an edit](https://github.com/ioenotes/ioenotes/edit/main/content/english/syllabus/civil/year1-part2/_index.md)
-- [View all syllabi](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus)
-
----
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!

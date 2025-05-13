@@ -1,8 +1,12 @@
 ---
-title: "Control System (ENEE 204) - BEI II/I Syllabus"
+title: "Control System - BEI II/I Syllabus"
+meta_title: "Syllabus: Control System (ENEE 204) - BEI Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Control System (ENEE 204), a second year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics Engineering"]
+subject: "Control System"
+subject_code: "ENEE 204"
 ---
 
 **Lecture**: 3  

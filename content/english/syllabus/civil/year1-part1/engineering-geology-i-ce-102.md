@@ -1,10 +1,12 @@
 ---
-title: "Engineering Geology I (CE102) - Civil I/I Syllabus"
+title: "Engineering Geology I - Civil I/I Syllabus"
 meta_title: "Syllabus: Engineering Geology I (CE102) - Civil Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Engineering Geology I (CE102), a first year, first part subject in the IOE Civil Engineering program. Covers geology fundamentals, mineralogy, structural geology, and Himalayan geology."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Engineering", "Geology"]
+subject: "Engineering Geology I"
+subject_code: "CE102"
 ---
 
 **Lecture**: 2  

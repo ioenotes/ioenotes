@@ -18,11 +18,7 @@ Below is a list of engineering faculties. Click on your respective faculty to fi
 
 *   [Computer Engineering Syllabus](/syllabus/computer/)
 *   [Civil Engineering Syllabus](/syllabus/civil/)
-*   [Electrical Engineering Syllabus](/syllabus/electrical/)
-*   [Mechanical Engineering Syllabus](/syllabus/mechanical/)
 *   [Electronics, Communication & Information Engineering Syllabus](/syllabus/electronics/)
-*   [Architecture Syllabus](/syllabus/architecture/)
-*   **(Add other faculties as needed: e.g., Agricultural, Industrial, Geomatics, Aerospace, etc.)**
 
 **Note:** The links provided above (e.g., `/syllabus/faculty/`) should lead to a page for each faculty. These faculty-specific pages will then contain links to the detailed syllabus for different academic years and parts.
 

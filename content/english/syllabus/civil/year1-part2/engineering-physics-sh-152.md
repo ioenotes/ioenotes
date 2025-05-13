@@ -1,10 +1,12 @@
 ---
-title: "Engineering Physics (SH152) - Civil I/II Syllabus"
+title: "Engineering Physics - Civil I/II Syllabus"
 meta_title: "Syllabus: Engineering Physics (SH152) - Civil Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Engineering Physics (SH152), a first year, second part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
+subject: "Engineering Physics"
+subject_code: "SH152"
 ---
 
 **Lecture**: 4  
