@@ -1,8 +1,12 @@
 ---
-title: "Communication English (ENSH 204) - BEI II/I Syllabus"
+title: "Communication English - BEI II/I Syllabus"
+meta_title: "Syllabus: Communication English (ENSH 204) - BEI Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Communication English (ENSH 204), a second year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics Engineering"]
+subject: "Communication English"
+subject_code: "ENSH 204"
 ---
 
 **Lecture**: 3  

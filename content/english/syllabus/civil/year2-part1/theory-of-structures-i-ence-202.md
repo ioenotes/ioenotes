@@ -1,10 +1,12 @@
 ---
-title: "Theory of Structures I (ENCE 202) - Civil II/I Syllabus"
+title: "Theory of Structures I - Civil II/I Syllabus"
 meta_title: "Syllabus: Theory of Structures I (ENCE 202) - Civil Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Theory of Structures I (ENCE 202), a second year, first part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering", "Theory of Structures"]
+subject: "Theory of Structures I"
+subject_code: "ENCE 202"
 ---
 
 **Lecture**: 3 hours  

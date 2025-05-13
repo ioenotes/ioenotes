@@ -1,8 +1,12 @@
 ---
-title: "Engineering Mathematics I (SH101) - BEI I/I Syllabus"
+title: "Engineering Mathematics I - BEI I/I Syllabus"
+meta_title: "Syllabus: Engineering Mathematics I (SH101) - BEI Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Engineering Mathematics I (SH101), a first year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics Engineering"]
+subject: "Engineering Mathematics I"
+subject_code: "SH101"
 ---
 
 **Lecture**: 3  

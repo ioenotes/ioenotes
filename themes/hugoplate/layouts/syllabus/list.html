@@ -1,15 +1,18 @@
 {{ define "main" }}
-  <section class="section-sm">
-    <div class="container">
-      <div class="row justify-center">
-        <div class="md:col-10 lg:col-7">
-          <div class="w-full aspect-[3/1] mb-6">
-            <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="w-full h-full object-cover grayscale">
-          </div>
-          <h2 class="h3 mb-6">{{ .Title }}</h2>
-          <div class="content">{{ .Content }}</div>
+<section class="section-sm">
+  <div class="container">
+    <div class="row justify-center">
+      <div class="md:col-10 lg:col-7">
+        {{ partial "components/breadcrumb.html" (dict "Context" . "Class" "mb-6") }}
+        <div class="w-full aspect-[3/1] mb-6">
+          <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="w-full h-full object-cover grayscale">
+        </div>
+        <h2 class="h3 mb-6">{{ .Title }}</h2>
+        <div class="content">{{ .Content }}</div>
+        <div class="mt-8">
+          {{ partial "contribution-section.html" . }}
         </div>
       </div>
     </div>
-  </section>
+</section>
 {{ end }}

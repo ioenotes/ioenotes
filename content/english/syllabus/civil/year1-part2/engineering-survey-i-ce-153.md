@@ -1,10 +1,12 @@
 ---
-title: "Engineering Survey I (CE153) - Civil I/II Syllabus"
+title: "Engineering Survey I - Civil I/II Syllabus"
 meta_title: "Syllabus: Engineering Survey I (CE153) - Civil Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Engineering Survey I (CE153), a first year, second part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
+subject: "Engineering Survey I"
+subject_code: "CE153"
 ---
 
 **Lecture**: 3  

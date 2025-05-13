@@ -1,10 +1,12 @@
 ---
-title: "Computer Programming (CT101) - Civil I/I Syllabus"
+title: "Computer Programming - Civil I/I Syllabus"
 meta_title: "Syllabus: Computer Programming (CT101) - Civil Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Computer Programming (CT101), a first year, first part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
+subject: "Computer Programming"
+subject_code: "CT101"
 ---
 
 **Lecture**: 3  

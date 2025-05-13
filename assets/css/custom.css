@@ -1,1 +1,173 @@
 /* Add your own custom styles here */
+
+/* Enhanced breadcrumb styling */
+nav[aria-label="Breadcrumb"] {
+  padding: 0.5rem 0;
+  margin-bottom: 1.5rem;
+}
+
+nav[aria-label="Breadcrumb"] ul {
+  background-color: #f8f9fa;
+  border-radius: 6px;
+  padding: 0.6rem 1rem;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+.dark nav[aria-label="Breadcrumb"] ul {
+  background-color: #222222;
+}
+
+.breadcrumb-item {
+  position: relative;
+}
+
+.breadcrumb-separator {
+  opacity: 0.7;
+}
+
+.breadcrumb-item.current span {
+  color: #555;
+  font-weight: 500;
+}
+
+.dark .breadcrumb-item.current span {
+  color: #d1d5db;
+}
+
+.breadcrumb-item svg {
+  margin-right: 4px;
+}
+
+@media (max-width: 640px) {
+  nav[aria-label="Breadcrumb"] {
+    font-size: 0.85rem;
+  }
+  
+  nav[aria-label="Breadcrumb"] ul {
+    padding: 0.5rem 0.7rem;
+  }
+  
+  .breadcrumb-separator {
+    margin-left: 0.3rem;
+    margin-right: 0.3rem;
+  }
+}
+
+/* Improve the look of hyperlinks in syllabus pages */
+.content a {
+  color: #0066cc;
+  text-decoration: none;
+  border-bottom: 1px dotted #0066cc;
+  transition: all 0.2s ease-in-out;
+}
+
+.content a:hover {
+  color: #004080;
+  border-bottom: 1px solid #004080;
+  background-color: rgba(0, 102, 204, 0.05);
+}
+
+.content a:focus {
+  outline: 2px solid rgba(0, 102, 204, 0.3);
+  outline-offset: 2px;
+}
+
+/* External links styling (arrow removed as requested) */
+.content a[href^="http"] {
+  /* No special indicator for external links */
+}
+
+/* Style contribution section links to match content styling but with distinct appearance */
+.mt-12.p-6.bg-light a, 
+.mt-12.p-6.bg-light.dark\:bg-darkmode-light a {
+  color: #0066cc;
+  text-decoration: none;
+  border-bottom: 1px dotted #0066cc;
+  transition: all 0.2s ease-in-out;
+  position: relative;
+  padding-bottom: 1px;
+  font-weight: 500;
+}
+
+.dark .mt-12.p-6.bg-light.dark\:bg-darkmode-light a {
+  color: #66b0ff;
+  border-bottom: 1px dotted #66b0ff;
+}
+
+.mt-12.p-6.bg-light a:hover, 
+.mt-12.p-6.bg-light.dark\:bg-darkmode-light a:hover {
+  color: #004080;
+  border-bottom: 1px solid #004080;
+  background-color: rgba(0, 102, 204, 0.08);
+  border-radius: 2px;
+}
+
+.dark .mt-12.p-6.bg-light.dark\:bg-darkmode-light a:hover {
+  color: #99ccff;
+  border-bottom: 1px solid #99ccff;
+  background-color: rgba(102, 176, 255, 0.1);
+}
+
+.mt-12.p-6.bg-light a:focus,
+.mt-12.p-6.bg-light.dark\:bg-darkmode-light a:focus {
+  outline: 2px solid rgba(0, 102, 204, 0.3);
+  outline-offset: 2px;
+}
+
+.dark .mt-12.p-6.bg-light.dark\:bg-darkmode-light a:focus {
+  outline: 2px solid rgba(102, 176, 255, 0.4);
+}
+
+/* External links in contribution section (arrow removed as requested) */
+.mt-12.p-6.bg-light a[href^="http"],
+.mt-12.p-6.bg-light.dark\:bg-darkmode-light a[href^="http"] {
+  /* No special indicator for external links */
+}
+
+/* Improve styling of lists in syllabus content */
+.content ul, .content ol {
+  /* padding-left: 1.2rem; */
+  /* margin-bottom: 1.5rem; */
+  background: none !important;
+  box-shadow: none !important;
+  /* padding: 1.2rem 1.2rem 1.2rem 2.4rem; */
+  border-radius: 0.5rem;
+}
+
+.content ul li, .content ol li {
+  margin-bottom: 0.5rem;
+}
+
+/* Style for decimal-numbered lists (e.g., 1.1, 1.2, 4.4) */
+.content p.decimal-list-item {
+  margin-bottom: 0.5rem;
+}
+
+/* No bullet styling as requested */
+.content p > strong:first-child {
+  display: inline-block;
+}
+
+/* Better table formatting for syllabus */
+.content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+.content table th {
+  background-color: rgba(0, 102, 204, 0.1);
+  padding: 0.75rem;
+  font-weight: 600;
+  text-align: left;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+.content table td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.content table tr:hover {
+  background-color: rgba(0, 102, 204, 0.03);
+}

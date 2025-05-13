@@ -1,10 +1,12 @@
 ---
-title: "Theory of Computation (ENCT203) - BCT II/I Syllabus"
+title: "Theory of Computation - BCT II/I Syllabus"
 meta_title: "Syllabus: Theory of Computation (ENCT203) - BCT Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Theory of Computation (ENCT203), a second year, first part subject in the IOE BCT (Bachelor of Computer Engineering) program. Covers automata theory, formal languages, computational models, and computational complexity."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
+subject: "Theory of Computation"
+subject_code: "ENCT203"
 ---
 
 **Lecture**: 3  

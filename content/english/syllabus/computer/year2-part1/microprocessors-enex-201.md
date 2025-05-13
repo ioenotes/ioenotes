@@ -1,10 +1,12 @@
 ---
-title: "Microprocessors (ENEX201) - BCT II/I Syllabus"
+title: "Microprocessors - BCT II/I Syllabus"
 meta_title: "Syllabus: Microprocessors (ENEX201) - BCT Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Microprocessors (ENEX201), a second year, first part subject in the IOE BCT program. Covers microprocessor architecture, assembly language programming, and interfacing."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
+subject: "Microprocessors"
+subject_code: "ENEX201"
 ---
 
 **Lecture**: 3  

@@ -22,9 +22,9 @@ features:
       - "Easy-to-navigate and mobile-friendly interface"
       - "**Completely free** for all students"
     button:
-      enable: false
-      label: "Learn More"
-      link: "#"
+      enable: true
+      label: "Visit Syllabus"
+      link: "/syllabus"
 
   - title: "Key Benefits for Your Study Success"
     image: "/images/service-2.png"

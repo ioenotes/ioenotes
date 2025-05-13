@@ -1,10 +1,12 @@
 ---
-title: "Engineering Mathematics II (SH151) - Civil I/II Syllabus"
+title: "Engineering Mathematics II - Civil I/II Syllabus"
 meta_title: "Syllabus: Engineering Mathematics II (SH151) - Civil Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Engineering Mathematics II (SH151), a first year, second part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
+subject: "Engineering Mathematics II"
+subject_code: "SH151"
 ---
 
 **Lecture**: 3  

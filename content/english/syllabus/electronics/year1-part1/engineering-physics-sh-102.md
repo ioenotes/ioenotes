@@ -1,8 +1,12 @@
 ---
-title: "Engineering Physics (SH102) - BEI I/I Syllabus"
+title: "Engineering Physics - BEI I/I Syllabus"
+meta_title: "Syllabus: Engineering Physics (SH102) - BEI Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Engineering Physics (SH102), a first year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics Engineering"]
+subject: "Engineering Physics"
+subject_code: "SH102"
 ---
 
 **Lecture**: 4  

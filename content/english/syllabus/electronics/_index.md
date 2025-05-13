@@ -19,12 +19,6 @@ Understanding your syllabus is key to effective study planning and academic succ
 - [BEI Year 2 - Part 1 Syllabus](/syllabus/electronics/year2-part1/)
 - [BEI Year 2 - Part 2 Syllabus](/syllabus/electronics/year2-part2/)
 
-- [BEI Year 3 - Part 1 Syllabus](/syllabus/electronics/year3-part1/)
-- [BEI Year 3 - Part 2 Syllabus](/syllabus/electronics/year3-part2/)
-
-- [BEI Year 4 - Part 1 Syllabus](/syllabus/electronics/year4-part1/)
-- [BEI Year 4 - Part 2 Syllabus](/syllabus/electronics/year4-part2/)
-
 ---
 
 **Note:**

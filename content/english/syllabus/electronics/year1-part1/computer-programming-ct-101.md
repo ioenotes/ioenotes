@@ -1,8 +1,10 @@
 ---
-title: "Computer Programming (CT101) - BEI I/I Syllabus"
+title: "Computer Programming - BEI I/I Syllabus"
 description: "Detailed syllabus for Computer Programming (CT101), a first year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+subject: "Computer Programming"
+course_code: "CT101"
 ---
 
 **Lecture**: 3  

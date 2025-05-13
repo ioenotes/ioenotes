@@ -1,6 +1,16 @@
 {{ define "main" }}
   {{ partial "page-header" . }}
 
+  <div class="mt-12 p-6 bg-light dark:bg-darkmode-light rounded-lg shadow-sm text-center">
+    <h3 class="text-lg font-semibold mb-2">Contributions Welcome!</h3>
+    <p class="mb-3">Help us improve this section. Found an error or want to add more content?</p>
+    <a href="https://github.com/{{ site.Params.github_repo }}/tree/main/content{{ .RelPermalink }}" target="_blank" rel="noopener" class="inline-block px-4 py-2 bg-primary text-white rounded hover:bg-primary-700 transition mr-2">
+      Contribute on GitHub
+    </a>
+    <a href="https://github.com/ioenotes/ioenotes/graphs/contributors" target="_blank" rel="noopener" class="inline-block px-4 py-2 bg-light dark:bg-darkmode-body border border-primary text-primary dark:text-darkmode-primary rounded hover:bg-primary-50 dark:hover:bg-darkmode-primary/10 transition">
+      View Contributors
+    </a>
+  </div>
 
   <section class="section">
     <div class="container">

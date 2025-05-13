@@ -1,10 +1,12 @@
 ---
-title: "Strength of Materials (CE151) - Civil I/II Syllabus"
+title: "Strength of Materials - Civil I/II Syllabus"
 meta_title: "Syllabus: Strength of Materials (CE151) - Civil Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Strength of Materials (CE151), a first year, second part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
+subject: "Strength of Materials"
+subject_code: "CE151"
 ---
 
 **Lecture**: 3  

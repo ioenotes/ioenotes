@@ -1,8 +1,12 @@
 ---
-title: "Microprocessors (ENEX 201) - BEI II/I Syllabus"
+title: "Microprocessors - BEI II/I Syllabus"
+meta_title: "Syllabus: Microprocessors (ENEX 201) - BEI Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Microprocessors (ENEX 201), a second year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics Engineering"]
+subject: "Microprocessors"
+subject_code: "ENEX 201"
 ---
 
 **Lecture**: 3  

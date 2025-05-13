@@ -1,8 +1,12 @@
 ---
-title: "Engineering Mathematics III (ENSH 201) - BEI II/I Syllabus"
+title: "Engineering Mathematics III - BEI II/I Syllabus"
+meta_title: "Syllabus: Engineering Mathematics III (ENSH 201) - BEI Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Engineering Mathematics III (ENSH 201), a second year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics Engineering"]
+subject: "Engineering Mathematics III"
+subject_code: "ENSH 201"
 ---
 
 **Lecture**: 3  

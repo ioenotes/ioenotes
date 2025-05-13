@@ -1,10 +1,12 @@
 ---
-title: "Computer Programming (CT101) - BCT I/I Syllabus"
+title: "Computer Programming - BCT I/I Syllabus"
 meta_title: "Syllabus: Computer Programming (CT101) - BCT Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Computer Programming (CT101), a first year, first part subject in the IOE BCT program."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
+subject: "Computer Programming"
+subject_code: "CT101" 
 ---
 
 **Lecture**: 3  

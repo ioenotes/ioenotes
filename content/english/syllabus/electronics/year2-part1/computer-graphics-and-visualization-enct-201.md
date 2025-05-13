@@ -1,8 +1,12 @@
 ---
-title: "Computer Graphics and Visualization (ENCT 201) - BEI II/I Syllabus"
+title: "Computer Graphics and Visualization - BEI II/I Syllabus"
+meta_title: "Syllabus: Computer Graphics and Visualization (ENCT 201) - BEI Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Computer Graphics and Visualization (ENCT 201), a second year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics Engineering"]
+subject: "Computer Graphics and Visualization"
+subject_code: "ENCT 201"
 ---
 
 **Lecture**: 3  

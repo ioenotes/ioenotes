@@ -1,10 +1,12 @@
 ---
-title: "Foundation of Data Science (ENCT202) - BCT II/I Syllabus"
+title: "Foundation of Data Science - BCT II/I Syllabus"
 meta_title: "Syllabus: Foundation of Data Science (ENCT202) - BCT Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Foundation of Data Science (ENCT202), a second year, first part subject in the IOE BCT (Bachelor of Computer Engineering) program. Covers data science concepts, tools, methodologies, and applications."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
+subject: "Foundation of Data Science"
+subject_code: "ENCT202"
 ---
 
 **Lecture**: 3  

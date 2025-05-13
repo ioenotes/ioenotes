@@ -1,10 +1,12 @@
 ---
-title: "Fluid Mechanics (ENCE 201) - Civil II/I Syllabus"
+title: "Fluid Mechanics - Civil II/I Syllabus"
 meta_title: "Syllabus: Fluid Mechanics (ENCE 201) - Civil Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Fluid Mechanics (ENCE 201), a second year, first part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering", "Fluid Mechanics"]
+subject: "Fluid Mechanics"
+subject_code: "ENCE 201"
 ---
 
 **Lecture**: 4 hours  

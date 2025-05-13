@@ -1,10 +1,12 @@
 ---
-title: "Engineering Geology II (CE152) - Civil I/II Syllabus"
+title: "Engineering Geology II - Civil I/II Syllabus"
 meta_title: "Syllabus: Engineering Geology II (CE152) - Civil Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Engineering Geology II (CE152), a first year, second part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
+subject: "Engineering Geology II"
+subject_code: "CE152"
 ---
 
 **Lecture**: 2  

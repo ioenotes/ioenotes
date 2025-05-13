@@ -1,8 +1,12 @@
 ---
-title: "Electronic Device and Circuits (EX 151) - BEI I/II Syllabus"
+title: "Electronic Device and Circuits - BEI I/II Syllabus"
+meta_title: "Syllabus: Electronic Device and Circuits (EX 151) - BEI Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Electronic Device and Circuits (EX 151), a first year, second part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics Engineering"]
+subject: "Electronic Device and Circuits"
+subject_code: "EX 151"
 ---
 
 **Lecture**: 3  

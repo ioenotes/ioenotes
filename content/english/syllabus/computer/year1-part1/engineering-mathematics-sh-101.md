@@ -1,10 +1,12 @@
 ---
-title: "Engineering Mathematics I (SH101) - BCT I/I Syllabus"
+title: "Engineering Mathematics I - BCT I/I Syllabus"
 meta_title: "Syllabus: Engineering Mathematics I (SH101) - BCT Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Engineering Mathematics I (SH101), a first year, first part subject in the IOE BCT program."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
+subject: "Engineering Mathematics I"
+subject_code: "SH101"
 ---
 
 **Lecture**: 3  
@@ -24,8 +26,8 @@ To equip the students with the essential mathematical skills and techniques that
 1.1 Review of derivative and differentiability, mean value theorems with interpretations  
 1.2 Indeterminate forms, types and their real life examples, L-Hospital's Rule  
 1.3 Power series of single valued functions  
-  - 1.3.1 Taylor's series  
-  - 1.3.2 Maclaurin's series  
+ 1.3.1 Taylor's series  
+ 1.3.2 Maclaurin's series  
 1.4 Asymptotes to Cartesian and Polar curves  
 1.5 Pedal equation to Cartesian and Polar curves  
 1.6 Curvature and radius of curvature for Cartesian curves  
@@ -74,11 +76,11 @@ To equip the students with the essential mathematical skills and techniques that
 
 Tutorials will be conducted based on the following chapters:
 
-- 1. Derivatives and Its Applications  
-- 2. Antiderivatives and Its Applications  
-- 3. Ordinary Differential Equations and Its Applications  
-- 4. Plane Analytic Geometry  
-- 5. Three Dimensional Geometry  
+1. Derivatives and Its Applications  
+2. Antiderivatives and Its Applications  
+3. Ordinary Differential Equations and Its Applications  
+4. Plane Analytic Geometry  
+5. Three Dimensional Geometry  
 
 ---
 

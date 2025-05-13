@@ -1,10 +1,12 @@
 ---
-title: "Engineering Mechanics (CE101) - Civil I/I Syllabus"
+title: "Engineering Mechanics - Civil I/I Syllabus"
 meta_title: "Syllabus: Engineering Mechanics (CE101) - Civil Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Engineering Mechanics (CE101), a first year, first part subject in the IOE Civil Engineering program. Covers statics, dynamics, forces, friction, beams, trusses, and motion analysis."
 draft: false
-image: "/images/syllabus/bct-syllabus.jpg"
+image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Engineering", "Mechanics"]
+subject: "Engineering Mechanics"
+subject_code: "CE101"
 ---
 
 **Lecture**: 4  

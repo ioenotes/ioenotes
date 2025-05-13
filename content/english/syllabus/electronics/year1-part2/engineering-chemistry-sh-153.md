@@ -1,8 +1,12 @@
 ---
-title: "Engineering Chemistry (SH 153) - BEI I/II Syllabus"
+title: "Engineering Chemistry - BEI I/II Syllabus"
+meta_title: "Syllabus: Engineering Chemistry (SH 153) - BEI Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Engineering Chemistry (SH 153), a first year, second part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics Engineering"]
+subject: "Engineering Chemistry"
+subject_code: "SH 153"
 ---
 
 **Lecture**: 3  
