@@ -7,13 +7,14 @@ image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
 subject: "Strength of Materials"
 subject_code: "CE151"
+faculty: "Civil Engineering"
+faculty-code: "BCE"
+lecture: 3
+tutorial: 1
+practical: 2
+year: 'I'
+part: 'II'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 2  
-**Year**: I  
-**Part**: II  
 
 ## Course Objectives
 
@@ -156,4 +157,4 @@ The primary goal of the course is to build the fundamental understanding of stud
 5. Popov E.P., (1978). *Mechanics of Material, 2nd Edition*. Prentice Hall of India.  
 6. Pytel A., Singer F.L., (1998). *Strength of Materials, 4th Edition*. Harper Collins, India.  
 7. Hibbeler R.C., (2004). *Statics and Mechanics of Materials, SI Edition*. Prentice-Hall.  
-8. Motra G.B. *A text book of strength of materials, 2nd Edition*. Heritage Publishers & Distributors.  
+8. Motra G.B. *A text book of strength of materials, 2nd Edition*. Heritage Publishers & Distributors.

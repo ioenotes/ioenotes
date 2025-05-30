@@ -7,13 +7,14 @@ image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
 subject: "Engineering Mathematics I"
 subject_code: "SH101"
+faculty: "Computer Engineering"
+faculty-code: "BCT"
+lecture: 3
+tutorial: 2
+practical: 0
+year: 'I'
+part: 'I'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 2  
-**Practical**: 0  
-**Year**: I  
-**Part**: I  
 
 ## Course Objectives
 

@@ -16,9 +16,11 @@ Below, you'll find links to the detailed syllabus categorized by engineering fac
 ### Engineering Faculties
 Below is a list of engineering faculties. Click on your respective faculty to find its syllabus.
 
-*   [Computer Engineering Syllabus](/syllabus/computer/)
-*   [Civil Engineering Syllabus](/syllabus/civil/)
-*   [Electronics, Communication & Information Engineering Syllabus](/syllabus/electronics/)
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-6">
+    {{< faculty-card icon="fa-solid fa-microchip" faculty="Computer Engineering" stat_label="View Syllabus" link="/syllabus/computer/" >}}
+    {{< faculty-card icon="fa-solid fa-building-columns" faculty="Civil Engineering" stat_label="View Syllabus" link="/syllabus/civil/" >}}
+    {{< faculty-card icon="fa-solid fa-satellite-dish" faculty="Electronics Engineering" stat_label="View Syllabus" link="/syllabus/electronics/" >}}
+</div>
 
 **Note:** The links provided above (e.g., `/syllabus/faculty/`) should lead to a page for each faculty. These faculty-specific pages will then contain links to the detailed syllabus for different academic years and parts.
 

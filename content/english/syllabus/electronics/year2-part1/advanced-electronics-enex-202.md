@@ -7,13 +7,15 @@ image: "/images/syllabus/electronics-syllabus.jpg"
 tags: ["BEI", "Electronics Engineering"]
 subject: "Advanced Electronics"
 subject_code: "ENEX 202"
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 3
+tutorial: 1
+practical: 1.5
+year: 'II'
+part: 'I'
 ---
 
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3/2  
-**Year**: II  
-**Part**: I  
 
 ### Course Objectives
 The objective of this course is to provide fundamental understanding of operational amplifiers, including their performance, limitations, and suitability for specific applications. Students will also learn to devise efficient techniques for energy transformation and regulation in power electronic circuits, and explore the principles and components of data conversion using DAC and ADC systems.

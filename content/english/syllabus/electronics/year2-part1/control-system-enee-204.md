@@ -7,13 +7,15 @@ image: "/images/syllabus/electronics-syllabus.jpg"
 tags: ["BEI", "Electronics Engineering"]
 subject: "Control System"
 subject_code: "ENEE 204"
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 3
+tutorial: 1
+practical: 1.5
+year: 'II'
+part: 'I'
 ---
 
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3/2  
-**Year**: II  
-**Part**: I  
 
 ### Course Objectives
 The objective of this course is to provide foundational knowledge in control system analysis and design. It introduces essential concepts needed to understand and create control systems. Students will learn to model and analyze control mechanisms. The course emphasizes applying these principles to real-world physical processes.

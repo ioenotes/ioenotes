@@ -1,75 +1,42 @@
 {{ $context := .Context }}
 {{ $class := .Class }}
 
-<nav aria-label="Breadcrumb" class="mb-4">
-  <ul class="{{ $class }} flex flex-wrap items-center text-sm md:text-base">
-    <!-- Home -->
-    <li class="breadcrumb-item">
-      <a class="flex items-center text-primary dark:text-darkmode-primary hover:text-primary-700 transition-colors" href="/">
-        <svg class="w-4 h-4 mr-1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-          <path d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z" />
-        </svg>
-        Home
+{{ $sections := split (trim $context.RelPermalink "/") "/" }}
+{{ $currentPath := "" }}
+{{ $breadcrumbs := slice (dict "name" "Home" "url" "/") }}
+
+{{ range $index, $section := $sections }}
+  {{ $currentPath = printf "%s/%s" $currentPath $section }}
+  {{ $name := $section | title }}
+  
+  {{/* Handle year-part format */}}
+  {{ if findRE `year(\d+)-part(\d+)` $section }}
+    {{ $yearNum := replaceRE `year(\d+)-part(\d+)` "$1" $section }}
+    {{ $partNum := replaceRE `year(\d+)-part(\d+)` "$2" $section }}
+    {{ $yearRoman := cond (eq $yearNum "1") "I" (cond (eq $yearNum "2") "II" (cond (eq $yearNum "3") "III" (cond (eq $yearNum "4") "IV" (cond (eq $yearNum "5") "V" "")))) }}
+    {{ $partRoman := cond (eq $partNum "1") "I" (cond (eq $partNum "2") "II" "") }}
+    {{ $name = printf "Year %s Part %s" $yearRoman $partRoman }}
+  {{ end }}
+
+  {{/* Use subject name from front matter for the last section */}}
+  {{ if and (eq $index (sub (len $sections) 1)) ($context.Params.subject) }}
+    {{ $name = $context.Params.subject }}
+  {{ end }}
+
+  {{ $breadcrumbs = $breadcrumbs | append (dict "name" $name "url" $currentPath) }}
+{{ end }}
+
+<nav class="flex items-center space-x-2 text-sm {{ $class }}">
+  {{ range $index, $crumb := $breadcrumbs }}
+    {{ if gt $index 0 }}
+      <i class="fa-solid fa-chevron-right text-text-light dark:text-darkmode-text-light text-xs"></i>
+    {{ end }}
+    {{ if eq $index (sub (len $breadcrumbs) 1) }}
+      <span class="text-text-light dark:text-darkmode-text-light">{{ $crumb.name }}</span>
+    {{ else }}
+      <a href="{{ $crumb.url }}" class="text-text-dark dark:text-darkmode-text-dark hover:text-primary dark:hover:text-darkmode-primary transition-colors duration-200">
+        {{ $crumb.name }}
       </a>
-    </li>
-    <li class="breadcrumb-separator flex items-center mx-2">
-      <svg class="w-4 h-4 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-        <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
-      </svg>
-    </li>
-    <!-- Syllabus -->
-    <li class="breadcrumb-item">
-      <a class="flex items-center text-primary dark:text-darkmode-primary hover:text-primary-700 transition-colors" href="/syllabus/">
-        Syllabus
-      </a>
-    </li>
-    {{ $sections := split (trim $context.RelPermalink "/") "/" }}
-    {{ $faculty := cond (ge (len $sections) 2) (index $sections 1) "" }}
-    {{ $yearPart := cond (ge (len $sections) 3) (index $sections 2) "" }}
-    {{ $subject := cond (ge (len $sections) 4) (index $sections 3) "" }}
-    {{ if $faculty }}
-      <li class="breadcrumb-separator flex items-center mx-2">
-        <svg class="w-4 h-4 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-          <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
-        </svg>
-      </li>
-      <li class="breadcrumb-item">
-        <a class="flex items-center text-primary dark:text-darkmode-primary hover:text-primary-700 transition-colors" href="/syllabus/{{ $faculty }}/">
-          {{ $faculty | title }}
-        </a>
-      </li>
     {{ end }}
-    {{ if $yearPart }}
-      <li class="breadcrumb-separator flex items-center mx-2">
-        <svg class="w-4 h-4 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-          <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
-        </svg>
-      </li>
-      <li class="breadcrumb-item">
-        <a class="flex items-center text-primary dark:text-darkmode-primary hover:text-primary-700 transition-colors" href="/syllabus/{{ $faculty }}/{{ $yearPart }}/">
-          {{ if findRE `year(\d+)-part(\d+)` $yearPart }}
-            {{ $yearNum := replaceRE `year(\d+)-part(\d+)` "$1" $yearPart }}
-            {{ $partNum := replaceRE `year(\d+)-part(\d+)` "$2" $yearPart }}
-            {{ $yearRoman := cond (eq $yearNum "1") "I" (cond (eq $yearNum "2") "II" (cond (eq $yearNum "3") "III" (cond (eq $yearNum "4") "IV" (cond (eq $yearNum "5") "V" "")))) }}
-            {{ $partRoman := cond (eq $partNum "1") "I" (cond (eq $partNum "2") "II" "") }}
-            Year {{ $yearRoman }} Part {{ $partRoman }}
-          {{ else }}
-            {{ replace $yearPart "-" " " | title }}
-          {{ end }}
-        </a>
-      </li>
-    {{ end }}
-    {{ if $subject }}
-      <li class="breadcrumb-separator flex items-center mx-2">
-        <svg class="w-4 h-4 text-gray-400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor">
-          <path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd" />
-        </svg>
-      </li>
-      <li class="breadcrumb-item current">
-        <span class="font-medium text-gray-700 dark:text-gray-300">
-          {{ $context.Params.subject | default $context.Title }}
-        </span>
-      </li>
-    {{ end }}
-  </ul>
+  {{ end }}
 </nav>

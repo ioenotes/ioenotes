@@ -1,18 +1,21 @@
 ---
-title: "Communication English (ENSH204) - BCT II/I Syllabus"
+title: "Communication English - BCT II/I Syllabus"
 meta_title: "Syllabus: Communication English (ENSH204) - BCT Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Communication English (ENSH204), a second year, first part subject in the IOE BCT (Bachelor of Computer Engineering) program. Covers technical communication, writing skills, business correspondence, and presentation techniques."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
-author: "John Doe"
 tags: ["BCT", "Computer Engineering"]
+subject: "Communication English"
+subject_code: "ENSH204"
+faculty: "Computer Engineering"
+faculty-code: "BCT"
+lecture: 3
+tutorial: 0
+practical: 1
+year: 'II'
+part: 'I'
 ---
 
-**Lecture**: 3  
-**Tutorial**: 0  
-**Practical**: 1  
-**Year**: II  
-**Part**: I  
 
 ## Course Objectives
 
@@ -130,4 +133,4 @@ The general objective of this course is to focus on English as a communication t
 10. Ligawa. H. (2021), *Communication skills notes*, Siaya Institute of Technology  
 11. Katz, M. J. (2009), *From research to manuscript: A guide to scientific writing*, 2nd edition, Springer  
 12. Swales, J. M., Feak, C. B. (2012), *Academic writing for graduate students: Essential tasks and skills*, 3rd edition, University of Michigan Press  
-13. Hofmann, A. H. (2014), *Scientific writing and communication: Papers, proposals, and presentations*, 2nd edition, Oxford University Press  
+13. Hofmann, A. H. (2014), *Scientific writing and communication: Papers, proposals, and presentations*, 2nd edition, Oxford University Press

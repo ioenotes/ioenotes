@@ -4,16 +4,18 @@ meta_title: "Syllabus: Engineering Geology I (CE102) - Civil Year 1 Part 1 | IOE
 description: "Detailed syllabus for Engineering Geology I (CE102), a first year, first part subject in the IOE Civil Engineering program. Covers geology fundamentals, mineralogy, structural geology, and Himalayan geology."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
-tags: ["Civil", "Engineering", "Geology"]
+tags: ["Civil", "Civil Engineering"]
 subject: "Engineering Geology I"
 subject_code: "CE102"
+faculty: "Civil Engineering"
+faculty-code: "BCE"
+lecture: 2
+tutorial: 0
+practical: 1
+year: 'I'
+part: 'I'
 ---
 
-**Lecture**: 2  
-**Tutorial**: 0  
-**Practical**: 1  
-**Year**: I  
-**Part**: I  
 
 ## Course Objectives
 
@@ -110,4 +112,4 @@ A two-day fieldwork to provide practical on-site knowledge on preparation and in
 5. Dhital, M.R. (2015), *Geology of the Nepal Himalaya*, Springer International Published, Switzerland  
 6. Price, D. (2009). *Engineering Geology- Principles and Practice*. (M. H. de Freitas, Ed.) Springer.  
 7. Hoek, E., and Brown, E.T. (2019). *The Hoek-Brown failure criterion and GSI-2018 edition*, Journal of Rock Mechanics and Geotechnical Engineering, 11, 445-463.  
-8. Vallejo, L.G.de., Ferrer, M. (2011). *Geological Engineering*, Routledge, Taylor and Francis Group.  
+8. Vallejo, L.G.de., Ferrer, M. (2011). *Geological Engineering*, Routledge, Taylor and Francis Group.

@@ -1,0 +1,24 @@
+<a href="{{ .Get "link" }}"
+   class="group subject-card-link block w-full h-full no-underline text-inherit hover:no-underline focus:no-underline active:no-underline visited:no-underline hover:text-inherit focus:text-inherit active:text-inherit visited:text-inherit">
+    <div class="not-prose flex items-center h-full">
+        <!-- Content -->
+        <div class="flex-grow">
+            <!-- Subject Code -->
+            <div class="mb-1">
+                <span class="inline-flex items-center px-3 py-1 text-xs font-semibold bg-primary/10 dark:bg-darkmode-primary/20 text-primary dark:text-darkmode-primary rounded-full">
+                    {{ .Get "code" }}
+                </span>
+            </div>
+            
+            <!-- Title -->
+            <h3 class="text-xl font-bold text-text-dark dark:text-darkmode-text-dark group-hover:text-text dark:group-hover:text-darkmode-text transition-colors duration-200">
+                {{ .Get "subject" }}
+            </h3>
+            
+            <!-- Arrow icon -->
+            <div class="text-text-light dark:text-darkmode-text-light group-hover:text-text dark:group-hover:text-darkmode-text group-hover:translate-x-1 transition-all duration-200 mt-2">
+                <i class="fa-solid fa-arrow-right text-lg"></i>
+            </div>
+        </div>
+    </div>
+</a>

@@ -12,12 +12,45 @@ Below, you will find the curriculum details organized by academic year and part/
 
 ### BCT Syllabus by Year and Part/Semester
 
-1. [Engineering Mathematics I (SH101)](engineering-mathematics-sh-101)
+<!-- 1. [Engineering Mathematics I (SH101)](engineering-mathematics-sh-101)
 2. [Engineering Physics (SH102)](engineering-physics-sh-102)
 3. [Computer Programming (CT101)](computer-programming-ct-101)
 4. [Engineering Drawing (ME101)](engineering-drawing-me-101)
 5. [Engineering Workshop (ME106)](engineering-workshop-me-106)
-6. [Fundamentals of Electrical and Electronics Engineering (EX101)](fundamentals-of-electrical-and-electronics-engineering-ex-101)
+6. [Fundamentals of Electrical and Electronics Engineering (EX101)](fundamentals-of-electrical-and-electronics-engineering-ex-101) -->
+
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-6">
+{{< subject-card 
+    subject="Engineering Mathematics I"
+    code="SH101"
+    link="/syllabus/computer/year1-part1/engineering-mathematics-sh-101"
+>}}
+{{< subject-card 
+    subject="Engineering Physics"
+    code="SH102"
+    link="/syllabus/computer/year1-part1/engineering-physics-sh-102"
+>}}
+{{< subject-card 
+    subject="Computer Programming"
+    code="CT101"
+    link="/syllabus/computer/year1-part1/computer-programming-ct-101"
+>}}
+{{< subject-card 
+    subject="Engineering Drawing"
+    code="ME101"
+    link="/syllabus/computer/year1-part1/engineering-drawing-me-101"
+>}}
+{{< subject-card 
+    subject="Engineering Workshop"
+    code="ME106"
+    link="/syllabus/computer/year1-part1/engineering-workshop-me-106"
+>}}
+{{< subject-card 
+    subject="Fundamentals of Electrical and Electronics Engineering"
+    code="EX101"
+    link="/syllabus/computer/year1-part1/fundamentals-of-electrical-and-electronics-engineering-ex-101"
+>}}
+</div>
 
 #### Teaching Schedule & Examination Scheme
 

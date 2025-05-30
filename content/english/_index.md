@@ -36,8 +36,8 @@ features:
       - "Access resources anytime, anywhere."
     button:
       enable: true
-      label: "Browse Subjects"
-      link: "/subjects" # Adjust this link to your subjects/categories page
+      label: "Browse Faculties"
+      link: "/syllabus" # Adjust this link to your subjects/categories page
 
   - title: "Why Choose IOE Notes?"
     image: "/images/service-3.png"

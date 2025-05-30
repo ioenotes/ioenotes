@@ -7,13 +7,15 @@ image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
 subject: "Computer Programming"
 subject_code: "CT101"
+faculty: "Civil Engineering"
+faculty-code: "BCE"
+lecture: 3
+tutorial: 1
+practical: 3
+year: 'I'
+part: 'I'
 ---
 
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3  
-**Year**: I  
-**Part**: I  
 
 ## Course Objectives
 

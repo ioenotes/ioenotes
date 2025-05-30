@@ -13,17 +13,45 @@ This page contains the complete syllabus for the Bachelor of Computer Engineerin
 
 ## Subjects
 
-1. [Engineering Mathematics II (SH151)](engineering-mathematics-sh-151) 
+<!-- - [Engineering Mathematics II (SH151)](engineering-mathematics-sh-151) 
+- [Object Oriented Programming (CT151)](object-oriented-programming-ct-151)  
+- [Digital Logic (EX152)](digital-logic-ex-152)  
+- [Electronic Devices and Circuits (EX151)](electronic-devices-and-circuits-ex-151) 
+- [Electrical Circuits and Machines (EE154)](electrical-circuits-and-machines-ee-154)  
+- [Engineering Chemistry (SH153)](engineering-chemistry-sh-153)   -->
 
-2. [Object Oriented Programming (CT151)](object-oriented-programming-ct-151)  
-
-3. [Digital Logic (EX152)](digital-logic-ex-152)  
-
-4. [Electronic Devices and Circuits (EX151)](electronic-devices-and-circuits-ex-151) 
-
-5. [Electrical Circuits and Machines (EE154)](electrical-circuits-and-machines-ee-154)  
-
-6. [Engineering Chemistry (SH153)](engineering-chemistry-sh-153)  
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-6">
+{{< subject-card 
+    subject="Engineering Mathematics II"
+    code="SH151"
+    link="/syllabus/computer/year1-part2/engineering-mathematics-sh-151"
+>}}
+{{< subject-card 
+    subject="Object Oriented Programming"
+    code="CT151"
+    link="/syllabus/computer/year1-part2/object-oriented-programming-ct-151"
+>}}
+{{< subject-card 
+    subject="Digital Logic"
+    code="EX152"
+    link="/syllabus/computer/year1-part2/digital-logic-ex-152"
+>}}
+{{< subject-card 
+    subject="Electronic Device and Circuits"
+    code="EX151"
+    link="/syllabus/computer/year1-part2/electronic-devices-and-circuits-ex-151"
+>}}
+{{< subject-card 
+    subject="Electrical Circuits and Machines"
+    code="EE154"
+    link="/syllabus/computer/year1-part2/electrical-circuits-and-machines-ee-154"
+>}}
+{{< subject-card
+    subject="Engineering Chemistry"
+    code="SH153"
+    link="/syllabus/computer/year1-part2/engineering-chemistry-sh-153"
+>}}
+</div>
   
 ## Teaching & Examination Schedule
 

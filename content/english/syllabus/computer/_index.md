@@ -12,12 +12,19 @@ Below, you will find links to the detailed syllabus for programs offered under t
 
 ### Bachelor of Computer Engineering (BCT) Program Syllabus
 
-Please select the respective year and part to view or download the detailed syllabus.
+Please select the respective year and part to view the detailed syllabus.
 
-*   [BCT First Year - Part I Syllabus](/syllabus/computer/year1-part1/)
+<!-- *   [BCT First Year - Part I Syllabus](/syllabus/computer/year1-part1/)
 *   [BCT First Year - Part II Syllabus](/syllabus/computer/year1-part2/)
 *   [BCT Second Year - Part I Syllabus](/syllabus/computer/year2-part1/)
-*   [BCT Second Year - Part II Syllabus](/syllabus/computer/year2-part2/)
+*   [BCT Second Year - Part II Syllabus](/syllabus/computer/year2-part2/) -->
+
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+{{< semester-card link="/syllabus/computer/year1-part1" icon="fa-regular fa-calendar" title="BCT [I/I]" stat_label="View Syllabus" >}}
+{{< semester-card link="/syllabus/computer/year1-part2" icon="fa-regular fa-calendar" title="BCT [I/II]" stat_label="View Syllabus" >}}
+{{< semester-card link="/syllabus/computer/year2-part1" icon="fa-regular fa-calendar" title="BCT [II/I]" stat_label="View Syllabus" >}}
+{{< semester-card link="/syllabus/computer/year2-part2" icon="fa-regular fa-calendar" title="BCT [II/II]" stat_label="View Syllabus" >}}
+</div>
 
 **Note on Syllabus Structure:**
 Engineering programs at IOE, including BCT, typically span multiple academic years, each divided into two parts (Part I and Part II), corresponding to semesters. Each link above should lead to a page detailing the subjects for that specific year and part of the BCT program.

@@ -7,13 +7,15 @@ image: "/images/syllabus/electronics-syllabus.jpg"
 tags: ["BEI", "Electronics Engineering"]
 subject: "Engineering Mathematics III"
 subject_code: "ENSH 201"
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 3
+tutorial: 2
+practical: 0
+year: 'II'
+part: 'I'
 ---
 
-**Lecture**: 3  
-**Tutorial**: 2  
-**Practical**: 0  
-**Year**: II  
-**Part**: I  
 
 ### Course Objectives
 The objective of this course is to equip students with understanding and practical application of Fourier series, Fourier transform, function of complex variable, partial differential equations and obtaining mathematical models and Z- transform.

@@ -1,18 +1,20 @@
 ---
-title: "Digital Logic (EX152) - BCT I/II Syllabus"
+title: "Digital Logic - BCT I/II Syllabus"
 meta_title: "Syllabus: Digital Logic (EX152) - BCT Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Digital Logic (EX152), a first year, second part subject in the IOE BCT program."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
-author: "John Doe"
 tags: ["BCT", "Computer Engineering"]
+subject: "Digital Logic"
+subject_code: "EX152"
+faculty: "Computer Engineering"
+faculty-code: "BCT"
+lecture: 3
+tutorial: 1
+practical: 3
+year: 'I'
+part: 'II'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3  
-**Year**: I  
-**Part**: II  
 
 ## Course Objectives
 

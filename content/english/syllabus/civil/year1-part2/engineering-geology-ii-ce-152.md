@@ -7,13 +7,14 @@ image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
 subject: "Engineering Geology II"
 subject_code: "CE152"
+faculty: "Civil Engineering"
+faculty-code: "BCE"
+lecture: 2
+tutorial: 0
+practical: 2
+year: 'I'
+part: 'II'
 ---
-
-**Lecture**: 2  
-**Tutorial**: 0  
-**Practical**: 2/2  
-**Year**: I  
-**Part**: II  
 
 ## Course Objectives
 
@@ -106,4 +107,4 @@ A two-days fieldwork to provide practical on-site knowledge of engineering geolo
 7. Todd, D.K and Mays, L.W. (2005). *Groundwater Hydrology*, John Wiley and Sons Inc. 652p.  
 8. Krynine, D., & Judd, W. R. (2005). *Principles of Engineering Geology and Geotechnics*. CBS Publishers.  
 9. Deoja, B., Dhital, M., Wagner, A., & K.B, T. (1991). *Mountain Risk Engineering Handbooks I and II*. ICIMOD.  
-10. Dhital, M.R. (2015), *Geology of the Nepal Himalaya*, Springer International Published, Switzerland.  
+10. Dhital, M.R. (2015), *Geology of the Nepal Himalaya*, Springer International Published, Switzerland.

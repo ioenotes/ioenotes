@@ -11,12 +11,46 @@ This page contains the complete syllabus, teaching schedule, and examination sch
 
 ## Subject Links
 
-- [Engineering Mathematics II (SH151)](/syllabus/civil/year1-part2/engineering-mathematics-ii-sh-151)
+<!-- - [Engineering Mathematics II (SH151)](/syllabus/civil/year1-part2/engineering-mathematics-ii-sh-151)
 - [Engineering Physics (SH152)](/syllabus/civil/year1-part2/engineering-physics-sh-152)
 - [Engineering Drawing (ME158)](/syllabus/civil/year1-part2/engineering-drawing-me-158)
 - [Strength of Materials (CE151)](/syllabus/civil/year1-part2/strength-of-materials-ce-151)
 - [Engineering Geology II (CE152)](/syllabus/civil/year1-part2/engineering-geology-ii-ce-152)
-- [Engineering Survey I (CE153)](/syllabus/civil/year1-part2/engineering-survey-i-ce-153)
+- [Engineering Survey I (CE153)](/syllabus/civil/year1-part2/engineering-survey-i-ce-153) -->
+
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-6">
+{{< subject-card 
+    subject="Engineering Mathematics II"
+    code="SH151"
+    link="/syllabus/civil/year1-part2/engineering-mathematics-ii-sh-151"
+>}}
+{{< subject-card 
+    subject="Engineering Physics"
+    code="SH152"
+    link="/syllabus/civil/year1-part2/engineering-physics-sh-152"
+>}}
+{{< subject-card 
+    subject="Engineering Drawing"
+    code="ME158"
+    link="/syllabus/civil/year1-part2/engineering-drawing-me-158"
+>}}
+{{< subject-card 
+    subject="Strength of Materials"
+    code="CE151"
+    link="/syllabus/civil/year1-part2/strength-of-materials-ce-151"
+>}}
+{{< subject-card 
+    subject="Engineering Geology II"
+    code="CE152"
+    link="/syllabus/civil/year1-part2/engineering-geology-ii-ce-152"
+>}}
+{{< subject-card
+    subject="Engineering Survey I"
+    code="CE153"
+    link="/syllabus/civil/year1-part2/engineering-survey-i-ce-153"
+>}}
+</div>
+
 
 ## Teaching & Examination Schedule
 

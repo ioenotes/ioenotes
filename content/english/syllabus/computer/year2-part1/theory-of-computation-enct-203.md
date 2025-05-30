@@ -7,13 +7,14 @@ image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
 subject: "Theory of Computation"
 subject_code: "ENCT203"
+faculty: "Computer Engineering"
+faculty-code: "BCT"
+lecture: 3
+tutorial: 1
+practical: 0
+year: 'II'
+part: 'I'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 0  
-**Year**: II  
-**Part**: I  
 
 ## Course Objectives
 

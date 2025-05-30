@@ -4,16 +4,17 @@ meta_title: "Syllabus: Numerical Methods (ENSH 202) - Civil Year 2 Part 1 | IOE 
 description: "Detailed syllabus for Numerical Methods (ENSH 202), a second year, first part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
-tags: ["Civil", "Civil Engineering", "Mathematics"]
+tags: ["Civil", "Civil Engineering"]
 subject: "Numerical Methods"
 subject_code: "ENSH 202"
+faculty: "Civil Engineering"
+faculty-code: "BCE"
+lecture: 3
+tutorial: 1
+practical: 3
+year: 'II'
+part: 'I'
 ---
-
-**Lecture**: 3 hours  
-**Tutorial**: 1 hour  
-**Practical**: 3 hours  
-**Year**: II  
-**Part**: I
 
 ## Course Objectives
 

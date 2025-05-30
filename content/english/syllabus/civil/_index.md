@@ -11,9 +11,12 @@ This page contains the complete syllabus, teaching schedule, and examination sch
 
 ### Bachelor of Civil Engineering (BCE) Program Syllabus
 
-- [BE Civil (BCE) Year 1 Part 1](year1-part1)
-- [BE Civil (BCE) Year 1 Part 2](year1-part2)
-- [BE Civil (BCE) Year 2 Part 1](year2-part1)
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+{{< semester-card link="/syllabus/civil/year1-part1" icon="fa-regular fa-calendar" title="BCE [I/I]" stat_label="View Syllabus" >}}
+{{< semester-card link="/syllabus/civil/year1-part2" icon="fa-regular fa-calendar" title="BCE [I/II]" stat_label="View Syllabus" >}}
+{{< semester-card link="/syllabus/civil/year2-part1" icon="fa-regular fa-calendar" title="BCE [II/I]" stat_label="View Syllabus" >}}
+{{< semester-card link="/syllabus/civil/year2-part2" icon="fa-regular fa-calendar" title="BCE [II/II]" stat_label="View Syllabus" >}}
+</div>
 
 **Important Notes**
 

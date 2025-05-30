@@ -7,13 +7,14 @@ image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
 subject: "Foundation of Data Science"
 subject_code: "ENCT202"
+faculty: "Computer Engineering"
+faculty-code: "BCT"
+lecture: 3
+tutorial: 1
+practical: 3
+year: 'II'
+part: 'I'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3  
-**Year**: II  
-**Part**: I  
 
 ## Course Objectives
 
@@ -151,4 +152,4 @@ The questions will cover all the chapters in the syllabus. The evaluation scheme
 3. Grus, J. (2019). Data Science from Scratch: First Principles with Python. United States: O'Reilly Media.  
 4. Bruce, P., Bruce, A. (2017). Practical Statistics for Data Scientists: 50 Essential Concepts. United States: O'Reilly Media.  
 5. VanderPlas, J. (2016). Python Data Science Handbook: Essential Tools for Working with Data. United States: O'Reilly Media.  
-6. Provost, F., Fawcett, T. (2013). Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking. United States: O'Reilly Media.  
+6. Provost, F., Fawcett, T. (2013). Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking. United States: O'Reilly Media.

@@ -1,88 +1,109 @@
-/* Add your own custom styles here */
-
-/* Enhanced breadcrumb styling */
-nav[aria-label="Breadcrumb"] {
-  padding: 0.5rem 0;
-  margin-bottom: 1.5rem;
+/* =====================
+   THEME VARIABLES SETUP
+   ===================== */
+:root {
+  --color-primary: #000;
+  --color-body: #fff;
+  --color-border: #ccc;
+  --color-light: #f0f0f0;
+  --color-dark: #111;
+  --color-text: #000;
+  --color-text-dark: #000;
+  --color-text-light: #888;
 }
 
-nav[aria-label="Breadcrumb"] ul {
-  background-color: #f8f9fa;
-  border-radius: 6px;
-  padding: 0.6rem 1rem;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+.dark {
+  --color-primary: #fff;
+  --color-body: #18181b;
+  --color-border: #444;
+  --color-light: #222;
+  --color-dark: #fff;
+  --color-text: #e5e5e5;
+  --color-text-dark: #111;
+  --color-text-light: #bbb;
 }
 
-.dark nav[aria-label="Breadcrumb"] ul {
-  background-color: #222222;
+body {
+  background: var(--color-body);
+  color: var(--color-text);
 }
 
-.breadcrumb-item {
-  position: relative;
+/* =====================
+   MODERN TABLE STYLES
+   ===================== */
+.content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  background: var(--color-light);
+  color: var(--color-text-dark);
+  font-size: 1rem;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  box-shadow: 0 2px 16px 0 rgba(0,0,0,0.04);
 }
 
-.breadcrumb-separator {
-  opacity: 0.7;
+.content table th {
+  background: var(--color-body);
+  color: var(--color-text-dark);
+  padding: 1rem 0.75rem;
+  font-weight: 700;
+  text-align: left;
+  border-bottom: 2px solid var(--color-border);
+  letter-spacing: 0.01em;
 }
 
-.breadcrumb-item.current span {
-  color: #555;
-  font-weight: 500;
+.content table td {
+  padding: 1rem 0.75rem;
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-text);
+  font-weight: 400;
 }
 
-.dark .breadcrumb-item.current span {
-  color: #d1d5db;
+.content table tr:hover {
+  background: var(--color-light);
 }
 
-.breadcrumb-item svg {
-  margin-right: 4px;
+.content table tr:last-child td {
+  border-bottom: none;
 }
 
-@media (max-width: 640px) {
-  nav[aria-label="Breadcrumb"] {
-    font-size: 0.85rem;
-  }
-  
-  nav[aria-label="Breadcrumb"] ul {
-    padding: 0.5rem 0.7rem;
-  }
-  
-  .breadcrumb-separator {
-    margin-left: 0.3rem;
-    margin-right: 0.3rem;
-  }
+/* =====================
+   MODERN CARD STYLES
+   ===================== */
+.faculty-card-link,
+.subject-card-link {
+  @apply bg-gradient-to-br from-body via-light/70 to-white dark:from-darkmode-body dark:via-darkmode-light/70 dark:to-darkmode-light rounded-2xl border border-border dark:border-darkmode-border shadow-sm p-8 transition-all duration-200;
 }
 
-/* Improve the look of hyperlinks in syllabus pages */
-.content a {
-  color: #0066cc;
-  text-decoration: none;
-  border-bottom: 1px dotted #0066cc;
-  transition: all 0.2s ease-in-out;
+.faculty-card-link:hover,
+.subject-card-link:hover {
+  @apply shadow-md border-text dark:border-darkmode-text;
 }
 
-.content a:hover {
-  color: #004080;
-  border-bottom: 1px solid #004080;
-  background-color: rgba(0, 102, 204, 0.05);
+.dark .faculty-card-link,
+.dark .subject-card-link {
+  @apply bg-gradient-to-br from-darkmode-body via-darkmode-light/70 to-darkmode-light;
 }
 
-.content a:focus {
-  outline: 2px solid rgba(0, 102, 204, 0.3);
-  outline-offset: 2px;
+/* =====================
+   BUTTON FIXES FOR DARK MODE
+   ===================== */
+.btn-primary {
+  @apply inline-block px-4 py-2 rounded-lg bg-primary text-white dark:bg-darkmode-primary dark:text-darkmode-body font-semibold shadow hover:bg-primary/90 dark:hover:bg-darkmode-primary/80 transition;
 }
 
-/* External links styling (arrow removed as requested) */
-.content a[href^="http"] {
-  /* No special indicator for external links */
+.btn {
+  @apply inline-block px-4 py-2 rounded-lg font-semibold transition;
 }
 
-/* Style contribution section links to match content styling but with distinct appearance */
+/* =====================
+   MONOCHROME CONTRIBUTION LINKS
+   ===================== */
 .mt-12.p-6.bg-light a, 
 .mt-12.p-6.bg-light.dark\:bg-darkmode-light a {
-  color: #0066cc;
-  text-decoration: none;
-  border-bottom: 1px dotted #0066cc;
+  color: var(--color-text-dark);
+  border-bottom: 1px dotted var(--color-border);
   transition: all 0.2s ease-in-out;
   position: relative;
   padding-bottom: 1px;
@@ -90,47 +111,40 @@ nav[aria-label="Breadcrumb"] ul {
 }
 
 .dark .mt-12.p-6.bg-light.dark\:bg-darkmode-light a {
-  color: #66b0ff;
-  border-bottom: 1px dotted #66b0ff;
+  color: var(--color-text);
+  border-bottom: 1px dotted var(--color-border);
 }
 
 .mt-12.p-6.bg-light a:hover, 
 .mt-12.p-6.bg-light.dark\:bg-darkmode-light a:hover {
-  color: #004080;
-  border-bottom: 1px solid #004080;
-  background-color: rgba(0, 102, 204, 0.08);
+  color: var(--color-primary);
+  border-bottom: 1px solid var(--color-primary);
+  background: var(--color-light);
   border-radius: 2px;
 }
 
 .dark .mt-12.p-6.bg-light.dark\:bg-darkmode-light a:hover {
-  color: #99ccff;
-  border-bottom: 1px solid #99ccff;
-  background-color: rgba(102, 176, 255, 0.1);
+  color: var(--color-primary);
+  border-bottom: 1px solid var(--color-primary);
+  background: var(--color-dark);
 }
 
 .mt-12.p-6.bg-light a:focus,
 .mt-12.p-6.bg-light.dark\:bg-darkmode-light a:focus {
-  outline: 2px solid rgba(0, 102, 204, 0.3);
+  outline: 2px solid var(--color-border);
   outline-offset: 2px;
 }
 
 .dark .mt-12.p-6.bg-light.dark\:bg-darkmode-light a:focus {
-  outline: 2px solid rgba(102, 176, 255, 0.4);
+  outline: 2px solid var(--color-border);
 }
 
-/* External links in contribution section (arrow removed as requested) */
-.mt-12.p-6.bg-light a[href^="http"],
-.mt-12.p-6.bg-light.dark\:bg-darkmode-light a[href^="http"] {
-  /* No special indicator for external links */
-}
-
-/* Improve styling of lists in syllabus content */
+/* =====================
+   CONTENT LIST STYLES
+   ===================== */
 .content ul, .content ol {
-  /* padding-left: 1.2rem; */
-  /* margin-bottom: 1.5rem; */
   background: none !important;
   box-shadow: none !important;
-  /* padding: 1.2rem 1.2rem 1.2rem 2.4rem; */
   border-radius: 0.5rem;
 }
 
@@ -146,28 +160,4 @@ nav[aria-label="Breadcrumb"] ul {
 /* No bullet styling as requested */
 .content p > strong:first-child {
   display: inline-block;
-}
-
-/* Better table formatting for syllabus */
-.content table {
-  width: 100%;
-  border-collapse: collapse;
-  margin: 1.5rem 0;
-}
-
-.content table th {
-  background-color: rgba(0, 102, 204, 0.1);
-  padding: 0.75rem;
-  font-weight: 600;
-  text-align: left;
-  border-bottom: 2px solid #e2e8f0;
-}
-
-.content table td {
-  padding: 0.75rem;
-  border-bottom: 1px solid #e2e8f0;
-}
-
-.content table tr:hover {
-  background-color: rgba(0, 102, 204, 0.03);
 }

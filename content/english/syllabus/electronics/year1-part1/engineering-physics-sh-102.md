@@ -4,16 +4,18 @@ meta_title: "Syllabus: Engineering Physics (SH102) - BEI Year 1 Part 1 | IOE Not
 description: "Detailed syllabus for Engineering Physics (SH102), a first year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
-tags: ["BEI", "Electronics Engineering"]
+tags: ["BEI", "Electronics, Communication and Information Engineering"]
 subject: "Engineering Physics"
 subject_code: "SH102"
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 4
+tutorial: 1
+practical: 2
+year: 'I'
+part: 'I'
 ---
 
-**Lecture**: 4  
-**Tutorial**: 1  
-**Practical**: 2  
-**Year**: I  
-**Part**: I  
 
 ### Course Objectives
 To provide students a concept and sound knowledge of physics with the emphasis in present day applications to apply them in relevant fields. The background of physics corresponding to Proficiency Certificate Level is assumed.

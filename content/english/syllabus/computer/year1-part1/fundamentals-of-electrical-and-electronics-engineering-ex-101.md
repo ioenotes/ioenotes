@@ -7,13 +7,14 @@ image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
 subject: "Fundamentals of Electrical and Electronics Engineering"
 subject_code: "EX101"
+faculty: "Computer Engineering"
+faculty-code: "BCT"
+lecture: 3
+tutorial: 1
+practical: 3
+year: 'I'
+part: 'I'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3  
-**Year**: I  
-**Part**: I  
 
 ## Course Objectives
 

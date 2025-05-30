@@ -11,13 +11,53 @@ This page contains the complete syllabus, teaching schedule, and examination sch
 
 ## Subject Links
 
-- [Engineering Mathematics I (SH101)](/syllabus/civil/year1-part1/engineering-mathematics-i-sh-101)
+<!-- - [Engineering Mathematics I (SH101)](/syllabus/civil/year1-part1/engineering-mathematics-i-sh-101)
 - [Engineering Chemistry (SH103)](/syllabus/civil/year1-part1/engineering-chemistry-sh-103)
 - [Computer Programming (CT101)](/syllabus/civil/year1-part1/computer-programming-ct-101)
 - [Basic Electrical and Electronics Engineering (EE103)](/syllabus/civil/year1-part1/basic-electrical-and-electronics-engineering-ee-103)
 - [Engineering Mechanics (CE101)](/syllabus/civil/year1-part1/engineering-mechanics-ce-101)
 - [Engineering Geology I (CE102)](/syllabus/civil/year1-part1/engineering-geology-i-ce-102)
-- [Civil Engineering Materials (CE103)](/syllabus/civil/year1-part1/civil-engineering-materials-ce-103)
+- [Civil Engineering Materials (CE103)](/syllabus/civil/year1-part1/civil-engineering-materials-ce-103) -->
+
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-6">
+{{< subject-card 
+    subject="Computer Programming"
+    code="CS101"
+    link="/syllabus/civil/year1-part1/computer-programming-ct-101"
+>}} 
+{{< subject-card 
+    subject="Engineering Mathematics I"
+    code="SH101"
+    link="/syllabus/civil/year1-part1/engineering-mathematics-i-sh-101"
+>}}
+{{< subject-card 
+    subject="Engineering Chemistry"
+    code="SH103"
+    link="/syllabus/civil/year1-part1/engineering-chemistry-sh-103"
+>}}
+{{< subject-card 
+    subject="Basic Electrical and Electronics Engineering"
+    code="EE103"
+    link="/syllabus/civil/year1-part1/basic-electrical-and-electronics-engineering-ee-103"
+>}}
+{{< subject-card 
+    subject="Engineering Mechanics"
+    code="CE101"
+    link="/syllabus/civil/year1-part1/engineering-mechanics-ce-101"
+>}}
+{{< subject-card 
+    subject="Engineering Geology I"
+    code="CE102"
+    link="/syllabus/civil/year1-part1/engineering-geology-i-ce-102"
+>}}
+{{< subject-card
+    subject="Civil Engineering Materials"
+    code="CE103"
+    link="/syllabus/civil/year1-part1/civil-engineering-materials-ce-103"
+>}} 
+
+</div>
+
 
 ## Teaching & Examination Schedule
 

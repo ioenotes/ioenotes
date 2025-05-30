@@ -44,6 +44,45 @@ Strike through uses two tildes. ~~Scratch this.~~
 
 <hr>
 
+### Faculty Card
+
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+  {{< faculty-card icon="fa-solid fa-microchip" faculty="Computer Engineering" stat_label="View Syllabus" link="/" >}}
+  {{< faculty-card icon="fa-solid fa-bolt" faculty="Electrical Engineering" stat_label="View Syllabus" link="/" >}}
+  {{< faculty-card icon="fa-solid fa-building-columns" faculty="Civil Engineering" stat_label="View Syllabus" link="/" >}}
+  {{< faculty-card icon="fa-solid fa-gears" faculty="Mechanical Engineering" stat_label="View Syllabus" link="/" >}}
+  {{< faculty-card icon="fa-solid fa-industry" faculty="Industrial Engineering" stat_label="View Syllabus" link="/" >}}
+  {{< faculty-card icon="fa-solid fa-flask" faculty="Chemical Engineering" stat_label="View Syllabus" link="/" >}}
+</div>
+
+### Semester Card
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+{{< semester-card link="/your-link" icon="fa-regular fa-calendar" title="First Year First Part" stat_label="View Syllabus" >}}
+{{< semester-card link="/" icon="fa-regular fa-calendar" title="First Year Second Part" stat_label="View Syllabus" >}}
+{{< semester-card link="/" icon="fa-regular fa-calendar" title="Second Year First Part" stat_label="View Syllabus" >}}
+{{< semester-card link="/" icon="fa-regular fa-calendar" title="Second Year Second Part" stat_label="View Syllabus" >}}
+</div>
+
+### Subject Card
+
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+  {{< subject-card 
+    subject="Computer Programming"
+    code="CS101"
+    link="/subjects/cs101"
+  >}}
+  {{< subject-card 
+    subject="Digital Logic Design"
+    code="EE201"
+    link="/subjects/ee201"
+  >}}
+  {{< subject-card 
+    subject="Engineering Mathematics"
+    code="MA101"
+    link="/subjects/ma101"
+  >}}
+</div>
+
 ### Link
 
 [I'm an inline-style link](https://www.google.com)
@@ -139,7 +178,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 {{< tab "Tab 3" >}}
 
-#### We know you’re dealing in stolen ore
+#### We know you're dealing in stolen ore
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 

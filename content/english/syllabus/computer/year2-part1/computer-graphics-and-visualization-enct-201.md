@@ -1,17 +1,20 @@
 ---
-title: "Computer Graphics and Visualization (ENCT201) - BCT II/I Syllabus"
+title: "Computer Graphics and Visualization - BCT II/I Syllabus"
 meta_title: "Syllabus: Computer Graphics and Visualization (ENCT201) - BCT Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Computer Graphics and Visualization (ENCT201), a second year, first part subject in the IOE BCT (Bachelor of Computer Engineering) program. Covers graphics systems, algorithms, transformations, modeling, and visualization techniques."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
+subject: "Computer Graphics and Visualization"
+subject_code: "ENCT201"
+faculty: "Computer Engineering"
+faculty-code: "BCT"
+lecture: 3
+tutorial: 1
+practical: 3
+year: 'II'
+part: 'I'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3  
-**Year**: II  
-**Part**: I  
 
 ## Course Objectives
 

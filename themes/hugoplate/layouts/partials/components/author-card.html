@@ -1,25 +1,18 @@
-<div class="bg-light dark:bg-darkmode-light rounded p-8 text-center">
+<div class="author-card card-modern flex flex-col items-center text-center">
   {{ $image:= .Params.image }}
   {{ if $image }}
-    {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "mx-auto mb-6 rounded" "size" "120x120") }}
+    {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "mx-auto mb-6 rounded-full border-4 border-border dark:border-darkmode-border shadow-sm" "size" "120x120") }}
   {{ else if .Params.Email }}
-    <img
-      class="mx-auto mb-6 rounded"
-      alt="{{ .Title }}"
-      height="120"
-      width="120"
-      src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" />
+    <img class="mx-auto mb-6 rounded-full border-4 border-border dark:border-darkmode-border shadow-sm" alt="{{ .Title }}" height="120" width="120" src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon" />
   {{ end }}
-  <h4 class="mb-3">
+  <h4 class="mb-2 text-xl font-bold text-text-dark dark:text-darkmode-text-dark group-hover:text-text dark:group-hover:text-darkmode-text transition-colors duration-200">
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   </h4>
-  <p class="mb-4">
-    {{ .Summary }}
-  </p>
-  <ul class="social-icons">
+  <p class="mb-4 text-base text-text-light dark:text-darkmode-text-light line-clamp-2">{{ .Summary }}</p>
+  <ul class="flex justify-center gap-3 mt-2">
     {{ range .Params.social }}
       <li>
-        <a href="{{ .link | safeURL }}" target="_blank" rel="noopener nofollow">
+        <a href="{{ .link | safeURL }}" target="_blank" rel="noopener nofollow" class="inline-flex items-center justify-center w-9 h-9 rounded-lg bg-primary dark:bg-darkmode-primary text-body dark:text-darkmode-body hover:bg-text dark:hover:bg-darkmode-text transition-colors duration-200">
           <span class="sr-only">{{ .title }}</span>
           <i class="{{ .icon }}"></i>
         </a>

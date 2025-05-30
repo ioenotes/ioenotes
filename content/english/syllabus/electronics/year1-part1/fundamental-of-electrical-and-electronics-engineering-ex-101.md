@@ -4,16 +4,18 @@ meta_title: "Syllabus: Fundamental of Electrical and Electronics Engineering (EX
 description: "Detailed syllabus for Fundamental of Electrical and Electronics Engineering (EX101), a first year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
-tags: ["BEI", "Electronics Engineering"]
+tags: ["BEI", "Electronics, Communication and Information Engineering"]
 subject: "Fundamental of Electrical and Electronics Engineering"
 subject_code: "EX101"
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 3
+tutorial: 1
+practical: 3
+year: 'I'
+part: 'I'
 ---
 
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3  
-**Year**: I  
-**Part**: I  
 
 ### Course Objectives
 Objective of the course is to understand the language of electronics, elements, and their functionality, to introduce the DC and AC circuit analysis and basic understanding of analog systems and their applications.
@@ -111,4 +113,4 @@ Objective of the course is to understand the language of electronics, elements, 
 | 6   | The Operational Amplifier and Oscillator| 6              | 10    |
 |     | **Total**                               | **45**         | **60**|
 
-*There may be minor deviation in mark distribution.* 
+*There may be minor deviation in mark distribution.*

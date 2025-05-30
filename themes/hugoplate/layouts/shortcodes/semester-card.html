@@ -1,0 +1,19 @@
+<a href="{{ .Get "link" }}"
+   class="group faculty-card-link block w-full h-full no-underline text-inherit hover:no-underline focus:no-underline active:no-underline visited:no-underline hover:text-inherit focus:text-inherit active:text-inherit visited:text-inherit">
+    <div class="not-prose flex items-center justify-between p-3">
+        <!-- Content -->
+        <div class="flex-grow min-w-0">
+            <h3 class="text-lg font-bold text-text-dark dark:text-darkmode-text-dark group-hover:text-text dark:group-hover:text-darkmode-text transition-colors duration-200">
+                {{ .Get "title" }}
+            </h3>
+            <span class="block mt-1 text-sm text-text-light dark:text-darkmode-text-light">
+                {{ with .Get "universities" }}{{ . }} {{ end }}{{ with .Get "stat_label" }}{{ . }}{{ end }}
+            </span>
+        </div>
+
+        <!-- Arrow -->
+        <div class="flex-shrink-0 ml-3 text-text-light dark:text-darkmode-text-light group-hover:text-text dark:group-hover:text-darkmode-text group-hover:translate-x-1 transition-all duration-200">
+            <i class="fa-solid fa-arrow-right text-lg"></i>
+        </div>
+    </div>
+</a>

@@ -1,19 +1,20 @@
 ---
 title: "Engineering Mathematics II - BEI I/II Syllabus"
-meta_title: "Syllabus: Engineering Mathematics II (SH 151) - BEI Year 1 Part 2 | IOE Notes"
-description: "Detailed syllabus for Engineering Mathematics II (SH 151), a first year, second part subject in the IOE BEI program."
+meta_title: "Syllabus: Engineering Mathematics II (SH151) - BEI Year 1 Part 2 | IOE Notes"
+description: "Detailed syllabus for Engineering Mathematics II (SH151), a first year, second part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
-tags: ["BEI", "Electronics Engineering"]
+tags: ["BEI", "Electronics, Communication and Information Engineering"]
 subject: "Engineering Mathematics II"
-subject_code: "SH 151"
+subject_code: "SH151"
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 3
+tutorial: 2
+practical: 0
+year: 'I'
+part: 'II'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 0  
-**Year**: I  
-**Part**: II  
 
 ### Course Objectives
 After completion of the course students will be able to apply knowledge of partial differentiation, multiple integrals, vector calculus, optimization, matrices and infinite series in their corresponding study area.

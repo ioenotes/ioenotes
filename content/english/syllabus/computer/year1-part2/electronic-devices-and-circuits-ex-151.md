@@ -1,17 +1,20 @@
 ---
-title: "Electronic Devices and Circuits (EX151) - BCT I/II Syllabus"
+title: "Electronic Devices and Circuits - BCT I/II Syllabus"
 meta_title: "Syllabus: Electronic Devices and Circuits (EX151) - BCT Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Electronic Devices and Circuits (EX151), a first year, second part subject in the IOE BCT program."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
+subject: "Electronic Devices and Circuits"
+subject_code: "EX151"
+faculty: "Computer Engineering"
+faculty-code: "BCT"
+lecture: 3
+tutorial: 1
+practical: 3
+year: 'I'
+part: 'II'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3  
-**Year**: I  
-**Part**: II  
 
 ## Course Objectives
 
@@ -126,4 +129,4 @@ The questions will cover all the chapters in the syllabus. The evaluation scheme
 2. Robert Boylestad and Louis Nashelsky, (2007). "Electronic Device and Circuit Theory", PHI; 9th Edition.  
 3. Thomas L. Floyd, (2007) "Electronic Devices", 8th Edition, Pearson Education Inc.  
 4. Jacob Millman, C. Halkias, C.D Parikh, (2010). "Integrated Electronics" 2nd Edition McGraw Hill Education P. Ltd.  
-5. David A. Bell, (2010). "Electronic Devices and Circuits", 5th Edition, Oxford Press.  
+5. David A. Bell, (2010). "Electronic Devices and Circuits", 5th Edition, Oxford Press.

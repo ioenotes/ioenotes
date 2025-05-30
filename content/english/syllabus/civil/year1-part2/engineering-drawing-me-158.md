@@ -7,13 +7,14 @@ image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
 subject: "Engineering Drawing"
 subject_code: "ME158"
+faculty: "Civil Engineering"
+faculty-code: "BCE"
+lecture: 2
+tutorial: 0
+practical: 4
+year: 'I'
+part: 'II'
 ---
-
-**Lecture**: 2  
-**Tutorial**: 0  
-**Practical**: 4  
-**Year**: I  
-**Part**: II  
 
 ## Course Objectives
 

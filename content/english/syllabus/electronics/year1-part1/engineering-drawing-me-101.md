@@ -4,16 +4,17 @@ meta_title: "Syllabus: Engineering Drawing (ME101) - BEI Year 1 Part 1 | IOE Not
 description: "Detailed syllabus for Engineering Drawing (ME101), a first year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
-tags: ["BEI", "Electronics Engineering"]
+tags: ["BEI", "Electronics, Communication and Information Engineering"]
 subject: "Engineering Drawing"
 subject_code: "ME101"
----
-
-**Lecture**: 2  
-**Tutorial**: 0  
-**Practical**: 4  
-**Year**: I  
-**Part**: I  
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 2
+tutorial: 0
+practical: 4
+year: 'I'
+part: 'I'
+--- 
 
 ### Course Objectives
 To develop basic projection concepts with reference to points, lines, planes and geometrical solids. Also, to develop sketching and drafting skills to facilitate communication.
@@ -157,4 +158,4 @@ To develop basic projection concepts with reference to points, lines, planes and
 | 5   | 7              | 7              | 7     |
 |     | **Total**      | **30**         | **30**|
 
-*There may be minor deviation in mark distribution.* 
+*There may be minor deviation in mark distribution.*

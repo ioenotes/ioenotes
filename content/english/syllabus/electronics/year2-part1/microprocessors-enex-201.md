@@ -7,13 +7,15 @@ image: "/images/syllabus/electronics-syllabus.jpg"
 tags: ["BEI", "Electronics Engineering"]
 subject: "Microprocessors"
 subject_code: "ENEX 201"
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 3
+tutorial: 1
+practical: 3
+year: 'II'
+part: 'I'
 ---
 
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3  
-**Year**: II  
-**Part**: I  
 
 ### Course Objectives
 The objective of this course is to familiarize students with assembly language programming, hardware and applications of microprocessors. The course provides students with a comprehensive understanding of microprocessor architecture, programming, and interfacing techniques, with a focus on the Intel 8085 and 8086 microprocessors. Students will gain theoretical and practical knowledge of microprocessor-based systems, covering essential topics such as computer organization, instruction sets, memory and I/O interfacing, interrupt mechanisms, and advanced architectural concepts.

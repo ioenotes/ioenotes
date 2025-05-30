@@ -14,12 +14,45 @@ This page contains the complete syllabus, teaching schedule, and examination sch
 
 ## Subject Links
 
-- [Engineering Mathematics III (ENSH201)](engineering-mathematics-iii-ensh-201)
+<!-- - [Engineering Mathematics III (ENSH201)](engineering-mathematics-iii-ensh-201)
 - [Communication English (ENSH204)](communication-english-ensh-204)
 - [Computer Graphics and Visualization (ENCT201)](  computer-graphics-and-visualization-enct-201)
 - [Foundation of Data Science (ENCT202)](foundation-of-data-science-enct-202)
 - [Theory of Computation (ENCT203)](theory-of-computation-enct-203)
-- [Microprocessor (ENEX201)](microprocessors-enex-201)
+- [Microprocessor (ENEX201)](microprocessors-enex-201) -->
+
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+{{< subject-card 
+    subject="Engineering Mathematics III"
+    code="ENSH201"
+    link="/syllabus/computer/year2-part1/engineering-mathematics-iii-ensh-201"  
+>}}
+{{< subject-card 
+    subject="Communication English"
+    code="ENSH204"
+    link="/syllabus/computer/year2-part1/communication-english-ensh-204"    
+>}}
+{{< subject-card 
+    subject="Computer Graphics and Visualization"
+    code="ENCT201"
+    link="/syllabus/computer/year2-part1/computer-graphics-and-visualization-enct-201"  
+>}}
+{{< subject-card 
+    subject="Foundation of Data Science"
+    code="ENCT202"
+    link="/syllabus/computer/year2-part1/foundation-of-data-science-enct-202"   
+>}}
+{{< subject-card 
+    subject="Theory of Computation"
+    code="ENCT203"
+    link="/syllabus/computer/year2-part1/theory-of-computation-enct-203"
+>}} 
+{{< subject-card 
+    subject="Microprocessor"
+    code="ENEX201"
+    link="/syllabus/computer/year2-part1/microprocessors-enex-201"
+>}}
+</div>
 
 ## Teaching & Examination Schedule
 

@@ -1,17 +1,21 @@
 ---
 title: "Computer Programming - BEI I/I Syllabus"
+meta_title: "Syllabus: Computer Programming (CT101) - BEI Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Computer Programming (CT101), a first year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics, Communication and Information Engineering"]
 subject: "Computer Programming"
-course_code: "CT101"
+subject_code: "CT101"
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 3
+tutorial: 1
+practical: 3
+year: 'I'
+part: 'I'
 ---
 
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3  
-**Year**: I  
-**Part**: I  
 
 ### Course Objectives
 The primary goal of this course is to provide students with a solid foundation in the principles of programming and to impart practical skills in the C programming language. This course ensures that students comprehend the fundamental concepts of variables, data types, control structures, and functions within the context of C. Advanced topics such as pointers, structures, file handling and the Standard C Library are explored to broaden students' programming capabilities. Also, through project-based assessments and evaluations, students apply their knowledge to real-world scenarios, fostering creativity and project development skills.
@@ -194,4 +198,4 @@ The primary goal of this course is to provide students with a solid foundation i
 | 10  | Recent Trends in Programming       | 2              | 6     |
 |     | **Total**                          | **45**         | **60**|
 
-*There may be minor deviation in mark distribution.* 
+*There may be minor deviation in mark distribution.*

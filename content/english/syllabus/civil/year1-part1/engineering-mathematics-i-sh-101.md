@@ -7,13 +7,14 @@ image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
 subject: "Engineering Mathematics I"
 subject_code: "SH101"
+faculty: "Civil Engineering"
+faculty-code: "BCE"
+lecture: 3
+tutorial: 2
+practical: 0
+year: 'I'
+part: 'I'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 2  
-**Practical**: 0  
-**Year**: I  
-**Part**: I  
 
 ## Course Objectives
 
@@ -91,4 +92,4 @@ There shall be related tutorials exercised in class and given as regular homewor
 3. Kreyszig, A. (1993), *Advanced engineering Mathematics* (7th ed.), John Wiley & Sons.  
 4. Sastry S.S. (2008), *Engineering Mathematics Volume I and II* (4th ed.). PHI India.  
 5. Wylie C. and Barrett L.(1995), *Advanced Engineering Mathematics* (6th ed.), McGraw-Hill College.  
-6. Thomas, T. and Finny, R. (1984), *Calculus and Analytic Geometry* (6th ed.), Addison-Wesley.  
+6. Thomas, T. and Finny, R. (1984), *Calculus and Analytic Geometry* (6th ed.), Addison-Wesley.
