@@ -1,17 +1,21 @@
 ---
-title: "Engineering Survey I (CE153) - Civil I/II Syllabus"
+title: "Engineering Survey I - Civil I/II Syllabus"
 meta_title: "Syllabus: Engineering Survey I (CE153) - Civil Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Engineering Survey I (CE153), a first year, second part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
+subject: "Engineering Survey I"
+subject_code: "CE153"
+faculty: "Civil Engineering"
+faculty-code: "BCE"
+lecture: 3
+tutorial: 1
+practical: 4
+year: 'I'
+part: 'II'
 ---
 
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 4  
-**Year**: I  
-**Part**: II  
 
 ## Course Objectives
 
@@ -153,4 +157,4 @@ The objective of this course is to introduce student to the fundamentals of surv
 5. Agor R. (1980). *A Text Book of Surveying and Levelling*, khanna publisher India.  
 6. Duggal S.K. (2013). *Surveying: Volume 1 & 2*, Tata McGraw - Hill Education.  
 7. Dhakal B.B., Karki B.K. (2019). *Engineering surveying I & II*, Second edition, Heritage publication and distributors.  
-8. Basnet N., Basnet M. (2011). *Basic Surveying I & II*, National Book Center.  
+8. Basnet N., Basnet M. (2011). *Basic Surveying I & II*, National Book Center.

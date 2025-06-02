@@ -1,1 +1,163 @@
-/* Add your own custom styles here */
+/* =====================
+   THEME VARIABLES SETUP
+   ===================== */
+:root {
+  --color-primary: #000;
+  --color-body: #fff;
+  --color-border: #ccc;
+  --color-light: #f0f0f0;
+  --color-dark: #111;
+  --color-text: #000;
+  --color-text-dark: #000;
+  --color-text-light: #888;
+}
+
+.dark {
+  --color-primary: #fff;
+  --color-body: #18181b;
+  --color-border: #444;
+  --color-light: #222;
+  --color-dark: #fff;
+  --color-text: #e5e5e5;
+  --color-text-dark: #111;
+  --color-text-light: #bbb;
+}
+
+body {
+  background: var(--color-body);
+  color: var(--color-text);
+}
+
+/* =====================
+   MODERN TABLE STYLES
+   ===================== */
+.content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  background: var(--color-light);
+  color: var(--color-text-dark);
+  font-size: 1rem;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  box-shadow: 0 2px 16px 0 rgba(0,0,0,0.04);
+}
+
+.content table th {
+  background: var(--color-body);
+  color: var(--color-text-dark);
+  padding: 1rem 0.75rem;
+  font-weight: 700;
+  text-align: left;
+  border-bottom: 2px solid var(--color-border);
+  letter-spacing: 0.01em;
+}
+
+.content table td {
+  padding: 1rem 0.75rem;
+  border-bottom: 1px solid var(--color-border);
+  color: var(--color-text);
+  font-weight: 400;
+}
+
+.content table tr:hover {
+  background: var(--color-light);
+}
+
+.content table tr:last-child td {
+  border-bottom: none;
+}
+
+/* =====================
+   MODERN CARD STYLES
+   ===================== */
+.faculty-card-link,
+.subject-card-link {
+  @apply bg-gradient-to-br from-body via-light/70 to-white dark:from-darkmode-body dark:via-darkmode-light/70 dark:to-darkmode-light rounded-2xl border border-border dark:border-darkmode-border shadow-sm p-8 transition-all duration-200;
+}
+
+.faculty-card-link:hover,
+.subject-card-link:hover {
+  @apply shadow-md border-text dark:border-darkmode-text;
+}
+
+.dark .faculty-card-link,
+.dark .subject-card-link {
+  @apply bg-gradient-to-br from-darkmode-body via-darkmode-light/70 to-darkmode-light;
+}
+
+/* =====================
+   BUTTON FIXES FOR DARK MODE
+   ===================== */
+.btn-primary {
+  @apply inline-block px-4 py-2 rounded-lg bg-primary text-white dark:bg-darkmode-primary dark:text-darkmode-body font-semibold shadow hover:bg-primary/90 dark:hover:bg-darkmode-primary/80 transition;
+}
+
+.btn {
+  @apply inline-block px-4 py-2 rounded-lg font-semibold transition;
+}
+
+/* =====================
+   MONOCHROME CONTRIBUTION LINKS
+   ===================== */
+.mt-12.p-6.bg-light a, 
+.mt-12.p-6.bg-light.dark\:bg-darkmode-light a {
+  color: var(--color-text-dark);
+  border-bottom: 1px dotted var(--color-border);
+  transition: all 0.2s ease-in-out;
+  position: relative;
+  padding-bottom: 1px;
+  font-weight: 500;
+}
+
+.dark .mt-12.p-6.bg-light.dark\:bg-darkmode-light a {
+  color: var(--color-text);
+  border-bottom: 1px dotted var(--color-border);
+}
+
+.mt-12.p-6.bg-light a:hover, 
+.mt-12.p-6.bg-light.dark\:bg-darkmode-light a:hover {
+  color: var(--color-primary);
+  border-bottom: 1px solid var(--color-primary);
+  background: var(--color-light);
+  border-radius: 2px;
+}
+
+.dark .mt-12.p-6.bg-light.dark\:bg-darkmode-light a:hover {
+  color: var(--color-primary);
+  border-bottom: 1px solid var(--color-primary);
+  background: var(--color-dark);
+}
+
+.mt-12.p-6.bg-light a:focus,
+.mt-12.p-6.bg-light.dark\:bg-darkmode-light a:focus {
+  outline: 2px solid var(--color-border);
+  outline-offset: 2px;
+}
+
+.dark .mt-12.p-6.bg-light.dark\:bg-darkmode-light a:focus {
+  outline: 2px solid var(--color-border);
+}
+
+/* =====================
+   CONTENT LIST STYLES
+   ===================== */
+.content ul, .content ol {
+  background: none !important;
+  box-shadow: none !important;
+  border-radius: 0.5rem;
+}
+
+.content ul li, .content ol li {
+  margin-bottom: 0.5rem;
+}
+
+/* Style for decimal-numbered lists (e.g., 1.1, 1.2, 4.4) */
+.content p.decimal-list-item {
+  margin-bottom: 0.5rem;
+}
+
+/* No bullet styling as requested */
+.content p > strong:first-child {
+  display: inline-block;
+}

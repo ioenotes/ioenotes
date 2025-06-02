@@ -1,13 +1,27 @@
 {{ define "main" }}
-  <section class="section-sm">
+  <section class="py-12">
     <div class="container">
-      <div class="row justify-center">
-        <div class="md:col-10 lg:col-7">
-          <div class="w-full aspect-[3/1] mb-6">
+      <div class="max-w-4xl mx-auto">
+        {{ partial "components/breadcrumb.html" (dict "Context" . "Class" "mb-8") }}
+        
+        <!-- Header Section -->
+        <div class="bg-body dark:bg-darkmode-body dark:border-darkmode-border mb-8">
+          <div class="relative w-full aspect-[3/1] bg-light dark:bg-darkmode-light">
             <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="w-full h-full object-cover grayscale">
+            <div class="absolute inset-0 bg-gradient-to-t from-text-dark/50 to-transparent dark:from-darkmode-text-dark/50"></div>
           </div>
-          <h2 class="h3 mb-6">{{ .Title }}</h2>
-          <div class="content">{{ .Content }}</div>
+          
+          <div class="py-8">
+            <h2 class="text-3xl font-bold text-text-dark dark:text-darkmode-text-dark mb-4">{{ .Title }}</h2>
+            <div class="prose dark:prose-invert max-w-none text-text-light dark:text-darkmode-text-light">
+              {{ .Content }}
+            </div>
+          </div>
+        </div>
+
+        <!-- Contribution Section -->
+        <div class="mt-8">
+          {{ partial "contribution-section.html" . }}
         </div>
       </div>
     </div>

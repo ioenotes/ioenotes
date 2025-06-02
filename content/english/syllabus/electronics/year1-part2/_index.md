@@ -12,12 +12,45 @@ Below, you will find the curriculum details organized by academic year and part/
 ### BEI Syllabus First Year - Part II
 
 - **Subjects:**
-    1. [Engineering Mathematics II (SH151)](engineering-mathematics-ii-sh-151)
+    <!-- 1. [Engineering Mathematics II (SH151)](engineering-mathematics-ii-sh-151)
     2. [Object Oriented Programming (CT151)](object-oriented-programming-ct-151)
     3. [Electronic Device and Circuits (EX151)](electronic-device-and-circuits-ex-151)
     4. [Digital Logic (EX152)](digital-logic-ex-152)
     5. [Electrical Circuits and Machines (EE154)](electrical-circuits-and-machines-ee-154)
-    6. [Engineering Chemistry (SH153)](engineering-chemistry-sh-153)
+    6. [Engineering Chemistry (SH153)](engineering-chemistry-sh-153) -->
+
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-6">
+{{< subject-card 
+    subject="Engineering Mathematics II"
+    code="SH151"
+    link="/syllabus/electronics/year1-part2/engineering-mathematics-ii-sh-151" 
+>}}
+{{< subject-card 
+    subject="Object Oriented Programming"
+    code="CT151"
+    link="/syllabus/electronics/year1-part2/object-oriented-programming-ct-151"
+>}}
+{{< subject-card 
+    subject="Electronic Device and Circuits"
+    code="EX151"
+    link="/syllabus/electronics/year1-part2/electronic-device-and-circuits-ex-151"
+>}} 
+{{< subject-card 
+    subject="Digital Logic"
+    code="EX152"
+    link="/syllabus/electronics/year1-part2/digital-logic-ex-152"
+>}} 
+{{< subject-card 
+    subject="Electrical Circuits and Machines"
+    code="EE154"
+    link="/syllabus/electronics/year1-part2/electrical-circuits-and-machines-ee-154"
+>}}  
+{{< subject-card 
+    subject="Engineering Chemistry"
+    code="SH153"
+    link="/syllabus/electronics/year1-part2/engineering-chemistry-sh-153"
+>}}
+</div>  
 
 #### Teaching Schedule & Examination Scheme
 
@@ -41,15 +74,4 @@ Below, you will find the curriculum details organized by academic year and part/
 ---
 
 **Note on Syllabus Structure:**
-The BEI program typically spans four academic years, each divided into two parts (Part I and Part II), which correspond to semesters.
-
-**Placeholder Links:**
-The links provided above (e.g., `/syllabus/electronics/year1-part2/`) are placeholders. You will need to update these with the actual URLs to your specific BEI syllabus pages or documents once they are created. Each link should ideally lead to a page detailing the subjects, credit hours, and examination schemes for that particular part/semester.
-
-**Accuracy and Updates:**
-We strive to keep this information accurate and up-to-date. The syllabus is subject to revisions by IOE. Always cross-reference with official IOE announcements or your department for the most current version.
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!
-
-For updates specific to this BEI Year I, Part II Syllabus page, you can [suggest an edit directly on GitHub](https://github.com/ioenotes/ioenotes/blob/main/themes/hugoplate/content/english/syllabus/electronics/year1-part2/_index.md).
+The BEI program spans four academic years, each divided into two parts (Part I and Part II), which correspond to semesters.

@@ -1,15 +1,21 @@
 ---
-title: "Engineering Workshop (ME106) - BEI I/I Syllabus"
+title: "Engineering Workshop - BEI I/I Syllabus"
+meta_title: "Syllabus: Engineering Workshop (ME106) - BEI Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Engineering Workshop (ME106), a first year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics, Communication and Information Engineering"]
+subject: "Engineering Workshop"
+subject_code: "ME106"
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 1
+tutorial: 0
+practical: 3
+year: 'I'
+part: 'I'
 ---
 
-**Lecture**: 1  
-**Tutorial**: 0  
-**Practical**: 3  
-**Year**: I  
-**Part**: I  
 
 ### Course Objectives
 After completing this course, the students will be able to practice workshop safety rules effectively with different hand tools and machine tools for producing metal and sheet metal components. Acquire knowledge and practice on casting, forging, welding, soldering, brazing and riveting.

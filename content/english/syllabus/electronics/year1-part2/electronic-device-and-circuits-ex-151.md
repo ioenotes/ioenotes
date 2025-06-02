@@ -1,15 +1,21 @@
 ---
-title: "Electronic Device and Circuits (EX 151) - BEI I/II Syllabus"
-description: "Detailed syllabus for Electronic Device and Circuits (EX 151), a first year, second part subject in the IOE BEI program."
+title: "Electronic Device and Circuits - BEI I/II Syllabus"
+meta_title: "Syllabus: Electronic Device and Circuits (EX151) - BEI Year 1 Part 2 | IOE Notes"
+description: "Detailed syllabus for Electronic Device and Circuits (EX151), a first year, second part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics, Communication and Information Engineering"]
+subject: "Electronic Device and Circuits"
+subject_code: "EX151"
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 3
+tutorial: 1
+practical: 3
+year: 'I'
+part: 'II'
 ---
 
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3  
-**Year**: I  
-**Part**: II  
 
 ### Course Objectives
 To introduce the fundamentals of analysis of electronic circuits and to provide basic understanding of semiconductor devices and analog integrated circuits.

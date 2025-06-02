@@ -1,15 +1,20 @@
 ---
-title: "Digital Logic (EX152) - BEI I/II Syllabus"
+title: "Digital Logic - BEI I/II Syllabus"
+meta_title: "Syllabus: Digital Logic (EX152) - BEI Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Digital Logic (EX152), a first year, second part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics, Communication and Information Engineering"]
+subject: "Digital Logic"
+subject_code: "EX152"
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 3
+tutorial: 1
+practical: 3
+year: 'I'
+part: 'II'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3  
-**Year**: I  
-**Part**: II  
 
 ### Course Objectives
 This course mainly focuses on study, analyze basic principle, design and applications of digital circuitries in various fields. It also shows an important branch of the electronics that revolutionizes the modern digital world.
@@ -185,4 +190,4 @@ This course mainly focuses on study, analyze basic principle, design and applica
 | 8   | 8        | 5              | 7     |
 |     | **Total**| **45**         | **60**|
 
-*There may be minor deviation in marks distribution.* 
+*There may be minor deviation in marks distribution.*

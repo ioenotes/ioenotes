@@ -1,10 +1,19 @@
 ---
-title: "Engineering Drawing (ME101) - BCT I/I Syllabus"
+title: "Engineering Drawing - BCT I/I Syllabus"
 meta_title: "Syllabus: Engineering Drawing (ME101) - BCT Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Engineering Drawing (ME101), a first year, first part subject in the IOE BCT program."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
+subject: "Engineering Drawing"
+subject_code: "ME101"
+faculty: "Computer Engineering"
+faculty-code: "BCT"
+lecture: 2
+tutorial: 0
+practical: 4
+year: 'I'
+part: 'I'
 ---
 
 ## References

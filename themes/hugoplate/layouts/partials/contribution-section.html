@@ -1,14 +1,36 @@
 {{ $subject := .Title }}
+{{ if .Params.subject }}
+  {{ $subject = .Params.subject }}
+{{ end }}
 {{ $filePath := .File.Path }}
 {{ $relativePath := replace $filePath "\\" "/" }}
 {{ $relativePath = replace $relativePath "content/english/syllabus/" "" }}
 {{ $githubLink := printf "https://github.com/ioenotes/ioenotes/blob/main/content/english/%s" $relativePath }}
 
-<div class="mt-12 p-6 bg-light dark:bg-darkmode-light rounded-lg">
-  <h3 class="h4 mb-4">Contributions Welcome</h3>
-  <p class="mb-4">If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general <a href="https://github.com/ioenotes/ioenotes" class="text-primary dark:text-darkmode-primary !underline decoration-2">contribution page on GitHub</a>. For syllabus-specific updates, you can directly access the <a href="https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus" class="text-primary dark:text-darkmode-primary !underline decoration-2">syllabus content folder</a>.</p>
-  
-  <p>For updates specific to this <strong>{{ $subject }}</strong> page, you can <a href="{{ $githubLink }}" class="text-primary dark:text-darkmode-primary underline">suggest an edit directly on GitHub</a>.</p>
-  
-  <p class="mt-4 text-sm text-text-light dark:text-darkmode-text-light">Your help is invaluable in keeping this resource beneficial for all students!</p>
-</div> 
+<div class="bg-gradient-to-br from-body via-light/70 to-white dark:from-darkmode-body dark:via-darkmode-light/70 dark:to-darkmode-light rounded-2xl border border-border dark:border-darkmode-border shadow-sm p-8">
+  <div class="flex items-center mb-4">
+    <span class="inline-flex items-center justify-center w-12 h-12 rounded-full bg-primary/10 dark:bg-darkmode-primary/20 mr-4">
+      <svg class="w-7 h-7 text-primary dark:text-darkmode-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 20h9" />
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16.5 3.5a2.121 2.121 0 113 3L7 19.5H3v-4L16.5 3.5z" />
+      </svg>
+    </span>
+    <h3 class="text-2xl font-bold text-text-dark dark:text-darkmode-text-dark tracking-tight">Contributions Welcome</h3>
+  </div>
+  <div class="space-y-4 text-text-light dark:text-darkmode-text-light">
+    <p>
+      If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general
+      <a href="https://github.com/ioenotes/ioenotes" class="font-semibold text-primary dark:text-darkmode-primary hover:underline">contribution page on GitHub</a>.
+      For syllabus-specific updates, you can directly access the
+      <a href="https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus" class="font-semibold text-primary dark:text-darkmode-primary hover:underline">syllabus content folder</a>.
+    </p>
+    <div>
+      <a href="{{ $githubLink }}" class="inline-block px-4 py-2 rounded-lg bg-primary text-white dark:bg-darkmode-primary dark:text-darkmode-body font-semibold shadow hover:bg-primary/90 dark:hover:bg-darkmode-primary/80 transition">
+        Suggest an edit for <span class="font-bold">{{ $subject }}</span> on GitHub
+      </a>
+    </div>
+    <p class="text-xs text-text-light dark:text-darkmode-text-light mt-2">
+      Your help is invaluable in keeping this resource beneficial for all students!
+    </p>
+  </div>
+</div>

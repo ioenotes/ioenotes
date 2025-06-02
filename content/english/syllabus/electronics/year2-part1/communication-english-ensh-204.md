@@ -1,15 +1,21 @@
 ---
-title: "Communication English (ENSH 204) - BEI II/I Syllabus"
+title: "Communication English - BEI II/I Syllabus"
+meta_title: "Syllabus: Communication English (ENSH 204) - BEI Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Communication English (ENSH 204), a second year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics Engineering"]
+subject: "Communication English"
+subject_code: "ENSH 204"
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 3
+tutorial: 0
+practical: 1
+year: 'II'
+part: 'I'
 ---
 
-**Lecture**: 3  
-**Tutorial**: 0  
-**Practical**: 1  
-**Year**: II  
-**Part**: I  
 
 ### Course Objectives
 The general objective of this course is to focus on English as a communication tool. Specifically, it emphasizes using English for professional communication for engineering works. It aims to increase English language ability to use appropriate research formats and methodology, develop concept papers, prepare research proposals and abstracts, set research questions, write a literature review, determine a research gap, link ideas, write technical proposals, prepare formal and informal reports and engage in project works, seminars/conferences.

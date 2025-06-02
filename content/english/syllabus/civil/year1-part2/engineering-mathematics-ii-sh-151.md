@@ -1,17 +1,20 @@
 ---
-title: "Engineering Mathematics II (SH151) - Civil I/II Syllabus"
+title: "Engineering Mathematics II - Civil I/II Syllabus"
 meta_title: "Syllabus: Engineering Mathematics II (SH151) - Civil Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Engineering Mathematics II (SH151), a first year, second part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
+subject: "Engineering Mathematics II"
+subject_code: "SH151"
+faculty: "Civil Engineering"
+faculty-code: "BCE"
+lecture: 3
+tutorial: 1
+practical: 0
+year: 'I'
+part: 'II'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 0  
-**Year**: I  
-**Part**: II  
 
 ## Course Objectives
 
@@ -115,4 +118,4 @@ There shall be related tutorials exercised in class and given as regular homewor
 3. Kreyszig, A., (2010). *Advanced engineering Mathematics*, John Wiley & Sons.  
 4. Sastry S.S., (2008). *Engineering Mathematics vol I and II*, PHI Learning Private Limited, New Delhi.  
 5. Wylie C., Barrett L.(1995). *Advanced Engineering Mathematics*, McGraw-Hill.  
-6. Dutta, Debashis, (2005). *Engineering Mathematics Vol I and II*, New Age International (p) Limited.  
+6. Dutta, Debashis, (2005). *Engineering Mathematics Vol I and II*, New Age International (p) Limited.

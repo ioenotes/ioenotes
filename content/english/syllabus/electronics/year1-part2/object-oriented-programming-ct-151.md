@@ -1,15 +1,20 @@
 ---
-title: "Object Oriented Programming (CT 151) - BEI I/II Syllabus"
-description: "Detailed syllabus for Object Oriented Programming (CT 151), a first year, second part subject in the IOE BEI program."
+title: "Object Oriented Programming - BEI I/II Syllabus"
+meta_title: "Syllabus: Object Oriented Programming (CT151) - BEI Year 1 Part 2 | IOE Notes"
+description: "Detailed syllabus for Object Oriented Programming (CT151), a first year, second part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics, Communication and Information Engineering"]
+subject: "Object Oriented Programming"
+subject_code: "CT151"
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 3
+tutorial: 1
+practical: 3
+year: 'I'
+part: 'II'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3  
-**Year**: I  
-**Part**: II  
 
 ### Course Objectives
 To provide students with foundation in understanding and applying principles of object oriented programming. Emphasis will be given on developing object oriented programming skills using C++.

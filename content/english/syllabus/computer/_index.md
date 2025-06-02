@@ -12,23 +12,19 @@ Below, you will find links to the detailed syllabus for programs offered under t
 
 ### Bachelor of Computer Engineering (BCT) Program Syllabus
 
-Please select the respective year and part to view or download the detailed syllabus.
+Please select the respective year and part to view the detailed syllabus.
 
-*   [BCT First Year - Part I Syllabus](/syllabus/computer/year1-part1/)
+<!-- *   [BCT First Year - Part I Syllabus](/syllabus/computer/year1-part1/)
 *   [BCT First Year - Part II Syllabus](/syllabus/computer/year1-part2/)
 *   [BCT Second Year - Part I Syllabus](/syllabus/computer/year2-part1/)
-*   [BCT Second Year - Part II Syllabus](/syllabus/computer/year2-part2/)
-*   [BCT Third Year - Part I Syllabus](/syllabus/computer/year3-part1/)
-*   [BCT Third Year - Part I Syllabus](/syllabus/computer/year3-part1/)
-*   [BCT Third Year - Part II Syllabus](/syllabus/computer/year3-part2/)
-*   [BCT Fourth Year - Part I Syllabus](/syllabus/computer/year4-part1/)
-*   [BCT Fourth Year - Part II Syllabus](/syllabus/computer/year4-part2/)
+*   [BCT Second Year - Part II Syllabus](/syllabus/computer/year2-part2/) -->
+
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+{{< semester-card link="/syllabus/computer/year1-part1" icon="fa-regular fa-calendar" title="BCT [I/I]" stat_label="View Syllabus" >}}
+{{< semester-card link="/syllabus/computer/year1-part2" icon="fa-regular fa-calendar" title="BCT [I/II]" stat_label="View Syllabus" >}}
+{{< semester-card link="/syllabus/computer/year2-part1" icon="fa-regular fa-calendar" title="BCT [II/I]" stat_label="View Syllabus" >}}
+{{< semester-card link="/syllabus/computer/year2-part2" icon="fa-regular fa-calendar" title="BCT [II/II]" stat_label="View Syllabus" >}}
+</div>
 
 **Note on Syllabus Structure:**
 Engineering programs at IOE, including BCT, typically span multiple academic years, each divided into two parts (Part I and Part II), corresponding to semesters. Each link above should lead to a page detailing the subjects for that specific year and part of the BCT program.
-
-**Accuracy and Updates:**
-We strive to keep this information accurate and up-to-date. The syllabus is subject to revisions by IOE. Always cross-reference with official IOE announcements or your department for the most current version.
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute, please visit our general contribution page on GitHub. For syllabus-specific updates, you can directly access the syllabus content folder. Your help is invaluable in keeping this resource beneficial for all students!

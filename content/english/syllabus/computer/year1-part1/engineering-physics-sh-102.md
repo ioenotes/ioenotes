@@ -1,17 +1,20 @@
 ---
-title: "Engineering Physics (SH102) - BCT I/I Syllabus"
+title: "Engineering Physics - BCT I/I Syllabus"
 meta_title: "Syllabus: Engineering Physics (SH102) - BCT Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Engineering Physics (SH102), a first year, first part subject in the IOE BCT program."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
+subject: "Engineering Physics"
+subject_code: "SH102"
+faculty: "Computer Engineering"
+faculty-code: "BCT"
+lecture: 4
+tutorial: 1
+practical: 2
+year: 'I'
+part: 'I'
 ---
-
-**Lecture**: 4  
-**Tutorial**: 1  
-**Practical**: 2  
-**Year**: I  
-**Part**: I  
 
 ## Course Objectives
 

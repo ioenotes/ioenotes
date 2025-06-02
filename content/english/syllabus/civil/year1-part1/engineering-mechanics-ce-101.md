@@ -1,17 +1,21 @@
 ---
-title: "Engineering Mechanics (CE101) - Civil I/I Syllabus"
+title: "Engineering Mechanics - Civil I/I Syllabus"
 meta_title: "Syllabus: Engineering Mechanics (CE101) - Civil Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Engineering Mechanics (CE101), a first year, first part subject in the IOE Civil Engineering program. Covers statics, dynamics, forces, friction, beams, trusses, and motion analysis."
 draft: false
-image: "/images/syllabus/bct-syllabus.jpg"
-tags: ["Civil", "Engineering", "Mechanics"]
+image: "/images/syllabus/civil-syllabus.jpg"
+tags: ["Civil", "Civil Engineering"]
+subject: "Engineering Mechanics"
+subject_code: "CE101"
+faculty: "Civil Engineering"
+faculty-code: "BCE"
+lecture: 4
+tutorial: 2
+practical: 0
+year: 'I'
+part: 'I'
 ---
 
-**Lecture**: 4  
-**Tutorial**: 2  
-**Practical**: 0  
-**Year**: I  
-**Part**: I  
 
 ## Course Objectives
 
@@ -167,4 +171,4 @@ There shall be related tutorials exercised in class and given as regular homewor
 9. Shame, I.H. (2010). *Engineering Mechanics- Statics and Dynamics*. Prentice Hall of India, New Delhi.  
 10. Anand, D.K., & Cunnif, P.F. (2010). *Engineering Mechanics- Statics and Dynamics*.  
 11. Khurmi, R.S. (2010). *A Text Book of Engineering Mechanics*.  
-12. Popov, E.P. (2010). *Engineering Mechanics of Solids*. New Delhi: Prentice Hall of India.  
+12. Popov, E.P. (2010). *Engineering Mechanics of Solids*. New Delhi: Prentice Hall of India.

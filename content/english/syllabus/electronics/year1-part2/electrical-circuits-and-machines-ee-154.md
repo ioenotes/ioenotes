@@ -1,15 +1,21 @@
 ---
-title: "Electrical Circuits and Machines (EE154) - BEI I/II Syllabus"
+title: "Electrical Circuits and Machines - BEI I/II Syllabus"
+meta_title: "Syllabus: Electrical Circuits and Machines (EE154) - BEI Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Electrical Circuits and Machines (EE154), a first year, second part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics, Communication and Information Engineering"]
+subject: "Electrical Circuits and Machines"
+subject_code: "EE154"
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 4
+tutorial: 1
+practical: 3
+year: 'I'
+part: 'II'
 ---
 
-**Lecture**: 4  
-**Tutorial**: 1  
-**Practical**: 3/2  
-**Year**: I  
-**Part**: II  
 
 ### Course Objectives
 To develop a comprehensive understanding of electric circuit theory and analysis techniques, alongside the principles and operation of electric machines including transformers, DC, and AC machines.
@@ -186,4 +192,4 @@ To develop a comprehensive understanding of electric circuit theory and analysis
 | 9   | 9        | 6              | 6     |
 |     | **Total**| **60**         | **60**|
 
-*There may be minor deviation in marks distribution.* 
+*There may be minor deviation in marks distribution.*

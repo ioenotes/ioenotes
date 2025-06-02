@@ -64,8 +64,8 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 [metadata]
 keywords = ["Engineering", "Nepal", "IOE", "Education"]
 description = "🎓 Empowering Nepal’s engineering students with organized, reliable, and essential study resources."
-author = "zeon.studio"
-twitter = "zeon_studio"
+author = "ioenotes"
+twitter = "x.com/ioenotes"
 image = "images/og-image.png"
 
 

@@ -1,17 +1,21 @@
 ---
-title: "Engineering Physics (SH152) - Civil I/II Syllabus"
+title: "Engineering Physics - Civil I/II Syllabus"
 meta_title: "Syllabus: Engineering Physics (SH152) - Civil Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Engineering Physics (SH152), a first year, second part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
+subject: "Engineering Physics"
+subject_code: "SH152"
+faculty: "Civil Engineering"
+faculty-code: "BCE"
+lecture: 4
+tutorial: 1
+practical: 2
+year: 'I'
+part: 'II'
 ---
 
-**Lecture**: 4  
-**Tutorial**: 1  
-**Practical**: 2  
-**Year**: I  
-**Part**: II  
 
 ## Course Objectives
 
@@ -268,4 +272,4 @@ There shall be related tutorials exercises in class and given as regular homewor
 5. Caur R. K. and Gupta, S. L., (1993). *Engineering Physics*, Dhanpat Publisher.  
 6. Brij Lal and Subrahmanyam, (1985). *Waves and Oscillation*, S. Chand publisher.  
 7. Brij Lal and Subrahmanyam, (2001). *Heat and Thermodynamics*, S. Chand publisher.  
-8. Avadhanulu, Kshirsaga and Arun Murthy, (2018). *A text Book of Engineering Physics*, S. Chand publisher.  
+8. Avadhanulu, Kshirsaga and Arun Murthy, (2018). *A text Book of Engineering Physics*, S. Chand publisher.

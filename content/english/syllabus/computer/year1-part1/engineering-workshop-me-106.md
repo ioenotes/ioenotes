@@ -1,17 +1,20 @@
 ---
-title: "Engineering Workshop (ME106) - BCT I/I Syllabus"
+title: "Engineering Workshop - BCT I/I Syllabus"
 meta_title: "Syllabus: Engineering Workshop (ME106) - BCT Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Engineering Workshop (ME106), a first year, first part subject in the IOE BCT program. Covers workshop safety, bench work, machine tools, and various manufacturing processes."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
+subject: "Engineering Workshop"
+subject_code: "ME106"
+faculty: "Computer Engineering"
+faculty-code: "BCT"
+lecture: 1
+tutorial: 0
+practical: 3
+year: 'I'
+part: 'I'
 ---
-
-**Lecture**: 1  
-**Tutorial**: 0  
-**Practical**: 3  
-**Year**: I  
-**Part**: I  
 
 ## Course Objectives
 

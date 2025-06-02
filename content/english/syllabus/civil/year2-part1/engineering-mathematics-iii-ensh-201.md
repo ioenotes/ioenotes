@@ -1,17 +1,20 @@
 ---
-title: "Engineering Mathematics III (ENSH 201) - Civil II/I Syllabus"
+title: "Engineering Mathematics III - Civil II/I Syllabus"
 meta_title: "Syllabus: Engineering Mathematics III (ENSH 201) - Civil Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Engineering Mathematics III (ENSH 201), a second year, first part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
-tags: ["Civil", "Civil Engineering", "Mathematics"]
+tags: ["Civil", "Civil Engineering"]
+subject: "Engineering Mathematics III"
+subject_code: "ENSH 201"
+faculty: "Civil Engineering"
+faculty-code: "BCE"
+lecture: 3
+tutorial: 2
+practical: 0
+year: 'II'
+part: 'I'
 ---
-
-**Lecture**: 3 hours  
-**Tutorial**: 2 hours  
-**Practical**: 0 hours  
-**Year**: II  
-**Part**: I
 
 ## Course Objectives
 

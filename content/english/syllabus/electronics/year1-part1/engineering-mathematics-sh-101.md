@@ -1,15 +1,21 @@
 ---
-title: "Engineering Mathematics I (SH101) - BEI I/I Syllabus"
+title: "Engineering Mathematics I - BEI I/I Syllabus"
+meta_title: "Syllabus: Engineering Mathematics I (SH101) - BEI Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Engineering Mathematics I (SH101), a first year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics, Communication and Information Engineering"]
+subject: "Engineering Mathematics I"
+subject_code: "SH101"
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 3
+tutorial: 2
+practical: 0
+year: 'I'
+part: 'I'
 ---
 
-**Lecture**: 3  
-**Tutorial**: 2  
-**Practical**: 0  
-**Year**: I  
-**Part**: I  
 
 ### Course Objectives
 To equip the students with the essential mathematical skills and techniques that are relevant to the engineering fields and enable them to solve engineering problems using mathematical methods.
@@ -93,4 +99,4 @@ There shall be related tutorials exercised in class and given as regular homewor
 | 5   | Three Dimensional Geometry              | 10             | 12    |
 |     | **Total**                               | **45**         | **60**|
 
-*There may be minor deviation in mark distribution.* 
+*There may be minor deviation in mark distribution.*

@@ -22,9 +22,9 @@ features:
       - "Easy-to-navigate and mobile-friendly interface"
       - "**Completely free** for all students"
     button:
-      enable: false
-      label: "Learn More"
-      link: "#"
+      enable: true
+      label: "Visit Syllabus"
+      link: "/syllabus"
 
   - title: "Key Benefits for Your Study Success"
     image: "/images/service-2.png"
@@ -36,8 +36,8 @@ features:
       - "Access resources anytime, anywhere."
     button:
       enable: true
-      label: "Browse Subjects"
-      link: "/subjects" # Adjust this link to your subjects/categories page
+      label: "Browse Faculties"
+      link: "/syllabus" # Adjust this link to your subjects/categories page
 
   - title: "Why Choose IOE Notes?"
     image: "/images/service-3.png"

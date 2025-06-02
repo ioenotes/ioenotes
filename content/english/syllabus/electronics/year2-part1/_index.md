@@ -10,14 +10,45 @@ Welcome to the syllabus section for the Bachelor of Electronics, Communication &
 Below, you will find the curriculum details organized by academic year and part/semester. Understanding your syllabus is key to effective study planning and academic success.
 
 ### BEI Syllabus Second Year - Part I
+<!-- 1. [Engineering Mathematics III (ENSH 201)](engineering-mathematics-iii-ensh-201)
+2. [Communication English (ENSH 204)](communication-english-ensh-204)
+3. [Computer Graphics and Visualization (ENCT 201)](computer-graphics-and-visualization-enct-201)
+4. [Microprocessors (ENEX 201)](microprocessors-enex-201)
+5. [Advanced Electronics (ENEX 202)](advanced-electronics-enex-202)
+6. [Control System (ENEE 204)](control-system-enee-204) -->
 
-- **Subjects:**
-    1. [Engineering Mathematics III (ENSH 201)](engineering-mathematics-iii-ensh-201)
-    2. [Communication English (ENSH 204)](communication-english-ensh-204)
-    3. [Computer Graphics and Visualization (ENCT 201)](computer-graphics-and-visualization-enct-201)
-    4. [Microprocessors (ENEX 201)](microprocessors-enex-201)
-    5. [Advanced Electronics (ENEX 202)](advanced-electronics-enex-202)
-    6. [Control System (ENEE 204)](control-system-enee-204)
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-6">
+{{< subject-card 
+    subject="Engineering Mathematics III"
+    code="ENSH 201"
+    link="/syllabus/electronics/year2-part1/engineering-mathematics-iii-ensh-201"   
+>}}
+{{< subject-card 
+    subject="Communication English"
+    code="ENSH 204"
+    link="/syllabus/electronics/year2-part1/communication-english-ensh-204"
+>}}
+{{< subject-card 
+    subject="Computer Graphics and Visualization"
+    code="ENCT 201"
+    link="/syllabus/electronics/year2-part1/computer-graphics-and-visualization-enct-201"
+>}}
+{{< subject-card 
+    subject="Microprocessors"
+    code="ENEX 201"
+    link="/syllabus/electronics/year2-part1/microprocessors-enex-201"
+>}}
+{{< subject-card 
+    subject="Advanced Electronics"  
+    code="ENEX 202"
+    link="/syllabus/electronics/year2-part1/advanced-electronics-enex-202"
+>}}
+{{< subject-card 
+    subject="Control System"
+    code="ENEE 204" 
+    link="/syllabus/electronics/year2-part1/control-system-enee-204"
+>}}
+</div>  
 
 #### Teaching Schedule & Examination Scheme
 
@@ -41,15 +72,4 @@ Below, you will find the curriculum details organized by academic year and part/
 ---
 
 **Note on Syllabus Structure:**
-The BEI program typically spans four academic years, each divided into two parts (Part I and Part II), which correspond to semesters.
-
-**Placeholder Links:**
-The links provided above (e.g., `/syllabus/electronics/year2-part1/`) are placeholders. You will need to update these with the actual URLs to your specific BEI syllabus pages or documents once they are created. Each link should ideally lead to a page detailing the subjects, credit hours, and examination schemes for that particular part/semester.
-
-**Accuracy and Updates:**
-We strive to keep this information accurate and up-to-date. The syllabus is subject to revisions by IOE. Always cross-reference with official IOE announcements or your department for the most current version.
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!
-
-For updates specific to this BEI Year II, Part I Syllabus page, you can [suggest an edit directly on GitHub](https://github.com/ioenotes/ioenotes/blob/main/themes/hugoplate/content/english/syllabus/electronics/year2-part1/_index.md).
+The BEI program spans four academic years, each divided into two parts (Part I and Part II), which correspond to semesters.

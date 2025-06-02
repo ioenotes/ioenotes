@@ -19,6 +19,44 @@ This page contains the complete syllabus, teaching schedule, and examination sch
 - [Engineering Mathematics III (ENSH 201)](/syllabus/civil/year2-part1/engineering-mathematics-iii-ensh-201)
 - [Numerical Methods (ENSH 202)](/syllabus/civil/year2-part1/numerical-methods-ensh-202)
 
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-6">
+{{< subject-card 
+    subject="Fluid Mechanics"
+    code="ENCE 201"
+    link="/syllabus/civil/year2-part1/fluid-mechanics-ence-201"
+>}}
+{{< subject-card 
+    subject="Theory of Structures I"
+    code="ENCE 202"
+    link="/syllabus/civil/year2-part1/theory-of-structures-i-ence-202"
+>}}
+{{< subject-card 
+    subject="Engineering Survey II"
+    code="ENCE 203"
+    link="/syllabus/civil/year2-part1/engineering-survey-ii-ence-203"
+>}}
+{{< subject-card 
+    subject="Computer Aided Civil Drawing"
+    code="ENCE 204"
+    link="/syllabus/civil/year2-part1/computer-aided-civil-drawing-ence-204"
+>}}
+{{< subject-card 
+    subject="Concrete Technology"
+    code="ENCE 205"
+    link="/syllabus/civil/year2-part1/concrete-technology-ence-205"
+>}}
+{{< subject-card 
+    subject="Engineering Mathematics III"
+    code="ENSH 201"
+    link="/syllabus/civil/year2-part1/engineering-mathematics-iii-ensh-201"
+>}}
+{{< subject-card 
+    subject="Numerical Methods"
+    code="ENSH 202"
+    link="/syllabus/civil/year2-part1/numerical-methods-ensh-202"
+>}}
+</div>
+
 ### Teaching & Examination Schedule
 
 | Course Code | Course Title | Credits | L | T | P | Total | Theory Assessment/Final | Practical Assessment/Final | Grand Total |
@@ -49,16 +87,3 @@ This page contains the complete syllabus, teaching schedule, and examination sch
 2. Each subject includes detailed course objectives, topics, and references.
 3. Practical sessions are mandatory and must be completed to pass the course.
 4. Tutorial sessions are designed to help students understand theoretical concepts better.
-
-#### Contribution Guidelines
-
-If you find any discrepancies or have updated syllabus documents, please contribute to this repository. Your help is invaluable in keeping this resource beneficial for all students!
-
-- [Report an issue](https://github.com/ioenotes/ioenotes/issues)
-- [Suggest an edit](https://github.com/ioenotes/ioenotes/edit/main/content/english/syllabus/civil/year2-part1/_index.md)
-- [View all syllabi](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus)
-
----
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!

@@ -1,17 +1,20 @@
 ---
-title: "Engineering Mathematics III (ENSH201) - BCT II/I Syllabus"
+title: "Engineering Mathematics III - BCT II/I Syllabus"
 meta_title: "Syllabus: Engineering Mathematics III (ENSH201) - BCT Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Engineering Mathematics III (ENSH201), a second year, first part subject in the IOE BCT program. Covers complex analysis, differential equations, and numerical methods."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
+subject: "Engineering Mathematics III"
+subject_code: "ENSH201"
+faculty: "Computer Engineering"
+faculty-code: "BCT"
+lecture: 3
+tutorial: 2
+practical: 0
+year: 'II'
+part: 'I'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 2  
-**Practical**: 0  
-**Year**: II  
-**Part**: I  
 
 ## Course Objectives
 

@@ -1,17 +1,20 @@
 ---
-title: "Basic Electrical and Electronics Engineering (EE103) - Civil I/I Syllabus"
+title: "Basic Electrical and Electronics Engineering - Civil I/I Syllabus"
 meta_title: "Syllabus: Basic Electrical and Electronics Engineering (EE103) - Civil Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Basic Electrical and Electronics Engineering (EE103), a first year, first part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
+subject: "Basic Electrical and Electronics Engineering"
+subject_code: "EE103"
+faculty: "Civil Engineering"
+faculty-code: "BCE"
+lecture: 3
+tutorial: 1
+practical: 1.5
+year: 'I'
+part: 'I'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 1.5  
-**Year**: I  
-**Part**: I  
 
 ## Course Objectives
 
@@ -147,4 +150,4 @@ The tutorial sessions will focus on chapter-specific exercises aimed at enhancin
 2. Bhattacharya, S. K. *Basic Electrical and Electronics Engineering I*. Pearson Education India, 2010  
 3. Bakshi, Uday A., and Mayuresh V. Bakshi. *Electrical technology*. Technical Publications, 2020  
 4. Floyd, Thomas L. *Digital fundamentals*, 10/e. Pearson Education India, 2011  
-5. Neidle, Michael. *Electrical installation technology*. Elsevier, 2016  
+5. Neidle, Michael. *Electrical installation technology*. Elsevier, 2016

@@ -1,17 +1,20 @@
 ---
-title: "Engineering Mathematics II (SH151) - BCT I/II Syllabus"
+title: "Engineering Mathematics II - BCT I/II Syllabus"
 meta_title: "Syllabus: Engineering Mathematics II (SH151) - BCT Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Engineering Mathematics II (SH151), a first year, second part subject in the IOE BCT program."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
+subject: "Engineering Mathematics II"
+subject_code: "SH151"
+faculty: "Computer Engineering"
+faculty-code: "BCT"
+lecture: 3
+tutorial: 2
+practical: 0
+year: 'I'
+part: 'II'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 2  
-**Practical**: 0  
-**Year**: I  
-**Part**: II  
 
 ## Course Objectives
 

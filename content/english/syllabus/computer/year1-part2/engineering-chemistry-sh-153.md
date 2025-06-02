@@ -1,17 +1,20 @@
 ---
-title: "Engineering Chemistry (SH153) - BCT I/II Syllabus"
+title: "Engineering Chemistry - BCT I/II Syllabus"
 meta_title: "Syllabus: Engineering Chemistry (SH153) - BCT Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Engineering Chemistry (SH153), a first year, second part subject in the IOE BCT program."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
+subject: "Engineering Chemistry"
+subject_code: "SH153"
+faculty: "Computer Engineering"
+faculty-code: "BCT"
+lecture: 3
+tutorial: 1
+practical: 3
+year: 'I'
+part: 'II'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3  
-**Year**: I  
-**Part**: II  
 
 ## Course Objectives
 

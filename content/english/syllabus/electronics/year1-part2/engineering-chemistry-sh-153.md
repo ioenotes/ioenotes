@@ -1,16 +1,20 @@
 ---
-title: "Engineering Chemistry (SH 153) - BEI I/II Syllabus"
-description: "Detailed syllabus for Engineering Chemistry (SH 153), a first year, second part subject in the IOE BEI program."
+title: "Engineering Chemistry - BEI I/II Syllabus"
+meta_title: "Syllabus: Engineering Chemistry (SH153) - BEI Year 1 Part 2 | IOE Notes"
+description: "Detailed syllabus for Engineering Chemistry (SH153), a first year, second part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics, Communication and Information Engineering"]
+subject: "Engineering Chemistry"
+subject_code: "SH153"
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 3
+tutorial: 1
+practical: 3
+year: 'I'
+part: 'II'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3  
-**Year**: I  
-**Part**: II  
-
 ### Course Objectives
 To develop the basic concepts of physical chemistry, inorganic chemistry, analytical chemistry, environmental chemistry, green & sustainable chemistry, nano chemistry, polymer chemistry and organic chemistry relevant to the different disciplines of engineering.
 

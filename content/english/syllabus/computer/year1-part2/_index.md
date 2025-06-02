@@ -13,17 +13,45 @@ This page contains the complete syllabus for the Bachelor of Computer Engineerin
 
 ## Subjects
 
-1. [Engineering Mathematics II (SH151)](engineering-mathematics-sh-151) 
+<!-- - [Engineering Mathematics II (SH151)](engineering-mathematics-sh-151) 
+- [Object Oriented Programming (CT151)](object-oriented-programming-ct-151)  
+- [Digital Logic (EX152)](digital-logic-ex-152)  
+- [Electronic Devices and Circuits (EX151)](electronic-devices-and-circuits-ex-151) 
+- [Electrical Circuits and Machines (EE154)](electrical-circuits-and-machines-ee-154)  
+- [Engineering Chemistry (SH153)](engineering-chemistry-sh-153)   -->
 
-2. [Object Oriented Programming (CT151)](object-oriented-programming-ct-151)  
-
-3. [Digital Logic (EX152)](digital-logic-ex-152)  
-
-4. [Electronic Devices and Circuits (EX151)](electronic-devices-and-circuits-ex-151) 
-
-5. [Electrical Circuits and Machines (EE154)](electrical-circuits-and-machines-ee-154)  
-
-6. [Engineering Chemistry (SH153)](engineering-chemistry-sh-153)  
+<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 gap-6">
+{{< subject-card 
+    subject="Engineering Mathematics II"
+    code="SH151"
+    link="/syllabus/computer/year1-part2/engineering-mathematics-sh-151"
+>}}
+{{< subject-card 
+    subject="Object Oriented Programming"
+    code="CT151"
+    link="/syllabus/computer/year1-part2/object-oriented-programming-ct-151"
+>}}
+{{< subject-card 
+    subject="Digital Logic"
+    code="EX152"
+    link="/syllabus/computer/year1-part2/digital-logic-ex-152"
+>}}
+{{< subject-card 
+    subject="Electronic Device and Circuits"
+    code="EX151"
+    link="/syllabus/computer/year1-part2/electronic-devices-and-circuits-ex-151"
+>}}
+{{< subject-card 
+    subject="Electrical Circuits and Machines"
+    code="EE154"
+    link="/syllabus/computer/year1-part2/electrical-circuits-and-machines-ee-154"
+>}}
+{{< subject-card
+    subject="Engineering Chemistry"
+    code="SH153"
+    link="/syllabus/computer/year1-part2/engineering-chemistry-sh-153"
+>}}
+</div>
   
 ## Teaching & Examination Schedule
 
@@ -48,20 +76,3 @@ This page contains the complete syllabus for the Bachelor of Computer Engineerin
 1. Each subject has its own detailed syllabus page with complete course content, practical exercises, and references.
 2. The teaching schedule may vary slightly depending on the college and academic calendar.
 3. Students are advised to check with their respective departments for any updates or changes to the syllabus.
-
-## Contribution Guidelines
-
-We welcome contributions to improve the syllabus content. If you find any discrepancies or have suggestions for improvement, please:
-
-1. Visit our [contribution page on GitHub](https://github.com/ioenotes/ioenotes)
-2. Check the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus)
-3. Submit your changes through a pull request
-
-Your contributions help maintain the accuracy and relevance of this resource for all students.
-
----
-
-**Contributions Welcome:**
-If you find any discrepancies, have updated syllabus documents, or wish to contribute in any other way, please visit our general [contribution page on GitHub](https://github.com/ioenotes/ioenotes). For syllabus-specific updates, you can directly access the [syllabus content folder](https://github.com/ioenotes/ioenotes/tree/main/content/english/syllabus). Your help is invaluable in keeping this resource beneficial for all students!
-
-For updates specific to this index page, you can [suggest an edit directly on GitHub](https://github.com/ioenotes/ioenotes/blob/main/content/english/syllabus/computer/year1-part2/_index.md). Your help is invaluable in keeping this resource beneficial for all students!

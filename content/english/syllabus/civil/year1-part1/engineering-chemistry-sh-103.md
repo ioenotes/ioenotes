@@ -1,17 +1,20 @@
 ---
-title: "Engineering Chemistry (SH103) - Civil I/I Syllabus"
+title: "Engineering Chemistry - Civil I/I Syllabus"
 meta_title: "Syllabus: Engineering Chemistry (SH103) - Civil Year 1 Part 1 | IOE Notes"
 description: "Detailed syllabus for Engineering Chemistry (SH103), a first year, first part subject in the IOE Civil Engineering program."
 draft: false
 image: "/images/syllabus/civil-syllabus.jpg"
 tags: ["Civil", "Civil Engineering"]
+subject: "Engineering Chemistry"
+subject_code: "SH103"
+faculty: "Civil Engineering"
+faculty-code: "BCE"
+lecture: 3
+tutorial: 1
+practical: 3
+year: 'I'
+part: 'I'
 ---
-
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3  
-**Year**: I  
-**Part**: I  
 
 ## Course Objectives
 

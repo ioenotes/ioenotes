@@ -1,15 +1,21 @@
 ---
-title: "Computer Graphics and Visualization (ENCT 201) - BEI II/I Syllabus"
+title: "Computer Graphics and Visualization - BEI II/I Syllabus"
+meta_title: "Syllabus: Computer Graphics and Visualization (ENCT 201) - BEI Year 2 Part 1 | IOE Notes"
 description: "Detailed syllabus for Computer Graphics and Visualization (ENCT 201), a second year, first part subject in the IOE BEI program."
 draft: false
 image: "/images/syllabus/electronics-syllabus.jpg"
+tags: ["BEI", "Electronics Engineering"]
+subject: "Computer Graphics and Visualization"
+subject_code: "ENCT 201"
+faculty: "Electronics, Communication and Information Engineering"
+faculty-code: "BEI"
+lecture: 3
+tutorial: 1
+practical: 3
+year: 'II'
+part: 'I'
 ---
 
-**Lecture**: 3  
-**Tutorial**: 1  
-**Practical**: 3  
-**Year**: II  
-**Part**: I  
 
 ### Course Objectives
 The objective of this course is to provide basic principles and their applications to computer graphics and visualization. After completion of this course, students will be able to understand geometric transformations and their applications, two-dimensional and three-dimensional object modeling techniques, rendering techniques, animation and get an overview of the latest trends in computer graphics.

@@ -4,6 +4,8 @@ html {
 
 body {
   @apply bg-body text-base dark:bg-darkmode-body font-primary font-normal leading-relaxed text-text dark:text-darkmode-text;
+  font-family: var(--font-primary), Arial, sans-serif;
+  letter-spacing: 0.01em;
 }
 
 h1,
@@ -13,6 +15,8 @@ h4,
 h5,
 h6 {
   @apply font-secondary font-bold leading-tight text-text-dark dark:text-darkmode-text-dark;
+  font-family: var(--font-secondary), Arial, sans-serif;
+  letter-spacing: -0.01em;
 }
 
 h1,
@@ -56,4 +60,14 @@ code {
 
 blockquote > p {
   @apply !my-0;
+}
+
+/* Add modern card shadow and spacing utility */
+.card-modern {
+  border-radius: 1rem;
+  background: #f5f3ef;
+  padding: 2rem;
+}
+.dark .card-modern {
+  background: #1c1c1c;
 }

@@ -1,37 +1,32 @@
-<div class="bg-body dark:bg-darkmode-body">
+<div class="blog-card card-modern group transition-all duration-200 overflow-hidden flex flex-col h-full">
   {{ $image:= .Params.image }}
   {{ if $image }}
-    {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "mb-6 w-full rounded") }}
+    <div class="relative overflow-hidden aspect-[16/9] bg-light dark:bg-darkmode-light">
+      {{ partial "image" (dict "Src" $image "Context" .Page "Alt" .Title "Class" "w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-300") }}
+    </div>
   {{ end }}
-  <h4 class="mb-3">
-    <a href="{{ .RelPermalink }}">
-      {{ .Title }}
-    </a>
-  </h4>
-  {{ $categories:= .Params.categories }}
-  {{ if $categories }}
-    <ul class="mb-4">
-      <li class="mr-4 inline-block">
-        <a href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">
-          <i class="fa-regular fa-circle-user mr-2"></i>{{ .Params.author }}
-        </a>
-      </li>
-      <li class="mr-4 inline-block">
-        <i class="fa-regular fa-folder mr-1"></i>
-        {{ range $i,$p:= $categories }}
-          <a
-            href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}/"
-            class="ms-1"
-            >{{ . | humanize }}{{ if ne $i (sub (len $categories) 1) }}
-              {{ "," }}
+  <div class="flex flex-col flex-grow">
+    <h4 class="mb-3 text-xl font-bold text-text-dark dark:text-darkmode-text-dark group-hover:text-text dark:group-hover:text-darkmode-text transition-colors duration-200">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h4>
+    <p class="mb-4 text-base text-text-light dark:text-darkmode-text-light line-clamp-3">{{ .Summary | plainify }}</p>
+    <div class="mt-auto flex items-center justify-between">
+      <div class="flex items-center space-x-2">
+        {{ $categories:= .Params.categories }}
+        {{ if $categories }}
+          <span class="text-sm text-text-light dark:text-darkmode-text-light">
+            {{ range $i,$p:= $categories }}
+              <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}/" class="hover:text-text dark:hover:text-darkmode-text">{{ . | humanize }}</a>{{ if ne $i (sub (len $categories) 1) }}, {{ end }}
             {{ end }}
-          </a>
+          </span>
         {{ end }}
-      </li>
-    </ul>
-  {{ end }}
-  <p class="mb-6">{{ .Summary | plainify }}</p>
-  <a class="btn btn-outline-primary btn-sm" href="{{ .RelPermalink }}">
-    {{ T "read_more" }}
-  </a>
+      </div>
+      <a class="inline-flex items-center gap-1 px-4 py-2 rounded-lg bg-light dark:bg-darkmode-light text-text-dark dark:text-darkmode-text-dark text-sm font-medium hover:bg-text dark:hover:bg-darkmode-text hover:text-body dark:hover:text-darkmode-body transition-colors duration-200" href="{{ .RelPermalink }}">
+        {{ T "read_more" }}
+        <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+        </svg>
+      </a>
+    </div>
+  </div>
 </div>

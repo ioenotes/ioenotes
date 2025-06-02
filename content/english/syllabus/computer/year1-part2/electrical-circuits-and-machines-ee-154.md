@@ -1,17 +1,20 @@
 ---
-title: "Electrical Circuits and Machines (EE154) - BCT I/II Syllabus"
+title: "Electrical Circuits and Machines - BCT I/II Syllabus"
 meta_title: "Syllabus: Electrical Circuits and Machines (EE154) - BCT Year 1 Part 2 | IOE Notes"
 description: "Detailed syllabus for Electrical Circuits and Machines (EE154), a first year, second part subject in the IOE BCT (Bachelor of Computer Engineering) program. Covers electric circuit theory, analysis techniques, and electric machines."
 draft: false
 image: "/images/syllabus/bct-syllabus.jpg"
 tags: ["BCT", "Computer Engineering"]
+subject: "Electrical Circuits and Machines"
+subject_code: "EE154"
+faculty: "Computer Engineering"
+faculty-code: "BCT"
+lecture: 4
+tutorial: 1
+practical: 3
+year: 'I'
+part: 'II'
 ---
-
-**Lecture**: 4  
-**Tutorial**: 1  
-**Practical**: 3/2  
-**Year**: I  
-**Part**: II  
 
 ## Course Objectives
 
